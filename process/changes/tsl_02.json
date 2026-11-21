@@ -1,0 +1,136 @@
+[
+ {
+  "headword": "contractor",
+  "field": "glosses",
+  "before": [
+   "請負業者",
+   "契約者"
+  ],
+  "after": [
+   "請負業者",
+   "工事業者"
+  ],
+  "reason": "「契約者」は日本語では加入者・利用契約者の意味に取られやすく、contractor の主要な意味（工事などの請負業者）とずれるため"
+ },
+ {
+  "headword": "stadium",
+  "field": "example.ja",
+  "before": "決勝戦には何千人ものファンが競技場を埋め尽くしました。",
+  "after": "決勝戦では、何千人ものファンが競技場を埋め尽くしました。",
+  "reason": "「決勝戦には〜を埋め尽くしました」は助詞のつながりが不自然なため"
+ },
+ {
+  "headword": "refreshment",
+  "field": "glossShort",
+  "before": "軽食",
+  "after": "軽い飲食物",
+  "reason": "定義（food and drink）どおり飲み物も含む訳にし、snack など「軽食」と訳す語と4択で区別しやすくするため"
+ },
+ {
+  "headword": "refreshment",
+  "field": "glosses",
+  "before": [
+   "軽い飲食物"
+  ],
+  "after": [
+   "軽食と飲み物"
+  ],
+  "reason": "glossShort の変更に合わせ、より具体的な形にしたため"
+ },
+ {
+  "headword": "refreshment",
+  "field": "example.ja",
+  "before": "発表の後に軽食が用意されます。",
+  "after": "発表の後に軽食と飲み物が用意されます。",
+  "reason": "glossShort（軽い飲食物）と和訳を対応させるため"
+ },
+ {
+  "headword": "spite",
+  "field": "example.en",
+  "before": "In spite of the rain, many people came to the event.",
+  "after": "In spite of the high price, the new phone sold well.",
+  "reason": "「In spite of the rain」は教科書の定番例文に近く、著作権上の疑いを避けるため作り直した"
+ },
+ {
+  "headword": "spite",
+  "field": "example.ja",
+  "before": "雨にもかかわらず、多くの人がイベントに来ました。",
+  "after": "価格が高いにもかかわらず、その新しい携帯電話はよく売れました。",
+  "reason": "例文の作り直しに合わせて和訳を更新"
+ },
+ {
+  "headword": "casual",
+  "field": "glossShort",
+  "before": "形式ばらない",
+  "after": "くだけた",
+  "reason": "例文の和訳（くだけた服装）と対応させ、informal（形式ばらない）など近い語と4択で区別しやすくするため"
+ },
+ {
+  "headword": "casual",
+  "field": "glosses",
+  "before": [
+   "形式ばらない",
+   "何気ない"
+  ],
+  "after": [
+   "くだけた",
+   "何気ない"
+  ],
+  "reason": "glossShort の変更に合わせたため"
+ },
+ {
+  "headword": "housekeeper",
+  "field": "example.ja",
+  "before": "彼らの家の家政婦は、週に2回家を掃除します。",
+  "after": "彼らの家では、家政婦が週に2回掃除をします。",
+  "reason": "「家の家政婦は…家を掃除」と「家」が重なり不自然なため"
+ },
+ {
+  "headword": "frustrate",
+  "field": "glossShort",
+  "before": "挫折させる",
+  "after": "不満を抱かせる",
+  "reason": "定義（to upset someone）とTOEICでの主な用法（frustrated＝不満を感じた）に合わせ、annoy（いらいらさせる）と区別できる訳にした。「挫折させる」は計画をくじく古い用法で定義とずれる"
+ },
+ {
+  "headword": "frustrate",
+  "field": "glosses",
+  "before": [
+   "挫折させる",
+   "いら立たせる"
+  ],
+  "after": [
+   "不満を抱かせる",
+   "計画をくじく"
+  ],
+  "reason": "主な意味を感情の意味にし、計画をくじく意味を2つ目に回したため"
+ },
+ {
+  "headword": "frustrate",
+  "field": "example.en",
+  "before": "The heavy rain frustrated our plans for the weekend trip.",
+  "after": "The long wait at the counter frustrated many customers.",
+  "reason": "感情の意味（不満を抱かせる）で使う例文に作り直した"
+ },
+ {
+  "headword": "frustrate",
+  "field": "example.ja",
+  "before": "大雨のせいで、週末旅行の計画は挫折してしまいました。",
+  "after": "窓口での長い待ち時間に、多くのお客様が不満を抱きました。",
+  "reason": "例文の作り直しに合わせて和訳を更新（「計画は挫折してしまいました」も不自然だった）"
+ },
+ {
+  "headword": "frustrate",
+  "field": "note",
+  "before": "",
+  "after": "frustrated（不満を感じた）の形でよく使う",
+  "reason": "TOEICで頻出の形容詞形を示すため"
+ },
+ {
+  "headword": "flu",
+  "field": "sensitive",
+  "before": null,
+  "after": true,
+  "reason": "病気の名前そのもので、正解時の祝う演出がそぐわないため（検証仕様 第6項）"
+ }
+]

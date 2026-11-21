@@ -1,0 +1,460 @@
+[
+ {
+  "headword": "likewise",
+  "field": "pos",
+  "before": "adj",
+  "after": "adv",
+  "reason": "（生成段階で修正済み・検証で確認）公式posHint「adj」は誤り。in the same way の意味の副詞"
+ },
+ {
+  "headword": "monetary",
+  "field": "glossShort",
+  "before": "金銭上の",
+  "after": "金銭的な",
+  "reason": "monetary value の訳は「金銭的な価値」が自然なため、代表訳と和訳をそろえた"
+ },
+ {
+  "headword": "monetary",
+  "field": "glosses",
+  "before": [
+   "金銭上の、貨幣の",
+   "金融の"
+  ],
+  "after": [
+   "金銭的な、貨幣の",
+   "金融の、通貨の"
+  ],
+  "reason": "代表訳の変更に合わせた。monetary policy／union の意味を補った"
+ },
+ {
+  "headword": "monetary",
+  "field": "example.ja",
+  "before": "その研究は、きれいな空気の金銭上の価値を測定した。",
+  "after": "その研究は、きれいな空気の金銭的な価値を測定した。",
+  "reason": "「金銭上の価値」はやや不自然"
+ },
+ {
+  "headword": "monopoly",
+  "field": "pos",
+  "before": "adv",
+  "after": "noun",
+  "reason": "（生成段階で修正済み・検証で確認）公式posHint「adv」は誤り。定義どおり名詞"
+ },
+ {
+  "headword": "nonetheless",
+  "field": "pos",
+  "before": "adj",
+  "after": "adv",
+  "reason": "（生成段階で修正済み・検証で確認）公式posHint「adj」は誤り。接続的に使う副詞"
+ },
+ {
+  "headword": "overhead",
+  "field": "pos",
+  "before": "adj",
+  "after": "noun",
+  "reason": "学術（経済・経営・情報）では「間接費、余分な負荷」の名詞用法が主。「頭上の」は語の形から推測しやすく学習価値が低い。公式jHintも「間接費」"
+ },
+ {
+  "headword": "overhead",
+  "field": "glossShort",
+  "before": "頭上の",
+  "after": "間接費",
+  "reason": "主な品詞・意味の変更に合わせた"
+ },
+ {
+  "headword": "overhead",
+  "field": "glosses",
+  "before": [
+   "頭上の",
+   "間接費の"
+  ],
+  "after": [
+   "間接費、諸経費",
+   "余分な処理負荷"
+  ],
+  "reason": "名詞の主な意味（経済・情報）に合わせた"
+ },
+ {
+  "headword": "overhead",
+  "field": "example.en",
+  "before": "The overhead lights in the lab were too bright.",
+  "after": "About a third of the research budget goes to overhead.",
+  "reason": "名詞「間接費」の用法を示す研究場面の文に作り直し"
+ },
+ {
+  "headword": "overhead",
+  "field": "example.ja",
+  "before": "研究室の頭上の照明は明るすぎた。",
+  "after": "研究予算の約3分の1は、間接費に充てられる。",
+  "reason": "例文の作り直しに合わせた"
+ },
+ {
+  "headword": "overhead",
+  "field": "note",
+  "before": "名詞で「間接費、諸経費」の意味も",
+  "after": "形容詞・副詞で「頭上の・頭上に」の意味も",
+  "reason": "公式定義（頭上の）の意味を注記に残した"
+ },
+ {
+  "headword": "paradox",
+  "field": "example.en",
+  "before": "The paradox is that more choice can make people less happy.",
+  "after": "The paradox is that cheaper paper cost the library more money.",
+  "reason": "よく知られた「選択のパラドックス」の主張に近く、既存の言説の再現と取られうるため作り直し"
+ },
+ {
+  "headword": "paradox",
+  "field": "example.ja",
+  "before": "逆説的なのは、選択肢が増えると人の幸福感が下がりうることだ。",
+  "after": "逆説的なのは、安い紙の方が図書館にとってかえって高くついたことだ。",
+  "reason": "例文の作り直しに合わせた"
+ },
+ {
+  "headword": "portfolio",
+  "field": "glossShort",
+  "before": "資産の組み合わせ",
+  "after": "資産構成",
+  "reason": "和訳「投資資産の各組み合わせ」が不自然。簡潔な定訳に近い「資産構成」に（TSL側の訳ともそろう）"
+ },
+ {
+  "headword": "portfolio",
+  "field": "glosses",
+  "before": [
+   "資産の組み合わせ、ポートフォリオ",
+   "作品集"
+  ],
+  "after": [
+   "資産構成、ポートフォリオ",
+   "作品集"
+  ],
+  "reason": "代表訳の変更に合わせた"
+ },
+ {
+  "headword": "portfolio",
+  "field": "example.en",
+  "before": "The study compared the risk of each investment portfolio over ten years.",
+  "after": "The study compared the risk of five different portfolios.",
+  "reason": "和訳が自然になるよう簡潔な文に"
+ },
+ {
+  "headword": "portfolio",
+  "field": "example.ja",
+  "before": "その研究は、投資資産の各組み合わせのリスクを10年間にわたって比較した。",
+  "after": "その研究は、5つの異なる資産構成のリスクを比較した。",
+  "reason": "不自然な和訳を修正"
+ },
+ {
+  "headword": "portrayal",
+  "field": "pos",
+  "before": "adj",
+  "after": "noun",
+  "reason": "（生成段階で修正済み・検証で確認）公式posHint「adj」は誤り。定義どおり名詞"
+ },
+ {
+  "headword": "rehabilitation",
+  "field": "example.en",
+  "before": "In the study, most athletes returned to sports after rehabilitation.",
+  "after": "The report compares the cost of rehabilitation programs in three cities.",
+  "reason": "けがからの回復（医療行為）を描く文を、制度・統計の中立的な文脈に変更"
+ },
+ {
+  "headword": "rehabilitation",
+  "field": "example.ja",
+  "before": "その研究では、ほとんどの選手がリハビリの後に競技へ復帰した。",
+  "after": "その報告書は、3つの都市のリハビリ事業の費用を比較している。",
+  "reason": "例文の変更に合わせた"
+ },
+ {
+  "headword": "span",
+  "field": "glossShort",
+  "before": "またがる",
+  "after": "わたる",
+  "reason": "学術で主な「（期間・範囲に）わたる」の意味では「またがる」より自然"
+ },
+ {
+  "headword": "span",
+  "field": "glosses",
+  "before": [
+   "またがる、わたる",
+   "架かる"
+  ],
+  "after": [
+   "わたる、及ぶ",
+   "またがる、架かる"
+  ],
+  "reason": "代表訳の変更に合わせた"
+ },
+ {
+  "headword": "span",
+  "field": "example.ja",
+  "before": "この研究のデータは、20年以上にまたがっている。",
+  "after": "この研究のデータは、20年以上の期間にわたっている。",
+  "reason": "期間について「またがっている」は不自然"
+ },
+ {
+  "headword": "strand",
+  "field": "glossShort",
+  "before": "より糸",
+  "after": "系統",
+  "reason": "同じ束の thread（糸）と4択で紛らわしい。学術で多い strands of research（研究の系統）の意味を代表訳に"
+ },
+ {
+  "headword": "strand",
+  "field": "glosses",
+  "before": [
+   "より糸、一本の繊維",
+   "要素、筋"
+  ],
+  "after": [
+   "系統、流れ",
+   "より糸、DNAの鎖"
+  ],
+  "reason": "代表訳の変更に合わせ、物理的な意味とDNAの鎖を2つ目に残した"
+ },
+ {
+  "headword": "strand",
+  "field": "example.en",
+  "before": "The scientist pulled a single strand from the old rope.",
+  "after": "The paper brings together two strands of research on memory.",
+  "reason": "代表訳の意味で使う論文場面の文に作り直し"
+ },
+ {
+  "headword": "strand",
+  "field": "example.ja",
+  "before": "その科学者は、古いロープからより糸を1本引き抜いた。",
+  "after": "その論文は、記憶に関する2つの系統の研究を結びつけている。",
+  "reason": "例文の作り直しに合わせた"
+ },
+ {
+  "headword": "strand",
+  "field": "note",
+  "before": "DNAの「鎖」や議論の「筋」にも使う",
+  "after": "DNAの「鎖」や髪の「一本」にも使う",
+  "reason": "代表訳の変更に合わせた"
+ },
+ {
+  "headword": "surplus",
+  "field": "pos",
+  "before": "adj",
+  "after": "noun",
+  "reason": "学術（特に経済学）では名詞（a surplus of, trade surplus）が主。公式jHintも名詞「余剰；黒字」"
+ },
+ {
+  "headword": "surplus",
+  "field": "glossShort",
+  "before": "余剰の",
+  "after": "余剰",
+  "reason": "品詞の変更に合わせた"
+ },
+ {
+  "headword": "surplus",
+  "field": "glosses",
+  "before": [
+   "余剰の、余った",
+   "黒字の"
+  ],
+  "after": [
+   "余剰、余り",
+   "黒字"
+  ],
+  "reason": "品詞の変更に合わせた"
+ },
+ {
+  "headword": "surplus",
+  "field": "example.en",
+  "before": "The lab gave its surplus equipment to a local school.",
+  "after": "The survey found a surplus of teachers in some regions.",
+  "reason": "名詞用法を示す文に作り直し"
+ },
+ {
+  "headword": "surplus",
+  "field": "example.ja",
+  "before": "その研究室は、余剰の機材を地元の学校に寄付した。",
+  "after": "その調査で、一部の地域では教員が余剰になっていることが分かった。",
+  "reason": "例文の作り直しに合わせた"
+ },
+ {
+  "headword": "surplus",
+  "field": "note",
+  "before": "名詞「余剰、黒字」としても多い",
+  "after": "形容詞的にも使う。trade surplus＝貿易黒字",
+  "reason": "品詞の変更に合わせた"
+ },
+ {
+  "headword": "syndrome",
+  "field": "sensitive",
+  "before": null,
+  "after": true,
+  "reason": "病気と強く結びつく語"
+ },
+ {
+  "headword": "transplant",
+  "field": "example.ja",
+  "before": "移植の後、若木は新しい土ですぐに育った。",
+  "after": "移植の後、若木は新しい土でぐんぐん育った。",
+  "reason": "grew quickly の訳「すぐに育った」は意味がずれる"
+ },
+ {
+  "headword": "trauma",
+  "field": "example.en",
+  "before": "The research shows that trauma can affect memory for years.",
+  "after": "The course introduces students to research on trauma.",
+  "reason": "心身への影響（病気の話題）を述べる文を、研究紹介の中立的な文脈に変更"
+ },
+ {
+  "headword": "trauma",
+  "field": "example.ja",
+  "before": "その研究は、心的外傷が何年も記憶に影響しうることを示している。",
+  "after": "その講座では、学生に心的外傷に関する研究を紹介する。",
+  "reason": "例文の変更に合わせた"
+ },
+ {
+  "headword": "trauma",
+  "field": "sensitive",
+  "before": null,
+  "after": true,
+  "reason": "暴力・災害などによる心の傷や外傷と強く結びつく語"
+ },
+ {
+  "headword": "tumor",
+  "field": "sensitive",
+  "before": null,
+  "after": true,
+  "reason": "がん（病気）と強く結びつく語"
+ },
+ {
+  "headword": "antibiotic",
+  "field": "pos",
+  "before": "adj",
+  "after": "noun",
+  "reason": "公式posHintは形容詞だが、学術でも一般でも名詞（antibiotics）が主"
+ },
+ {
+  "headword": "antibiotic",
+  "field": "glossShort",
+  "before": "抗生物質の",
+  "after": "抗生物質",
+  "reason": "品詞の変更に合わせた"
+ },
+ {
+  "headword": "antibiotic",
+  "field": "glosses",
+  "before": [
+   "抗生物質の"
+  ],
+  "after": [
+   "抗生物質"
+  ],
+  "reason": "品詞の変更に合わせた"
+ },
+ {
+  "headword": "antibiotic",
+  "field": "example.en",
+  "before": "The lab tested how antibiotic resistance spreads among bacteria.",
+  "after": "Many antibiotics were first found in bacteria that live in soil.",
+  "reason": "名詞用法を示し、治療ではなく発見の経緯という中立的な文脈に"
+ },
+ {
+  "headword": "antibiotic",
+  "field": "example.ja",
+  "before": "その研究室は、抗生物質への耐性が細菌の間でどう広がるかを調べた。",
+  "after": "多くの抗生物質は、最初は土の中にすむ細菌から見つかった。",
+  "reason": "例文の作り直しに合わせた"
+ },
+ {
+  "headword": "antibiotic",
+  "field": "note",
+  "before": "名詞「抗生物質」として使うことが多い",
+  "after": "形容詞「抗生物質の」としても使う",
+  "reason": "品詞の変更に合わせた"
+ },
+ {
+  "headword": "coefficient",
+  "field": "pos",
+  "before": "adj",
+  "after": "noun",
+  "reason": "（生成段階で修正済み・検証で確認）公式posHint「adj」は誤り。定義どおり名詞（係数）"
+ },
+ {
+  "headword": "epidemic",
+  "field": "pos",
+  "before": "adj",
+  "after": "noun",
+  "reason": "公式定義（a disease affecting many people）自体が名詞で、学術でも名詞用法が主"
+ },
+ {
+  "headword": "epidemic",
+  "field": "glossShort",
+  "before": "流行性の",
+  "after": "流行病",
+  "reason": "品詞の変更に合わせた"
+ },
+ {
+  "headword": "epidemic",
+  "field": "glosses",
+  "before": [
+   "流行性の",
+   "蔓延している"
+  ],
+  "after": [
+   "流行病、病気の流行",
+   "まん延"
+  ],
+  "reason": "品詞の変更に合わせた"
+ },
+ {
+  "headword": "epidemic",
+  "field": "example.en",
+  "before": "The team built a model to predict epidemic outbreaks.",
+  "after": "The team built a computer model of how an epidemic spreads.",
+  "reason": "名詞用法を示す研究場面の文に作り直し"
+ },
+ {
+  "headword": "epidemic",
+  "field": "example.ja",
+  "before": "そのチームは、流行性の病気の発生を予測するモデルを作った。",
+  "after": "そのチームは、流行病がどのように広がるかを示すコンピューターモデルを作った。",
+  "reason": "例文の作り直しに合わせた"
+ },
+ {
+  "headword": "epidemic",
+  "field": "note",
+  "before": "名詞「流行病、まん延」の用法が多い",
+  "after": "形容詞「流行性の」としても使う",
+  "reason": "品詞の変更に合わせた"
+ },
+ {
+  "headword": "epidemic",
+  "field": "sensitive",
+  "before": null,
+  "after": true,
+  "reason": "病気と強く結びつく語"
+ },
+ {
+  "headword": "messenger",
+  "field": "glossShort",
+  "before": "伝達者",
+  "after": "伝達役",
+  "reason": "化学物質に「伝達者」は不自然。人にも物質にも使える「伝達役」に"
+ },
+ {
+  "headword": "messenger",
+  "field": "glosses",
+  "before": [
+   "伝達者、使者",
+   "伝達物質"
+  ],
+  "after": [
+   "伝達役、使者",
+   "伝達物質"
+  ],
+  "reason": "代表訳の変更に合わせた"
+ },
+ {
+  "headword": "messenger",
+  "field": "example.ja",
+  "before": "体内のある種の化学物質は、細胞間の伝達者として働く。",
+  "after": "体内のある種の化学物質は、細胞間の伝達役として働く。",
+  "reason": "代表訳の変更に合わせた"
+ }
+]

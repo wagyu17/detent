@@ -1,0 +1,946 @@
+order,headword,pos,gloss_short,glosses,example_en,example_ja,note,free_in_app,also_in
+1,accuracy,noun,正確さ,正確さ、精度,Please check the accuracy of these sales figures.,これらの売上数値の正確さを確認してください。,形容詞はaccurate,yes,TSL
+2,aspect,noun,側面,側面 / 観点,We discussed every aspect of the new plan.,私たちは新しい計画のあらゆる側面について話し合いました。,,yes,TSL
+3,cognitive,adj,認知の,認知の,The study looked at the cognitive skills of young children.,その研究は、幼い子どもの認知能力を調べた。,,yes,
+4,commonly,adv,一般に,一般に / よく,This word is commonly used in business emails.,この語は一般にビジネスメールで使われます。,,yes,TSL
+5,correlation,noun,相関関係,相関関係 / 相関,We found a strong correlation between reading and vocabulary size.,私たちは読書と語彙数の間に強い相関関係を見出した。,,yes,
+6,distribution,noun,配布,配布、流通 / 分布、分配,The distribution of the flyers starts on Monday.,チラシの配布は月曜日に始まります。,,yes,TSL
+7,empirical,adj,実証的な,実証的な / 経験に基づく,There is little empirical evidence to support this idea.,この考えを支持する実証的な証拠は、ほとんどない。,,yes,
+8,feedback,noun,意見や感想,意見や感想 / 反応,Thank you for your feedback on our new menu.,新しいメニューへのご意見やご感想をありがとうございます。,数えられない名詞,yes,TSL
+9,identical,adj,同一の,同一の、まったく同じ,The two samples gave identical results in every test.,2つのサンプルは、すべての試験で同一の結果を示した。,be identical to 〜 で「〜と同一だ」,yes,
+10,impact,noun,影響,影響 / 衝撃,The new system had a big impact on sales.,新しいシステムは売り上げに大きな影響を与えました。,have an impact on の形が多い,yes,TSL
+11,indicator,noun,指標,指標 / 表示器、計器,Customer satisfaction is an important indicator of success.,顧客満足度は、成功を示す重要な指標です。,,yes,TSL
+12,likelihood,noun,可能性,可能性 / 見込み,Regular practice increases the likelihood of passing the test.,定期的に練習すると、試験に合格する可能性が高まる。,統計では「尤度（ゆうど）」,yes,
+13,linear,adj,直線的な,直線的な、線形の / 順を追った,The graph shows a linear relationship between time and distance.,そのグラフは、時間と距離の直線的な関係を示している。,数学では「線形の」と訳す,yes,
+14,obtain,verb,手に入れる,手に入れる / 得る,You must obtain a pass to enter this building.,このビルに入るには、通行証を手に入れる必要があります。,get より改まった語,yes,TSL
+15,parameter,noun,パラメーター,パラメーター、媒介変数 / 限界、範囲,We changed one parameter at a time to test the model.,私たちはモデルを検証するため、パラメーターを1つずつ変えた。,「範囲、枠」の意味では複数形が多い,yes,
+16,qualitative,adj,質的な,質的な,We used qualitative methods such as interviews with students.,私たちは学生へのインタビューなどの質的な手法を用いた。,対義語は quantitative（量的な）,yes,
+17,reliability,noun,信頼性,信頼性、確実さ,Customers value the reliability of our delivery service.,お客様は、当社の配送サービスの信頼性を高く評価しています。,,yes,TSL
+18,statistical,adj,統計的な,統計的な,We used statistical tests to compare the two groups.,私たちは統計的な検定を使って、二つのグループを比較した。,,yes,
+19,statistically,adv,統計的に,統計的に,The difference between the groups was not statistically significant.,グループ間の差は、統計的に有意ではなかった。,,yes,
+20,statistics,noun,統計,統計 / 統計学,The statistics show that sales are growing every month.,統計によると、売り上げは毎月伸びています。,「統計学」の意味では単数扱い,yes,TSL
+21,systematic,adj,体系的な,体系的な / 組織的な,The team carried out a systematic review of past studies.,チームは過去の研究について体系的なレビューを行った。,,yes,
+22,thereby,adv,それによって,それによって,"The new design uses less metal, thereby reducing costs.",新しい設計は金属の使用量が少なく、それによって費用を減らしている。,後ろに -ing 形が続くことが多い,yes,
+23,validity,noun,妥当性,妥当性 / 有効性,Some researchers have questioned the validity of the survey.,一部の研究者は、その調査の妥当性に疑問を投げかけている。,,yes,
+24,variability,noun,ばらつき,ばらつき / 変動性,The study found high variability in test scores across schools.,その研究では、学校間でテストの点数に大きなばらつきが見られた。,,yes,
+25,variance,noun,分散,分散 / 相違,The variance of the scores was larger than we expected.,点数の分散は、私たちが予想していたよりも大きかった。,at variance with 〜「〜と食い違う」,yes,
+26,whereby,adv,それによって〜する,それによって〜する,The lab set a rule whereby all data is checked twice.,その研究室は規則を定め、それによってすべてのデータが2回確認されるようにした。,by which の意味の関係詞として使う,yes,
+27,widespread,adj,広く行き渡った,広く行き渡った、広範囲の,The use of online surveys is now widespread in research.,オンライン調査の利用は、今では研究の場で広く行き渡っている。,,yes,
+28,accumulate,verb,〜を蓄積する,〜を蓄積する / たまる,The system accumulates sales data from every store each day.,そのシステムは毎日、全店舗の売上データを蓄積している。,,yes,TSL
+29,accumulation,noun,蓄積,蓄積 / たまったもの,The accumulation of small errors can affect the final result.,小さな誤差の蓄積が、最終結果に影響することがある。,,yes,
+30,accurately,adv,正確に,正確に,This machine counts coins quickly and accurately.,この機械は硬貨をすばやく正確に数えます。,,yes,TSL
+31,adaptation,noun,適応,適応 / 翻案,Thick fur is an adaptation to life in cold places.,厚い毛皮は、寒い場所での生活への適応である。,小説の映画化などは「翻案・脚色」,yes,
+32,adaptive,adj,適応性のある,適応性のある / 適応型の,The adaptive software changes the questions for each student.,その適応型のソフトウェアは、学生ごとに問題を変える。,,yes,
+33,adverse,adj,有害な,有害な / 不利な,The study found no adverse effects on the soil.,その研究では、土壌への有害な影響は見られなかった。,adverse effect「悪影響」の形が多い,yes,
+34,aggregate,noun,総計,総計、合計 / 集合体,"The data were analyzed in aggregate, not student by student.",データは、学生ごとではなく総計として分析された。,in aggregate＝全体として,yes,
+35,algorithm,noun,アルゴリズム,アルゴリズム、計算手順,The new algorithm sorts the data much faster than before.,その新しいアルゴリズムは、以前よりはるかに速くデータを並べ替える。,,yes,
+36,allocate,verb,〜を割り当てる,〜を割り当てる,We allocated more money to marketing this year.,今年はマーケティングにより多くの資金を割り当てた。,allocate A to B で「AをBに割り当てる」,yes,TSL
+37,allocation,noun,割り当て,割り当て / 配分,The allocation of research funds is decided every April.,研究資金の割り当ては毎年4月に決められる。,,yes,
+38,approximate,adj,おおよその,おおよその、概算の / 見積もる,What is the approximate cost of the repair work?,修理作業のおおよその費用はいくらですか。,副詞 approximately（約）もよく使う,yes,TSL
+39,arbitrary,adj,恣意的な,恣意的な、根拠のない / 任意の,The choice of sixty points as a pass mark seems arbitrary.,合格点を60点にしたのは、恣意的に思える。,数学では「任意の」と訳す,yes,
+40,assert,verb,断言する,〜を断言する / 〜を主張する,The author asserts that the old theory is wrong.,著者は古い理論が間違っていると断言している。,assert that 〜の形が多い,yes,
+41,authority,noun,権限,権限 / 当局,The manager has the authority to make the final decision.,最終決定を下す権限は部長にあります。,,yes,TSL
+42,autonomy,noun,自律性,自律性 / 自治,Teachers want more autonomy in choosing their materials.,教師たちは、教材を選ぶ際にもっと自律性を求めている。,,yes,
+43,availability,noun,利用できること,利用できること、入手できること / 空き状況、都合,The availability of free parking is important to our customers.,無料駐車場を利用できることは、当社のお客様にとって重要です。,check availability＝空き状況を確認する,yes,TSL
+44,axis,noun,軸,軸 / 軸線、中心線,The horizontal axis shows the number of hours studied.,横軸は、学習した時間数を示している。,複数形は axes,yes,
+45,behavioral,adj,行動の,行動の / 行動に関する,The study found clear behavioral changes in young birds.,その研究で、若い鳥にはっきりとした行動の変化が見られた。,英国式つづりはbehavioural,yes,
+46,broadly,adv,大まかに,大まかに / 広く,"Broadly speaking, the results support the original theory.",大まかに言えば、その結果は元の理論を支持している。,broadly speaking「大まかに言えば」,yes,
+47,calculation,noun,計算,計算 / 見積もり,Please check my calculations before we send the bill.,請求書を送る前に、私の計算を確認してください。,,yes,TSL
+48,clarify,verb,〜を明確にする,〜を明確にする,Could you clarify the main points of the plan?,計画の要点を明確にしていただけますか。,,yes,TSL
+49,classification,noun,分類,分類 / 等級,The classification of plants is based on their structure.,植物の分類は、その構造に基づいている。,,yes,
+50,classify,verb,分類する,分類する / 機密扱いにする,Please classify these files by date and type.,これらのファイルを日付と種類で分類してください。,,yes,TSL
+51,coefficient,noun,係数,係数,The coefficient of x in this equation is three.,この方程式における x の係数は3である。,correlation coefficient＝相関係数,yes,
+52,coherent,adj,首尾一貫した,首尾一貫した / 筋の通った,Your essay needs a more coherent structure.,あなたのエッセイには、もっと首尾一貫した構成が必要だ。,,yes,
+53,collective,adj,共同の,共同の / 集団の,The final report was the result of a collective effort.,最終報告書は、共同の取り組みの成果だった。,,,
+54,comparable,adj,同等の,同等の / 比較できる,The two groups were comparable in age and size.,2つのグループは、年齢と規模の点で同等だった。,comparable to/with 〜「〜に匹敵する」,,
+55,comparative,adj,比較の,比較の / 相対的な,She is doing a comparative study of two schools.,彼女は、二つの学校の比較研究を行っている。,,,
+56,conceptual,adj,概念的な,概念的な / 概念の,The paper offers a new conceptual model of learning.,その論文は学習についての新しい概念的なモデルを示している。,,,
+57,consensus,noun,合意,合意 / 総意,There is no consensus among experts on this question.,この問題について、専門家の間で合意は得られていない。,,,
+58,constrain,verb,制約する,〜を制約する / 〜を抑える,Our research was constrained by a small budget.,私たちの研究は少ない予算によって制約を受けた。,,,
+59,consumption,noun,消費,消費 / 消費量,The new lights have cut our energy consumption by half.,新しい照明で、エネルギーの消費量が半分になりました。,,,TSL
+60,correlate,verb,相関する,相関する / 〜を関連づける,Sleep time correlates with test scores in this group.,この集団では、睡眠時間がテストの点数と相関している。,correlate with 〜で「〜と相関する」,,
+61,criteria,noun,基準,基準 / 判断基準,The committee explained the criteria for choosing new students.,委員会は新入生を選ぶための基準を説明した。,criterionの複数形,,
+62,critique,noun,批評,批評 / 批判的分析,The article offers a careful critique of earlier research.,その論文は、先行研究に対する丁寧な批評を示している。,,,
+63,denote,verb,〜を表す,〜を表す、示す,"In this paper, the letter n denotes the number of students.",この論文では、文字 n は学生の数を表す。,connote（暗に意味する）と区別する,,
+64,detection,noun,検出,検出 / 発見,Early detection of errors saves both time and money.,誤りを早期に検出すれば、時間とお金の両方を節約できる。,,,
+65,developmental,adj,発達の,発達の / 開発の,Developmental psychology studies how children change as they grow.,発達心理学は、子どもが成長するにつれてどう変わるかを研究する。,,,
+66,deviation,noun,基準からのずれ,基準からのずれ、逸脱 / 偏差,Any deviation from the plan must be reported to the team.,計画からのずれは、すべてチームに報告しなければならない。,standard deviation＝標準偏差,,
+67,differentiate,verb,区別する,区別する / 差別化する,Young children cannot always differentiate between fact and fiction.,幼い子どもは、事実と作り話をいつも区別できるとは限らない。,A from B で「AをBと区別する」,,
+68,discourse,noun,談話,談話 / 言説,Her thesis studies discourse in online science forums.,彼女の論文はオンラインの科学掲示板における談話を研究している。,,,
+69,discrete,adj,別個の,別個の、個別の / 離散的な,The course is divided into four discrete units.,その授業は4つの別個の単元に分かれている。,discreet（慎重な）と混同しない,,
+70,diverse,adj,多様な,多様な / さまざまな,The class has students from diverse backgrounds.,そのクラスには多様な背景を持つ学生がいる。,,,
+71,domain,noun,領域,領域 / 分野,This question falls outside the domain of economics.,この問題は、経済学の領域の外にある。,,,
+72,dominant,adj,支配的な,支配的な / 顕性の,English is the dominant language in many science journals.,英語は多くの科学雑誌で支配的な言語だ。,遺伝では「顕性の」（旧称「優性の」）,,
+73,duration,noun,期間,期間 / 継続時間,The duration of the training course is three weeks.,研修コースの期間は3週間です。,,,TSL
+74,dynamic,adj,動的な,動的な、絶えず変化する / 活気のある、精力的な,This dynamic model shows how prices change over time.,この動的なモデルは、価格が時間とともにどう変わるかを示しています。,反意語は static（静的な）,,TSL
+75,effectiveness,noun,有効性,有効性,We need to check the effectiveness of the new ads.,新しい広告の有効性を確かめる必要がある。,,,TSL
+76,embed,verb,埋め込む,埋め込む,You can embed the video in your website.,その動画は、自分のウェブサイトに埋め込むことができます。,,,TSL
+77,emergence,noun,出現,出現 / 台頭,The emergence of the internet changed how students do research.,インターネットの出現は学生の研究方法を変えた。,,,
+78,entity,noun,実体,実体 / 組織体,The two companies now operate as a single entity.,その2社は現在、一つの実体として運営されている。,,,
+79,equilibrium,noun,均衡,均衡、平衡 / 心の落ち着き,The market reaches equilibrium when supply equals demand.,市場は、供給と需要が等しくなったときに均衡に達する。,化学・物理では「平衡」と訳す,,
+80,essentially,adv,本質的に,本質的に / 基本的に,The two theories are essentially the same idea.,その2つの理論は本質的に同じ考えだ。,,,
+81,ethical,adj,倫理的な,倫理的な / 道徳的な,All research must follow strict ethical guidelines.,すべての研究は、厳格な倫理的指針に従わなければならない。,,,
+82,ethics,noun,倫理,倫理、道徳 / 倫理学,All employees must follow the company's code of ethics.,全従業員は会社の倫理規定に従わなければなりません。,code of ethics＝倫理規定,,TSL
+83,evident,adj,明らかな,明らかな,It was evident that the customer was not happy.,そのお客様が満足していないのは明らかでした。,,,TSL
+84,explicit,adj,明示的な,明示的な / はっきりとした,The teacher gave explicit instructions for the final report.,先生は最終レポートについて明示的な指示を出した。,反意語はimplicit（暗黙の）,,
+85,explicitly,adv,明示的に,明示的に / はっきりと,The rules explicitly say that phones are not allowed.,規則には、電話は禁止だと明示的に書かれている。,,,
+86,facilitate,verb,〜を促進する,〜を促進する / 〜を容易にする,The new software will facilitate communication between teams.,新しいソフトウェアはチーム間のコミュニケーションを促進する。,,,TSL
+87,finite,adj,有限の,有限の、限りある,The earth has a finite amount of fresh water.,地球にある淡水の量は有限だ。,,,
+88,fraction,noun,一部,一部 / 分数,Only a small fraction of the students answered the survey.,その調査に回答したのは、学生のごく一部だけだった。,the fraction of〜で「〜の割合」,,
+89,generalization,noun,一般論,一般論、概括 / 一般化,We should avoid generalizations when we describe our customers.,お客様について述べるときは、大ざっぱな一般論は避けるべきです。,,,TSL
+90,generalize,verb,〜を一般化する,〜を一般化する / 概括して言う,These results cannot be generalized to all students.,これらの結果を、すべての学生に一般化することはできない。,generalize to 〜「〜に当てはめる」,,
+91,hierarchy,noun,階層,階層 / 序列,The company has a strict hierarchy with many levels.,その会社には、多くの段階からなる厳格な階層がある。,,,
+92,historically,adv,歴史的に,歴史的に / 歴史上,"Historically, the town has been an important center of trade.",歴史的に見て、その町は交易の重要な中心地であった。,,,
+93,identification,noun,身分証明書,身分証明書 / 識別、特定,Please show some identification at the front desk.,フロントで身分証明書を提示してください。,略して ID とも言う,yes,TSL
+94,implicit,adj,暗黙の,暗黙の / 潜在的な,There is an implicit rule that students arrive on time.,学生は時間どおりに来るという暗黙のルールがある。,⇔explicit（明示的な）,,
+95,importantly,adv,重要なことに,重要なことに / 重要な形で,"More importantly, the new method is cheap and easy to use.",さらに重要なことに、新しい方法は安くて使いやすい。,more importantly の形が多い,,
+96,inclusion,noun,含めること,含めること / 包摂,The inclusion of more data made the model more accurate.,より多くのデータを含めたことで、モデルの精度が上がった。,⇔exclusion（除外）,,
+97,inequality,noun,不平等,不平等 / 格差,The report examines income inequality between cities and villages.,その報告書は、都市と村の間の所得の不平等を調べている。,数学では「不等式」,,
+98,inference,noun,推論,推論 / 推測,What inference can you draw from her email?,彼女のメールから、どんな推論ができますか。,動詞は infer（推測する）,yes,TSL
+99,influential,adj,影響力のある,影響力のある / 有力な,She is one of the most influential designers in the industry.,彼女は、業界で最も影響力のあるデザイナーの一人です。,,,TSL
+100,inhibit,verb,抑制する,抑制する / 妨げる,Cold temperatures inhibit the growth of many plants.,低い気温は、多くの植物の成長を抑制する。,,,
+101,integration,noun,統合,統合 / 融合,The integration of the two systems took several months.,その2つのシステムの統合には数か月かかった。,,,
+102,intensity,noun,強度,強度 / 激しさ,The researchers measured the intensity of the light.,研究者たちは、その光の強度を測定した。,,,
+103,interact,verb,相互に作用する,相互に作用する / 交流する,The two chemicals interact when they are mixed with water.,その2つの化学物質は水と混ぜると相互に作用する。,interact with 〜で「〜と交流する」,,
+104,interestingly,adv,興味深いことに,興味深いことに / 興味深く,"Interestingly, the younger students scored higher than the older ones.",興味深いことに、年下の学生の方が年上の学生より得点が高かった。,,,
+105,interval,noun,間隔,間隔 / 区間,Measurements were taken at intervals of ten minutes.,測定は、10分間隔で行われた。,at intervals「間隔をおいて」,,
+106,justification,noun,正当な理由,正当な理由 / 正当化,The author gives little justification for this choice of method.,著者はこの方法を選んだことについて、正当な理由をほとんど示していない。,,,
+107,likewise,adv,同様に,同様に / こちらこそ,"Emma finished her work early, and Ken did likewise.",エマは仕事を早く終え、ケンも同様にしました。,,,TSL
+108,linguistic,adj,言語に関する,言語に関する、言語の / 言語学の,The study looks at linguistic differences between the two regions.,その研究は、2つの地域の言語に関する違いを調べている。,linguistics（言語学）と区別,,
+109,longitudinal,adj,縦断的な,縦断的な、長期追跡の / 縦方向の,This longitudinal study followed the same students for ten years.,この縦断的な研究は、同じ学生たちを10年間追跡した。,longitudinal study は「縦断研究」,,
+110,magnitude,noun,規模,規模、大きさ / 重要性,Few people understood the magnitude of the problem at first.,最初は、その問題の規模を理解している人はほとんどいなかった。,地震の「マグニチュード」も同じ語,,
+111,mathematical,adj,数学の,数学の / 数学的な,The model is based on a simple mathematical formula.,そのモデルは、簡単な数学の公式に基づいている。,,,
+112,matrix,noun,行列,行列、マトリックス / 基盤、母体,Each number in the matrix stands for a test score.,その行列の各数字は、テストの点数を表している。,複数形は matrices,,
+113,maximize,verb,〜を最大化する,〜を最大化する / 〜を最大限に生かす,We need new ideas to maximize our profits.,利益を最大化するために新しいアイデアが必要だ。,反対語は minimize（最小化する）,,TSL
+114,meaningful,adj,有意義な,有意義な、意味のある,We had a meaningful talk about our goals.,私たちは目標について、有意義な話し合いをしました。,,,TSL
+115,mediate,verb,仲裁する,仲裁する、取り持つ / 媒介する,A senior professor agreed to mediate between the two research groups.,ある年長の教授が、2つの研究グループの間を仲裁することを引き受けた。,研究では「媒介する」の意味も多い,,
+116,methodology,noun,方法論,方法論 / 研究手法,The second chapter explains the methodology of the study.,第2章ではその研究の方法論を説明している。,,,
+117,minimal,adj,最小限の,最小限の、ごくわずかの,The new method requires minimal training for lab staff.,その新しい方法では、研究室スタッフに必要な訓練は最小限で済む。,,,
+118,minimize,verb,最小限にする,最小限にする / 軽視する,We want to minimize waste in the office.,オフィスでの無駄を最小限にしたいと考えています。,,,TSL
+119,namely,adv,すなわち,すなわち / 具体的には,"Two factors, namely time and money, limited the study.",2つの要因、すなわち時間とお金が、その研究を制限した。,直前の語を具体的に言い換える,,
+120,neural,adj,神経の,神経の、神経系の,The study examined neural activity during sleep.,その研究は睡眠中の神経活動を調べた。,,,
+121,nonetheless,adv,それでも,それでも、それにもかかわらず,"The sample was small; nonetheless, the results were useful.",サンプルは小さかった。それでも、その結果は有益だった。,nevertheless とほぼ同じ意味,,
+122,norm,noun,規範,規範、標準 / 普通の状態,Social norms can strongly affect how students behave in class.,社会的規範は、授業中の学生のふるまいに強く影響しうる。,the norm で「普通のこと」,,
+123,null,adj,効果のない,効果のない、無効の / ゼロの、空の,"The test produced a null result, so we tried again.",その試験では効果が見られないという結果が出たので、もう一度試した。,null hypothesis は「帰無仮説」,,
+124,occurrence,noun,出来事,出来事 / 発生,Late deliveries are a rare occurrence at our company.,当社では、配達の遅れはめったにない出来事です。,動詞はoccur。rは二つ,,TSL
+125,optimal,adj,最適な,最適な、最善の,The team searched for the optimal temperature for plant growth.,チームは、植物の成長に最適な温度を探した。,,,
+126,optimum,adj,最適な,最適な、最善の,The plants grew best at an optimum temperature of 25 degrees.,その植物は25度という最適な温度で最もよく育った。,名詞で「最適条件」の意味もある,,
+127,organism,noun,生物,生物、有機体,Tiny organisms live in every drop of pond water.,池の水の一滴一滴に、小さな生物がすんでいる。,,,
+128,overlap,verb,重なり合う,重なり合う、重複する,The two research areas overlap in several important ways.,その2つの研究分野は、いくつかの重要な点で重なり合っている。,名詞「重複」としても使う,,
+129,overview,noun,概要,概要 / 全体像,Let me give you a quick overview of the project.,プロジェクトの概要を簡単にご説明します。,,,TSL
+130,paradigm,noun,理論的枠組み,理論的枠組み、パラダイム / 典型、模範,The discovery led to a new paradigm in biology.,その発見は、生物学に新しい理論的枠組みをもたらした。,,,
+131,partial,adj,部分的な,部分的な / 不公平な、えこひいきする,We received a partial refund for the canceled tour.,中止になったツアーについて、部分的な返金を受けました。,be partial to で「〜が大好き」,,TSL
+132,partially,adv,部分的に,部分的に、一部は,"The report is only partially finished, so I need more time.",報告書はまだ部分的にしか終わっていないので、もう少し時間が必要です。,,,TSL
+133,particle,noun,粒子,粒子、微粒子 / 不変化詞,Dust particles in the air can block sunlight.,空気中のちりの粒子は、日光をさえぎることがある。,,,
+134,pathway,noun,経路,経路、道筋 / 小道,The study traced the pathway of water through the soil.,その研究は、土の中を水が通る経路をたどった。,,,
+135,physiological,adj,生理的な,生理的な、生理学の,The team measured physiological changes such as heart rate.,チームは心拍数などの生理的な変化を測定した。,,,
+136,plausible,adj,もっともらしい,もっともらしい / 納得できる,His reason for being late sounded plausible to me.,彼の遅刻の理由は、私にはもっともらしく聞こえた。,,,TSL
+137,positively,adv,肯定的に,肯定的に / 確かに,Most students responded positively to the new course.,ほとんどの学生が、新しい講座に肯定的に反応した。,positively correlated で「正の相関」,,
+138,pragmatic,adj,実際的な,実際的な、現実的な / 語用論の,The team chose a pragmatic approach to the problem.,チームはその問題に対して実際的な方法を選んだ。,,,
+139,prediction,noun,予測,予測,His prediction about the sales numbers was correct.,売上の数字についての彼の予測は正しかった。,,,TSL
+140,predominantly,adv,主として,主として、大部分は,The students in the sample were predominantly from urban areas.,サンプルの学生は、主として都市部の出身だった。,mainly よりかたい言い方,,
+141,preliminary,adj,予備的な,予備的な,The preliminary results of the survey look positive.,調査の予備的な結果は良好なようだ。,名詞で「予選」「準備」の意味もある,,TSL
+142,prevalence,noun,普及度,普及度、広がり / 有病率,The survey measured the prevalence of online shopping among students.,その調査は、学生の間でのネットショッピングの普及度を測定した。,,,
+143,problematic,adj,問題のある,問題のある / 疑問の余地がある,Using such a small sample is problematic for this study.,このような小さな標本を使うことは、この研究にとって問題がある。,,,
+144,productivity,noun,生産性,生産性,The new software has improved our team's productivity.,新しいソフトウェアのおかげで、チームの生産性が上がりました。,,,TSL
+145,proposition,noun,命題,命題、主張 / 提案,The paper tests the proposition that sleep improves memory.,その論文は、睡眠が記憶力を高めるという命題を検証している。,,,
+146,protocol,noun,規定の手順,規定の手順、実施要領 / 通信規約、儀礼,All researchers must follow the same protocol when collecting data.,すべての研究者は、データを集める際に同じ規定の手順に従わなければならない。,,,
+147,publish,verb,出版する,出版する / 公表する,The company will publish a new travel guide.,その会社は新しい旅行ガイドを出版する予定です。,,yes,TSL
+148,quantitative,adj,量的な,量的な / 定量的な,We collected quantitative data from three hundred students.,私たちは300人の学生から量的なデータを集めた。,反意語はqualitative（質的な）,,
+149,questionnaire,noun,アンケート,アンケート,Please fill out this short questionnaire about our service.,当社のサービスに関する短いアンケートにご記入ください。,,,TSL
+150,randomly,adv,無作為に,無作為に / でたらめに,Participants were randomly assigned to two groups.,参加者は無作為に二つのグループに割り当てられた。,,,
+151,rational,adj,合理的な,合理的な / 理性的な,Economists often assume that people make rational choices.,経済学者はしばしば、人々は合理的な選択をすると仮定する。,,,
+152,readily,adv,容易に,容易に / 快く,This kind of information is readily available online.,この種の情報は、オンラインで容易に入手できる。,readily available の形が多い,,
+153,regression,noun,回帰,回帰 / 後退、退行,We used regression analysis to predict test scores from study time.,私たちは回帰分析を使って、学習時間からテストの点数を予測した。,心理学では「退行」の意味も,,
+154,reinforce,verb,強化する,強化する / 補強する,The training will reinforce what you learned last week.,この研修で、先週学んだ内容がさらに強化されます。,,,TSL
+155,render,verb,ある状態にする,ある状態にする / 表現する,A small error in the code rendered the results useless.,コードの小さな誤りのせいで、結果が役に立たないものになった。,render A B「AをBにする」の形が多い,,
+156,replicate,verb,〜を再現する,〜を再現する、繰り返す / 〜を複製する,Other teams could not replicate the results of the experiment.,他のチームはその実験の結果を再現できなかった。,,,
+157,replication,noun,再現,再現、追試 / 複製,The replication of the study took two years.,その研究の再現には2年かかった。,,,
+158,reproduce,verb,複製する,複製する、再現する / 繁殖する,You may not reproduce these photos without permission.,許可なく、これらの写真を複製することはできません。,,,TSL
+159,scenario,noun,筋書き,筋書き、想定 / シナリオ,The model tested three scenarios for future energy use.,そのモデルは、将来のエネルギー使用について3つの筋書きを検証した。,worst-case scenario＝最悪の想定,,
+160,semantic,adj,意味の,意味の、意味論の,The two words have a close semantic relationship.,その2つの語は、意味の上で近い関係にある。,,,
+161,sensitivity,noun,感度,感度 / 感受性,We tested the sensitivity of the new sensor to light.,私たちは、新しいセンサーの光に対する感度を調べた。,,,
+162,sensory,adj,感覚の,感覚の、知覚の,The study tested how sensory information affects memory.,その研究は、感覚情報が記憶にどう影響するかを調べた。,,,
+163,separately,adv,別々に,別々に,Can we pay separately for our lunch?,昼食代は別々に払えますか。,,,TSL
+164,similarity,noun,類似点,類似点、似ていること,There are many similarities between the two plans.,その二つの計画には多くの類似点があります。,,,TSL
+165,simulate,verb,模擬的に再現する,模擬的に再現する / ふりをする,The computer program simulates traffic in a busy city.,そのコンピュータープログラムは、にぎやかな都市の交通を模擬的に再現する。,,,
+166,simulation,noun,模擬実験,模擬実験、シミュレーション,The simulation showed how the bridge would move in strong wind.,その模擬実験は、強風の中で橋がどう動くかを示した。,,,
+167,simultaneously,adv,同時に,同時に,The two sensors recorded the data simultaneously.,二つのセンサーが同時にデータを記録した。,,,
+168,span,verb,わたる,わたる、及ぶ / またがる、架かる,The data in this study span more than twenty years.,この研究のデータは、20年以上の期間にわたっている。,名詞で「期間、幅」の意味も多い,,
+169,spatial,adj,空間的な,空間的な、空間の,"The task tests spatial skills, such as reading maps.",その課題は、地図の読み取りなどの空間的な能力を測るものだ。,,,
+170,spectrum,noun,スペクトル,スペクトル / 範囲、幅,White light can be split into a spectrum of colors.,白色光は、色のスペクトルに分けることができる。,a wide spectrum of 〜＝幅広い〜,,
+171,stance,noun,立場,立場、姿勢 / 構え,The author takes a critical stance on this theory.,著者は、この理論に対して批判的な立場をとっている。,take a stance on 〜＝〜について立場をとる,,
+172,static,adj,変化のない,変化のない、静的な / 静電気の,The population of the town remained static for decades.,その町の人口は何十年も変化のないままだった。,,,
+173,stimulus,noun,刺激,刺激、促進するもの,The new factory was a stimulus to the local economy.,新しい工場は地域経済への刺激となりました。,複数形はstimuli,,TSL
+174,strategic,adj,戦略的な,戦略的な / 戦略上重要な,Our team made a strategic decision to focus on online sales.,私たちのチームは、オンライン販売に力を入れるという戦略的な決定をしました。,,,TSL
+175,subjective,adj,主観的な,主観的な,Judging the quality of art is often highly subjective.,芸術の質を判断することは、しばしば非常に主観的だ。,反意語は objective（客観的な）,,
+176,subset,noun,部分集合,部分集合 / 一部のグループ,We used a small subset of the data for testing.,私たちは、データの小さな部分集合を検証に使った。,,,
+177,subtle,adj,微妙な,微妙な / 繊細な,There are subtle differences between the two samples.,二つのサンプルの間には微妙な違いがある。,bは発音しない（サトル）,,
+178,sufficiently,adv,十分に,十分に,The sample was not sufficiently large to draw firm conclusions.,そのサンプルは、確かな結論を出せるほど十分に大きくはなかった。,,,
+179,susceptible,adj,影響を受けやすい,影響を受けやすい、かかりやすい,Wooden bridges are susceptible to damage from water.,木の橋は水による損傷を受けやすい。,be susceptible to 〜 の形で使う,,
+180,sustainable,adj,持続可能な,持続可能な / 環境に優しい,The city is looking for sustainable ways to produce energy.,その市は、持続可能なエネルギー生産の方法を探している。,,,
+181,synthesis,noun,統合,統合、総合 / 合成,The review offers a synthesis of recent research on sleep.,その総説は、睡眠に関する最近の研究を統合して示している。,化学では「合成」の意味,,
+182,synthetic,adj,合成の,合成の、人工の / 総合的な,The lab developed a synthetic material that is stronger than steel.,その研究室は、鋼鉄よりも強い合成素材を開発した。,,,
+183,temporal,adj,時間的な,時間的な、時間の / 側頭の,Our data show a clear temporal pattern across the year.,私たちのデータは、1年を通じて明確な時間的パターンを示している。,「一時的な」は temporary なので注意,,
+184,terminology,noun,専門用語,専門用語、術語,New students often find the terminology hard to understand.,新入生は、専門用語を理解しにくいと感じることが多い。,,,
+185,theorist,noun,理論家,理論家,Many theorists have tried to explain how languages change.,多くの理論家が、言語がどのように変化するかを説明しようとしてきた。,,,
+186,thermal,adj,熱の,熱の、熱による / 保温性の,The camera can detect thermal energy from animals at night.,そのカメラは夜間、動物から出る熱エネルギーを感知できる。,,,
+187,threshold,noun,しきい値,しきい値、境目 / 敷居、入り口,Scores above this threshold were counted as high.,このしきい値を超える点数は、高いとみなされた。,,,
+188,tolerance,noun,寛容,寛容、許容 / 耐性,The survey measured tolerance of different opinions among students.,その調査は、学生の間での異なる意見に対する寛容さを測った。,,,
+189,traditionally,adv,伝統的に,伝統的に、昔から,This dish is traditionally served on New Year's Day.,この料理は、伝統的に元日に出されます。,,,TSL
+190,trait,noun,特性,特性、特徴,Researchers measured five personality traits in each participant.,研究者たちは、各参加者の5つの性格特性を測定した。,,,
+191,trajectory,noun,軌道,軌道、通り道 / 推移、たどる道筋,The camera recorded the trajectory of the ball.,カメラはボールの軌道を記録した。,,,
+192,transformation,noun,変容,変容 / 変換,The town went through a major transformation in the 1990s.,その町は、1990年代に大きな変容を遂げた。,,,
+193,transparency,noun,透明性,透明性、透明度,The journal asks authors for greater transparency about their data.,その学術誌は、著者にデータについてより高い透明性を求めている。,,,
+194,trivial,adj,ささいな,ささいな、取るに足りない,The difference between the two groups was trivial.,2つのグループの差はささいなものだった。,,,
+195,undermine,verb,徐々に損なう,徐々に損なう、弱める / 土台を崩す,Small errors in the data can undermine the whole study.,データの小さな誤りが、研究全体を損なうことがある。,,,
+196,usage,noun,使用量,使用量 / 語法,Our electricity usage goes up in the summer.,夏になると、電気の使用量が増えます。,使い方・使用の意味でも使う,,TSL
+197,utilize,verb,活用する,活用する、利用する,The study utilized data from more than fifty schools.,その研究は、50校を超える学校のデータを活用した。,use のかたい言い方,,
+198,valid,adj,妥当な,妥当な、正当な / 有効な,"That is a valid point, so let's change the plan.",それは妥当な指摘なので、計画を変えましょう。,反意語は invalid（妥当でない、無効な）,yes,TSL
+199,variant,noun,変種,変種 / 異形,The researchers found a new variant of the plant.,研究者たちは、その植物の新しい変種を発見した。,,,
+200,velocity,noun,速度,速度、速さ,The ball reached a velocity of ten meters per second.,そのボールは秒速10メートルの速度に達した。,,,
+201,viable,adj,実現可能な,実現可能な、成り立つ / 生存可能な,Solar power is now a viable option for many schools.,太陽光発電は今や、多くの学校にとって実現可能な選択肢だ。,,,
+202,vocabulary,noun,語彙,語彙,Reading widely helps students build a larger vocabulary.,幅広く読むことは、学生がより豊富な語彙を身につける助けになる。,,,
+203,absorb,verb,吸収する,吸収する / 夢中にさせる,These thick curtains absorb a lot of noise from the street.,この厚いカーテンは、通りの騒音をよく吸収します。,be absorbed in 〜＝〜に夢中になる,,TSL
+204,absorption,noun,吸収,吸収 / 没頭,We measured the absorption of water by different types of soil.,私たちは、さまざまな種類の土による水の吸収を測定した。,,,
+205,accelerate,verb,〜を加速させる,〜を加速させる / 加速する,"In general, higher temperatures accelerate most chemical reactions.",一般に、温度が高いほど、ほとんどの化学反応は加速される。,,,
+206,acceleration,noun,加速,加速 / 加速度,The students measured the acceleration of a falling ball.,学生たちは、落下するボールの加速の度合いを測定した。,,,
+207,acid,noun,酸,酸,The students added a small amount of acid to the water.,学生たちは、水に少量の酸を加えた。,形容詞で「酸性の・酸っぱい」も,,
+208,activate,verb,〜を作動させる,〜を作動させる、始動させる / 〜を有効にする、活性化する,Press this button to activate the alarm system.,警報装置を作動させるには、このボタンを押してください。,,,TSL
+209,actively,adv,積極的に,積極的に、活発に,We are actively looking for new office space.,私たちは新しいオフィスを積極的に探しています。,,,TSL
+210,acute,adj,深刻な,深刻な / 鋭い,The region is facing an acute shortage of water.,その地域は、深刻な水不足に直面している。,医学では「急性の」（⇔chronic）,,
+211,adjacent,adj,隣接した,隣接した / 近くの,The parking lot is adjacent to the main building.,駐車場は本館に隣接しています。,adjacent to ～の形が多い,,TSL
+212,adolescent,noun,思春期の若者,思春期の若者 / 10代の若者,The study followed two hundred adolescents for five years.,その研究は、200人の思春期の若者を5年間追跡した。,形容詞で「思春期の」も,,
+213,aesthetic,adj,美的な,美的な / 美学の,The building has both practical and aesthetic value.,その建物には、実用的な価値と美的な価値の両方がある。,,,
+214,affirm,verb,〜を肯定する,〜を肯定する / 〜と断言する,The study affirms the value of learning in small groups.,その研究は、少人数で学ぶことの価値を肯定している。,,,
+215,agriculture,noun,農業,農業 / 農学,Agriculture is still the main industry in the region.,その地域では、今でも農業が主要な産業だ。,,,
+216,alliance,noun,同盟,同盟 / 提携,The class studied why the two kingdoms formed an alliance.,授業では、その2つの王国がなぜ同盟を結んだのかを学んだ。,,,
+217,amino,noun,アミノ酸,アミノ酸、アミノ基,Proteins are made of long chains of amino acids.,たんぱく質はアミノ酸が長くつながってできている。,ふつう amino acid（アミノ酸）の形で使う,,
+218,amongst,prep,〜の間で,〜の間で / 〜の中で,This idea is popular amongst young researchers in the field.,この考えは、その分野の若い研究者の間で人気がある。,among と同じ意味。主に英国で使う,,
+219,amplitude,noun,振幅,振幅 / 大きさ、広さ,A louder sound has a larger amplitude.,大きな音ほど振幅が大きい。,,,
+220,analogy,noun,類推,類推、たとえ / 類似点,The teacher explained electricity by analogy with water in pipes.,先生は、管を流れる水との類推で電気を説明した。,by analogy with 〜＝〜から類推して,,
+221,ancestor,noun,祖先,祖先 / 原型,These two plants share a common ancestor.,この二つの植物は、共通の祖先を持っている。,,,
+222,anthropology,noun,人類学,人類学,She is studying anthropology at a university in Canada.,彼女はカナダの大学で人類学を学んでいる。,,,
+223,appendix,noun,付録,巻末の付録,You can find the full data in the appendix.,すべてのデータは付録に載っています。,複数形は appendices など,,TSL
+224,approximation,noun,近似値,近似値 / 近似,"The answer is only an approximation, not the exact value.",その答えは正確な値ではなく、近似値にすぎない。,,,
+225,array,noun,ずらりと並んだもの,ずらりと並んだもの / 配列,The lab has a wide array of tools for testing soil.,その研究室には、土壌を調べるための道具がずらりとそろっている。,a wide array of〜「多種多様な〜」,,
+226,articulate,verb,明確に述べる,明確に述べる / はっきり発音する,The paper does not clearly articulate its main question.,その論文は、主要な問いを明確に述べていない。,形容詞「明快な」は発音が異なる,,
+227,artifact,noun,人工遺物,人工遺物、工芸品 / 人為的に生じた誤差,The team found stone tools and other artifacts in the cave.,チームは洞窟で石器などの人工遺物を発見した。,英では artefact とつづる,,
+228,artificial,adj,人工の,人工の / 不自然な,Artificial intelligence is changing how we study language.,人工知能は、私たちの言語研究のあり方を変えつつある。,,,
+229,assembly,noun,組み立て,組み立て / 集会、議会,The assembly of each desk takes about thirty minutes.,机1台の組み立てには、約30分かかります。,assembly line は「組み立てライン」,,TSL
+230,assignment,noun,任された仕事,任された仕事 / 課題、宿題,My first assignment was to write a short report.,最初に任された仕事は、短い報告書を書くことでした。,動詞 assign は「割り当てる」,yes,TSL
+231,atom,noun,原子,原子,Everything around us is made of tiny atoms.,私たちの周りのすべてのものは小さな原子でできている。,,,
+232,atomic,adj,原子の,原子の / 原子力の,The class measured the atomic weight of several metals.,そのクラスはいくつかの金属の原子量を測定した。,,,
+233,bacteria,noun,細菌,細菌、バクテリア,Clean the kitchen counter often to remove bacteria.,細菌を取り除くために、台所の調理台をこまめに掃除しましょう。,bacteriumの複数形,,TSL
+234,bacterial,adj,細菌の,細菌の / 細菌による,The team counted bacterial cells in the river water.,チームは川の水に含まれる細菌の細胞を数えた。,,,
+235,basin,noun,流域,流域 / 盆地,Many farms are found in the river basin.,その川の流域には、多くの農場がある。,洗面器の意味もある,,
+236,bilingual,adj,二か国語を話す,二か国語を話す / 二か国語の,The study followed bilingual children from age three to ten.,その研究は、二か国語を話す子どもたちを3歳から10歳まで追跡した。,,,
+237,binary,adj,二進法の,二進法の / 二つの部分からなる,Computers store all data in binary form.,コンピューターはすべてのデータを二進法の形で保存する。,,,
+238,biodiversity,noun,生物多様性,生物多様性,Forests with many types of trees support greater biodiversity.,多くの種類の木がある森は、より豊かな生物多様性を支えている。,,,
+239,biology,noun,生物学,生物学,Emma wants to study biology at university next year.,エマは来年、大学で生物学を学びたいと思っています。,,,TSL
+240,bound,adj,縛られた,縛られた、義務を負った / 〜行きの,We are bound by the contract until next March.,私たちは来年の3月まで、その契約に縛られています。,be bound to＝きっと〜する。動詞で「境界となる」,,TSL
+241,bracket,noun,括弧,括弧 / 層、区分,Write the page numbers in brackets after each quote.,各引用の後に、ページ番号を括弧に入れて書きなさい。,age bracket＝年齢層,,
+242,breakdown,noun,故障,故障、機能の停止 / 内訳,The breakdown of the machine stopped our experiment for a week.,その機械の故障で、私たちの実験は1週間止まった。,a breakdown of 〜 で「〜の内訳」,,
+243,bulk,noun,大量,大量 / 大部分,We save money by buying paper in bulk.,私たちは紙を大量に買うことで、お金を節約しています。,in bulk で「大量に、まとめて」,,TSL
+244,capitalism,noun,資本主義,資本主義,The course examines the history of capitalism in Europe.,その講座では、ヨーロッパにおける資本主義の歴史を考察する。,,,
+245,carrier,noun,運送会社,運送会社 / 航空会社,The carrier will pick up the boxes this afternoon.,運送会社が今日の午後、箱を集荷に来ます。,携帯電話の通信会社も指す,,TSL
+246,characterization,noun,特徴づけ,特徴づけ / 人物描写,The paper offers a clear characterization of the problem.,その論文は、その問題について明確な特徴づけを示している。,,,
+247,chemistry,noun,化学,化学 / 相性,My sister teaches chemistry at a high school.,私の姉は高校で化学を教えている。,,,TSL
+248,chromosome,noun,染色体,染色体,Humans have 46 chromosomes in most of their cells.,人間のほとんどの細胞には46本の染色体がある。,,,
+249,chronic,adj,慢性的な,慢性的な、長引く,The office has a chronic shortage of parking spaces.,そのオフィスでは、駐車スペースが慢性的に不足しています。,長く続く問題全般に使う,,TSL
+250,circulation,noun,循環,循環 / 流通、発行部数,Open the windows to improve air circulation in the office.,オフィスの空気の循環をよくするために、窓を開けてください。,in circulation＝流通している,,TSL
+251,civilization,noun,文明,文明,Students learned how early civilizations used rivers for farming.,学生たちは初期の文明が農業に川をどう利用したかを学んだ。,英国式つづりはcivilisation,,
+252,classroom,noun,教室,教室,The study observed how teachers use time in the classroom.,その研究は、教師が教室でどのように時間を使うかを観察した。,,,
+253,client,noun,顧客,顧客 / 依頼人,I have a meeting with a new client today.,今日は新しい顧客と打ち合わせがあります。,,yes,TSL
+254,closure,noun,閉鎖,閉鎖 / 終結,The road closure caused delays for many drivers.,道路の閉鎖で、多くのドライバーに遅れが出た。,,,TSL
+255,commentary,noun,解説,解説 / 論評,The book includes a detailed commentary on each poem.,その本には、各詩についての詳しい解説が含まれている。,,,
+256,commodity,noun,商品,商品 / 一次産品,Coffee is one of the most traded commodities in the world.,コーヒーは、世界で最も多く取引されている商品の一つだ。,,,
+257,compensate,verb,〜に補償する,〜に補償する / 埋め合わせる,The airline will compensate passengers for the long delay.,航空会社は長時間の遅れについて乗客に補償する。,compensate for 〜 で「〜を埋め合わせる」,,TSL
+258,competence,noun,能力,能力 / 適性,The test measures students' competence in written English.,そのテストは、学生の英語で書く能力を測定する。,,,
+259,complement,noun,補完するもの,補完するもの / 補語,Online lessons are a useful complement to classroom teaching.,オンライン授業は、教室での授業を補完する有用なものだ。,compliment（ほめ言葉）と混同注意,,
+260,comply,verb,〜を順守する,〜を順守する、〜に従う / 〜に応じる,Visitors must comply with the rules of the building.,訪問者は建物の規則を順守しなければならない。,comply with 〜 の形で使う,,TSL
+261,composite,adj,複合の,複合の、合成の,Engineers tested a light composite material for the new bridge.,技術者たちは、新しい橋のために軽い複合材料を試験した。,名詞「合成物」としても使う,,
+262,comprehension,noun,理解力,理解力 / 理解,This exercise will improve your listening comprehension.,この練習で、リスニングの理解力が上がります。,,yes,TSL
+263,computation,noun,演算,演算 / 計算方法,The computation took the computer about three hours.,その演算には、コンピューターで約3時間かかった。,,,
+264,conceive,verb,考え出す,〜を考え出す / 〜を想像する,Two students conceived the idea for the project last year.,2人の学生が昨年そのプロジェクトのアイデアを考え出した。,conceive of 〜で「〜を想像する」,,
+265,conception,noun,概念,概念 / 考え方,Children often have a simple conception of time.,子どもは時間について単純な概念を持っていることが多い。,,,
+266,conditional,adj,条件付きの,条件付きの / 条件次第の,The offer is conditional on passing the final exam.,その申し出は、最終試験に合格することを条件としている。,conditional on 〜「〜を条件とする」,,
+267,configuration,noun,配置,配置 / 設定,The researchers tested three different configurations of the solar panels.,研究者たちは、太陽光パネルの三つの異なる配置を試した。,,,
+268,confine,verb,限定する,〜を限定する / 〜を閉じ込める,We confined our study to first-year students.,私たちは研究の対象を1年生に限定した。,confine A to B で「AをBに限る」,,
+269,confound,verb,〜を困惑させる,〜を困惑させる / 〜を混同する、交絡させる,The strange results confounded the research team for weeks.,その奇妙な結果に、研究チームは何週間も困惑した。,統計では「交絡させる」の意で使う,,
+270,connotation,noun,含意,含意、言外の意味,The word 'cheap' often has a negative connotation.,cheap という語は、しばしば否定的な含意をもつ。,,,
+271,conscious,adj,意識している,意識している / 意識のある,Participants were conscious of being watched during the test.,参加者たちは、試験中に見られていることを意識していた。,be conscious of 〜「〜に気づいている」,,
+272,consciousness,noun,意識,意識 / 自覚,Scientists still cannot fully explain how consciousness works.,科学者たちは、意識の仕組みをまだ完全には説明できていない。,,,
+273,consent,noun,同意,同意、承諾 / 許可,We need your written consent to use your photo.,あなたの写真を使うには、書面による同意が必要です。,動詞では consent to 〜（〜に同意する）,,TSL
+274,conservation,noun,保護,自然などの保護 / 保存,The university runs a forest conservation project with local schools.,その大学は地元の学校と森林保護の事業を行っている。,物理ではエネルギーの「保存」の意味,,
+275,consultation,noun,相談,相談 / 協議,The first consultation with our designer is free.,デザイナーとの最初の相談は無料です。,,,TSL
+276,continuity,noun,継続性,継続性 / 連続性,Keeping the same staff helps protect the continuity of the research.,スタッフを替えずにいることは、研究の継続性を保つのに役立つ。,,,
+277,contradict,verb,矛盾する,矛盾する / 反論する,These numbers contradict the report from last week.,これらの数字は、先週の報告と矛盾しています。,,yes,TSL
+278,contradiction,noun,矛盾,矛盾 / 否定、反論,There is a contradiction between the two reports.,2つの報告書の間には、矛盾があります。,,,TSL
+279,contradictory,adj,矛盾した,矛盾した / 相反する,The two reports give contradictory results about the same group.,その2つの報告書は同じ集団について矛盾した結果を示している。,,,
+280,contrary,adj,反対の,反対の、逆の,"Contrary to our expectations, the event was very popular.",私たちの予想に反して、そのイベントは大人気でした。,contrary to 〜で「〜に反して」,,TSL
+281,controversy,noun,論争,論争 / 議論,The new theory caused a lot of controversy among scientists.,その新しい理論は科学者の間で多くの論争を引き起こした。,,,
+282,converge,verb,一点に集まる,一点に集まる、収束する,The two lines converge at a point near the top.,その2本の線は、上部近くで一点に集まる。,,,
+283,convergence,noun,収束,収束、一点への集中,The study shows a convergence of views among experts.,その研究は、専門家の間で見解が収束していることを示している。,,,
+284,coordinate,verb,調整する,調整する,Emma will coordinate the schedule for the training event.,研修イベントの日程はエマが調整します。,,,TSL
+285,coordination,noun,連携,連携 / 調整,Good coordination between the two labs saved a lot of time.,2つの研究室の間の連携がうまくいき、多くの時間を節約できた。,体の動きの「協調」の意味もある,,
+286,corpus,noun,言語資料,言語資料、コーパス / 作品や文書の集成,The researchers built a corpus of one million words.,研究者たちは100万語の言語資料を作った。,複数形は corpora,,
+287,correction,noun,訂正,訂正,Please make the corrections and send the file back today.,訂正をして、今日中にファイルを送り返してください。,,,TSL
+288,correctly,adv,正しく,正しく / 正確に,Please make sure you fill in the form correctly.,用紙に正しく記入したか確認してください。,,yes,TSL
+289,correspondence,noun,文書のやり取り,文書のやり取り / 一致,Please keep all correspondence with the client in this folder.,顧客とのやり取りの文書は、すべてこのフォルダーに保管してください。,,,TSL
+290,cortex,noun,皮質,皮質 / 大脳皮質,The outer layer of the brain is called the cortex.,脳の外側の層は皮質と呼ばれる。,,,
+291,credibility,noun,信頼性,信頼性 / 信用,Errors in the data hurt the credibility of the report.,データの誤りが、その報告書の信頼性を損なった。,,,
+292,critically,adv,批判的に,批判的に / 決定的に,Students should read each source critically before using it.,学生は資料を使う前に、それぞれを批判的に読むべきだ。,「極めて」の意味でも使う,,
+293,crude,adj,粗雑な,粗雑な / 未加工の,We made a crude model of the bridge from paper.,私たちは紙で、橋の粗雑な模型を作った。,crude oil「原油」,,
+294,cue,noun,手がかり,手がかり、合図 / きっかけ,Children use visual cues to learn the meaning of new words.,子どもは、新しい語の意味を学ぶために視覚的な手がかりを使う。,,,
+295,curriculum,noun,教育課程,教育課程 / カリキュラム,The school added a coding class to its curriculum.,その学校は教育課程にプログラミングの授業を加えた。,複数形はcurriculaまたはcurriculums,,
+296,decay,verb,腐敗する,腐敗する / 衰える,Dead plants decay and return nutrients to the soil.,枯れた植物は腐敗して、栄養分を土に戻す。,名詞「腐敗、衰退」でも使う,,
+297,defect,noun,欠陥,欠陥 / 欠点,We found a small defect in the new machine.,新しい機械に小さな欠陥が見つかりました。,,,TSL
+298,deficiency,noun,欠乏,欠乏 / 欠陥,The study found a deficiency of iron in the soil.,その研究で、土壌中の鉄の欠乏が明らかになった。,,,
+299,definite,adj,明確な,明確な / 確定した,We need a definite answer by Friday.,金曜日までに明確な返事が必要です。,副詞definitelyは「確かに」,,TSL
+300,degrade,verb,劣化する,劣化する、分解する / 品位を下げる,The quality of the images degrades each time they are copied.,画像の質は、コピーするたびに劣化する。,,,
+301,deliberately,adv,意図的に,意図的に / 慎重に,The researchers deliberately chose a small group of students.,研究者たちは意図的に少人数の学生グループを選んだ。,,,
+302,dense,adj,密集した,密集した / 密度の高い,The forest was so dense that little light reached the ground.,その森は木々が密集していて、地面にはほとんど光が届かなかった。,,,
+303,dependence,noun,依存,依存、頼ること,The company wants to reduce its dependence on one supplier.,その会社は、1社の仕入れ先への依存を減らしたいと考えています。,dependence on A で「Aへの依存」,,TSL
+304,depict,verb,描写する,〜を描写する / 〜を描く,The old painting depicts daily life in a small village.,その古い絵は小さな村の日常生活を描写している。,,,
+305,derivative,adj,派生的な,派生的な / 独創性のない,Her early paintings were derivative of her teacher's style.,彼女の初期の絵は、先生の作風から派生したものだった。,名詞で「派生物」、数学で「導関数」,,
+306,descriptor,noun,記述語,記述語、説明に使う語 / 記述子,Participants chose a descriptor for each picture from a list.,参加者は各写真に合う記述語を一覧から選んだ。,,,
+307,diagnose,verb,〜を診断する,〜を診断する / 〜の原因を突き止める,The technician quickly diagnosed the problem with our network.,技術者は私たちのネットワークの問題をすぐに診断した。,機械やシステムの不具合にも使う,,TSL
+308,diagnosis,noun,診断,診断 / 原因の分析,The software provides an automatic diagnosis of network problems.,そのソフトウェアは、ネットワークの問題の自動診断を行う。,複数形は diagnoses,,
+309,diagnostic,adj,診断の,診断の、診断用の,The mechanic ran a diagnostic test on my car.,整備士が私の車の診断テストを行いました。,機械の故障診断にもよく使う,,TSL
+310,diagram,noun,図解,図、図解,This diagram shows how the new system works.,この図解は、新しいシステムの仕組みを示しています。,,,TSL
+311,dialect,noun,方言,方言,She recorded the local dialect of an island village.,彼女はある島の村の方言を録音した。,,,
+312,differential,adj,差異のある,差異のある、異なる / 微分の,The study found differential effects of the program on boys and girls.,その研究で、そのプログラムの効果に男女で差異があることが分かった。,名詞「差、格差」としても使う,,
+313,differentiation,noun,差別化,差別化 / 分化,Product differentiation helps small companies compete with larger ones.,製品の差別化は、小さな企業が大企業と競争する助けになる。,生物で「分化」、数学で「微分」,,
+314,diffusion,noun,拡散,拡散 / 普及、伝播,The experiment shows the diffusion of ink in warm water.,その実験は、温かい水の中でのインクの拡散を示している。,,,
+315,dilemma,noun,ジレンマ,ジレンマ / 板挟み,Researchers often face a dilemma between speed and accuracy.,研究者はしばしば、速さと正確さの間でジレンマに直面する。,,,
+316,dilute,verb,薄める,薄める / 弱める,We diluted the solution with water before the test.,私たちは、試験の前にその溶液を水で薄めた。,形容詞「薄めた、希薄な」もある,,
+317,dioxide,noun,二酸化物,二酸化物,Trees take in carbon dioxide from the air.,木は、空気中から二酸化炭素を取り込む。,carbon dioxide「二酸化炭素」で頻出,,
+318,directive,noun,指令,指令 / 指示,A new directive requires every lab to keep safety records.,新しい指令により、すべての研究室は安全記録をつけることが求められている。,,,
+319,disadvantage,noun,不利な点,不利な点 / 欠点,One disadvantage of this method is its high cost.,この方法の不利な点の一つは、費用が高いことだ。,,,
+320,discrimination,noun,差別,差別 / 識別,The study looked at discrimination in hiring across several cities.,その研究はいくつかの都市における採用時の差別を調べた。,,,
+321,displacement,noun,移動,移動 / 置き換え,The study measured the displacement of soil after heavy rain.,その研究は、大雨の後の土砂の移動を測定した。,物理では「変位」,,
+322,dissertation,noun,学位論文,学位論文、博士論文,She spent three years writing her dissertation on local history.,彼女は地域の歴史に関する学位論文を3年かけて書いた。,,,
+323,dissolve,verb,溶ける,溶ける / 解散する,The powder dissolves completely in water within two minutes.,その粉末は、2分以内に水に完全に溶ける。,他動詞「溶かす」でも使う,,
+324,disturbance,noun,妨げ,妨げ / 騒ぎ,The building work caused a lot of disturbance to classes.,建設工事は、授業の大きな妨げとなった。,,,
+325,dominance,noun,優位,優位、支配 / 優性,The study explains the dominance of English in science.,その研究は、科学における英語の優位を説明している。,,,
+326,ecological,adj,生態学的な,生態学的な / 生態系の,The project studies the ecological effects of new roads.,そのプロジェクトは、新しい道路がもたらす生態学的な影響を研究している。,,,
+327,ecology,noun,生態学,生態学 / 生態系,She is taking a course in forest ecology this term.,彼女は今学期、森林生態学の講座を受けている。,,,
+328,economically,adv,経済的に,経済的に / 節約して,The town has grown economically over the last ten years.,その町はこの10年で、経済的に成長しました。,,,TSL
+329,economist,noun,経済学者,経済学者,The economist expects prices to rise next year.,その経済学者は、来年は物価が上がると予想している。,,,TSL
+330,elaborate,adj,手の込んだ,手の込んだ / 精巧な,The students built an elaborate model of the solar system.,学生たちは太陽系の手の込んだ模型を作った。,動詞で「詳しく述べる」。発音が異なる,,
+331,elasticity,noun,弾力性,弾力性、弾性 / 柔軟性,The test measures the elasticity of different types of rubber.,その試験は、さまざまな種類のゴムの弾力性を測る。,経済学の「価格弾力性」にも使う,,
+332,electron,noun,電子,電子,An electron carries a negative electric charge.,電子は、負の電荷を帯びている。,,,
+333,elimination,noun,除去,除去 / 排除,The elimination of errors took the team several weeks.,誤りの除去にチームは数週間かかった。,,,
+334,elite,noun,エリート,エリート / 上流階級,"In the past, only the elite could attend university.",昔は、エリートだけが大学に通うことができた。,集団全体を指してthe eliteと言うことが多い,,
+335,emission,noun,排出,排出 / 排出量,The report shows that carbon emissions fell last year.,その報告書は、昨年炭素の排出量が減ったことを示している。,,,
+336,emit,verb,発する,〜を発する / 〜を排出する,Some deep-sea fish emit a soft blue light.,深海の魚の中には、柔らかい青い光を発するものがいる。,,,
+337,encode,verb,〜を符号化する,〜を符号化する、暗号化する / 遺伝情報として指定する,Each letter is encoded as a set of numbers.,それぞれの文字は数字の組として符号化される。,,,
+338,enzyme,noun,酵素,酵素,This enzyme helps break down sugar in plant cells.,この酵素は、植物細胞の中で糖の分解を助ける。,,,
+339,epidemiology,noun,疫学,疫学,She chose epidemiology as her main field of research.,彼女は研究の主な分野として疫学を選んだ。,,,
+340,equality,noun,平等,平等 / 等しいこと,The paper discusses equality of access to higher education.,その論文は、高等教育を受ける機会の平等について論じている。,,,
+341,equivalence,noun,同等性,同等性、等価であること,We checked the equivalence of the two test versions.,私たちは2種類のテストの同等性を確認した。,,,
+342,essence,noun,本質,本質 / エッセンス,The essence of the argument is quite simple.,その議論の本質は、とても単純だ。,in essence「本質的に、要するに」,,
+343,estimation,noun,推定,推定 / 評価,Accurate estimation of bird numbers is difficult in large forests.,広い森では、鳥の数の正確な推定は難しい。,,,
+344,evolutionary,adj,進化の,進化の / 漸進的な,The course covers the evolutionary history of birds.,その講座は鳥の進化の歴史を扱う。,,,
+345,expertise,noun,専門知識,専門知識,We need someone with expertise in website design.,ウェブサイトのデザインに専門知識を持つ人が必要です。,,,TSL
+346,exploit,verb,不当に利用する,〜を不当に利用する / 〜を最大限に活用する,The report shows how some firms exploit workers in poor regions.,その報告書は、一部の企業が貧しい地域の労働者をいかに不当に利用しているかを示している。,「資源を開発・活用する」の意味もある,,
+347,exponential,adj,指数関数的な,指数関数的な、急激な / 指数の,The number of papers in this field shows exponential growth.,この分野の論文数は指数関数的な増加を示している。,,,
+348,facet,noun,側面,側面、一面 / 宝石の切り子面,Each facet of the problem needs careful study.,その問題の一つひとつの側面を注意深く研究する必要がある。,,,
+349,faculty,noun,教授陣,教授陣、教職員 / 学部,All faculty members are invited to the welcome party.,教員は全員、歓迎会に招待されています。,「能力、機能」の意味もある,,TSL
+350,fatigue,noun,疲労,疲労,Many travelers feel fatigue after a long flight.,長時間のフライトの後、多くの旅行者が疲労を感じます。,,,TSL
+351,fertility,noun,肥沃さ,肥沃さ / 繁殖力,The researchers measured the fertility of soil in each field.,研究者たちはそれぞれの畑の土の肥沃さを測定した。,人口統計では「出生率」の意味,,
+352,flexibility,noun,柔軟性,柔軟性、融通,This job offers flexibility in working hours.,この仕事は、勤務時間に柔軟性があります。,,,TSL
+353,fluid,adj,流動的な,流動的な / 流体の,"The situation is still fluid, so plans may change.",状況はまだ流動的なので、計画は変わるかもしれない。,名詞「流体、液体」でも多く使う,,
+354,flux,noun,流動,流動、絶え間ない変化 / 流束,The field of computer science is in constant flux.,コンピューター科学の分野は、常に流動的な状態にある。,in flux で「流動的で」,,
+355,formally,adv,正式に,正式に / 改まって、形式ばって,The new manager was formally introduced at the meeting.,新しい部長が、会議で正式に紹介されました。,formerly（以前は）と区別,,TSL
+356,formulation,noun,策定,策定 / 定式化,Students helped in the formulation of the new library rules.,学生たちは図書館の新しい規則の策定に協力した。,製品の「配合」の意味もある,,
+357,found,verb,設立する,〜を設立する / 〜の基礎を築く,A group of teachers founded the college in 1920.,教師のグループが1920年にその大学を設立した。,findの過去形とは別の語。活用はfounded,,
+358,freely,adv,自由に,自由に / 惜しみなく,Students can freely choose their own research topics.,学生は自分の研究テーマを自由に選ぶことができる。,,,
+359,friction,noun,摩擦,摩擦 / 不和、あつれき,Friction between the two surfaces slows the box down.,2つの面の間の摩擦によって、箱の動きが遅くなる。,,,
+360,fundamentally,adv,根本的に,根本的に / 基本的に,The new data fundamentally changed our view of the problem.,新しいデータは、その問題に対する私たちの見方を根本的に変えた。,,,
+361,genetically,adv,遺伝的に,遺伝的に / 遺伝子の面で,The two plants are genetically very similar.,その2つの植物は遺伝的にとてもよく似ている。,,,
+362,genetics,noun,遺伝学,遺伝学 / 遺伝的性質,She plans to study genetics at graduate school.,彼女は大学院で遺伝学を学ぶ予定だ。,-sで終わるが単数扱い,,
+363,globalization,noun,グローバル化,グローバル化 / 世界規模化,Globalization has changed the way students choose universities.,グローバル化は、学生の大学の選び方を変えた。,英国式つづりはglobalisation,,
+364,goodness,noun,良さ,良さ / 善良さ,The researchers checked the goodness of fit of their model.,研究者たちは、自分たちのモデルの当てはまりの良さを確認した。,統計の goodness of fit は「適合度」,,
+365,goods,noun,品物,品物 / 商品,The goods will arrive at the store tomorrow.,品物は明日、店に届きます。,常に複数形で使う,yes,TSL
+366,gradient,noun,勾配,勾配、傾き / 変化の度合い,The path has a steep gradient near the top.,その道は頂上付近で勾配が急になっている。,,,
+367,grammatical,adj,文法の,文法の / 文法的に正しい,The teacher marked every grammatical error in my essay.,先生は私の作文の文法の誤りをすべて指摘した。,,,
+368,graph,noun,グラフ,グラフ,This graph shows our sales over the past year.,このグラフは、過去1年間の当社の売上を示しています。,,,TSL
+369,gross,adj,総計の,総計の / ひどい,The report lists the gross income of each research center.,報告書には各研究センターの総収入が載っている。,口語で「気持ち悪い」の意味もある,,
+370,habitat,noun,生息地,生息地,Many birds are losing their natural habitat.,多くの鳥が、本来の生息地を失いつつある。,,,
+371,horizontal,adj,水平の,水平の / 横の,The horizontal axis of the graph shows time.,グラフの水平軸は、時間を示している。,⇔vertical（垂直の）,,
+372,ideology,noun,イデオロギー,イデオロギー / 観念体系,The course examines the role of ideology in school textbooks.,その講座は学校の教科書におけるイデオロギーの役割を検討する。,,,
+373,immune,adj,免疫のある,免疫のある / 影響を受けない,Some insects are immune to the poison in these leaves.,この葉に含まれる毒に免疫がある昆虫もいる。,be immune to 〜で「〜に免疫がある」,,
+374,incidence,noun,発生率,発生率 / 発生,The incidence of power cuts has fallen in recent years.,停電の発生率は、近年低下している。,incident（出来事）と混同注意,,
+375,independently,adv,独立して,独立して / 自力で,Two teams reached the same result independently.,2つのチームが独立して同じ結果に到達した。,,,
+376,indigenous,adj,先住の,先住の / その土地固有の,The project records the languages of indigenous communities.,そのプロジェクトは、先住民の共同体の言語を記録している。,,,
+377,indirect,adj,間接的な,間接的な / 遠回しの、遠回りの,Higher fuel costs have an indirect effect on food prices.,燃料費の上昇は、食品の価格に間接的な影響を与えます。,,,TSL
+378,individually,adv,個別に,個別に、一人ずつ,The manager met with each team member individually.,マネージャーは、チームのメンバー一人ひとりと個別に面談しました。,,,TSL
+379,induce,verb,引き起こす,引き起こす / 促す,Bright light can induce changes in plant growth.,強い光は、植物の成長に変化を引き起こすことがある。,induce A to do「Aに〜させる」,,
+380,induction,noun,新人研修,新人研修、導入 / 誘導、帰納,All new staff attend a one-day induction in April.,新しいスタッフは全員、4月に1日の新人研修を受けます。,「就任、入会」の意味もある,,TSL
+381,industrialization,noun,工業化,工業化 / 産業化,Rapid industrialization changed the lives of many farmers.,急速な工業化は、多くの農民の生活を変えた。,,,
+382,inevitably,adv,必然的に,必然的に / 必ず,Small samples inevitably lead to less reliable results.,小さな標本は必然的に信頼性の低い結果につながる。,,,
+383,inferior,adj,劣った,劣った / 下位の,The cheaper material proved inferior in strength tests.,安い方の素材は、強度試験で劣っていることが分かった。,比較は than でなく to を使う,,
+384,infinite,adj,無限の,無限の / 莫大な,"In theory, the number of possible sentences is infinite.",理論上、ありうる文の数は無限だ。,発音はインフィニット,,
+385,informal,adj,非公式の,非公式の、略式の / 形式ばらない、くだけた,The two companies reached an informal agreement last week.,両社は先週、非公式の合意に達しました。,反意語は formal（正式の）,,TSL
+386,inhibition,noun,抑制,抑制 / ためらい,The experiment showed strong inhibition of growth at low temperatures.,その実験では、低温で成長が強く抑制されることが示された。,心理では「ためらい、気後れ」,,
+387,initiate,verb,開始する,〜を開始する / 〜を始める,The university initiated a new program for exchange students.,その大学は留学生のための新しいプログラムを開始した。,,,
+388,innate,adj,生まれつきの,生まれつきの、生得的な,Some researchers believe that language ability is innate.,言語能力は生まれつきのものだと考える研究者もいる。,,,
+389,instability,noun,不安定さ,不安定さ / 変わりやすさ,The instability of the structure worried the engineers.,その構造物の不安定さが、技術者たちを心配させた。,,,
+390,integral,adj,全体に欠かせない,全体に欠かせない、不可欠な,Customer service is an integral part of our business.,顧客サービスは、当社の事業に不可欠な部分です。,an integral part of の形が多い,,TSL
+391,intensive,adj,集中的な,集中的な / 徹底的な,The course offers intensive training in data analysis.,その講座では、データ分析の集中的な訓練を行う。,,,
+392,interface,noun,接点,接点 / インターフェース,The study explores the interface between art and science.,その研究は、芸術と科学の接点を探っている。,,,
+393,interfere,verb,干渉する,干渉する / 邪魔をする,My boss never interferes in how I plan my day.,上司は、私の1日の予定の立て方に決して干渉しません。,in は干渉、with は邪魔の意味,,TSL
+394,intermediate,adj,中間の,中間の / 中級の,The process includes an intermediate step between the two tests.,その工程には、2つの試験の間に中間の段階がある。,,,
+395,intervene,verb,介入する,介入する / 仲裁する,The teacher intervened when the group could not agree.,グループの意見がまとまらなかったとき、先生が介入した。,,,
+396,interviewer,noun,面接者,面接者 / インタビュアー,The interviewer asked each participant the same five questions.,面接者は、各参加者に同じ5つの質問をした。,受ける側は interviewee,,
+397,irrelevant,adj,無関係な,無関係な、見当違いの,That question is irrelevant to today's discussion.,その質問は今日の議論とは無関係です。,be irrelevant toの形が多い,,TSL
+398,irrigation,noun,かんがい,かんがい、農地への給水,Better irrigation helped farmers grow more rice.,かんがいが改善されたことで、農家はより多くの米を育てられるようになった。,漢字では「灌漑」,,
+399,lab,noun,実験室,実験室 / 研究所,Our team tests every new product in the lab.,私たちのチームは、新製品をすべて実験室でテストします。,laboratory の短縮形,,TSL
+400,layout,noun,配置,配置 / 割り付け,We changed the layout of the office last week.,先週、オフィスの配置を変えた。,,,TSL
+401,legitimate,adj,正当な,正当な / 合法の,Students raised a legitimate question about the grading system.,学生たちは成績評価の仕組みについて正当な疑問を投げかけた。,,,
+402,lexical,adj,語彙の,語彙の、語彙的な,Children make fewer lexical errors as they grow older.,子どもは成長するにつれて、語彙の誤りが少なくなる。,,,
+403,lifestyle,noun,生活様式,生活様式 / ライフスタイル,Moving to the countryside changed my lifestyle completely.,田舎に引っ越して、私の生活様式はすっかり変わりました。,,,TSL
+404,lifetime,noun,生涯,生涯 / 寿命,Traveling around the world was the dream of a lifetime.,世界一周旅行は生涯の夢だった。,,,TSL
+405,linguistics,noun,言語学,言語学,She plans to study linguistics at graduate school next year.,彼女は来年、大学院で言語学を学ぶ予定だ。,-s で終わるが単数扱い,,
+406,liter,noun,リットル,リットル,The tank holds about fifty liters of water.,そのタンクには約50リットルの水が入ります。,英式つづりはlitre,,TSL
+407,locally,adv,地元で,地元で,All the vegetables at this restaurant are grown locally.,このレストランの野菜はすべて地元で栽培されている。,,,TSL
+408,locus,noun,所在,所在、中心となる場所 / 遺伝子座、軌跡,The study tried to find the locus of the problem.,その研究は問題の所在を突き止めようとした。,複数形は loci,,
+409,logical,adj,論理的な,論理的な / 筋の通った,We need a logical way to solve this problem.,この問題を解決する論理的な方法が必要です。,,yes,TSL
+410,loop,noun,ループ,ループ、輪 / 循環,The program repeats the same steps in a loop.,そのプログラムは、同じ手順をループで繰り返す。,feedback loop＝フィードバックの循環,,
+411,machinery,noun,機械類,機械類,The factory bought new machinery to make more products.,その工場は、より多くの製品を作るために新しい機械類を導入しました。,数えられない名詞。個々は machine,,TSL
+412,manipulate,verb,操作する,〜を操作する / 〜を巧みに操る,"In the experiment, we manipulated the room temperature.",実験では、私たちは室温を操作した。,人を「操る」という悪い意味もある,,
+413,manipulation,noun,操作,操作 / 改ざん,The experiment involved simple manipulation of sound levels.,その実験には音量の簡単な操作が含まれていた。,,,
+414,manuscript,noun,原稿,原稿 / 写本,She sent the final manuscript to the journal last week.,彼女は先週、最終原稿を学術誌に送った。,,,
+415,marginal,adj,わずかな,わずかな / 周辺的な,The new method gave only a marginal improvement in speed.,その新しい方法は速度にわずかな改善しかもたらさなかった。,経済学では「限界の」の意味（限界費用など）,,
+416,marker,noun,目印,目印 / 指標,The researchers placed a small marker at each test site.,研究者たちは、それぞれの試験地点に小さな目印を置いた。,マーカーペンの意味もある,,
+417,maternal,adj,母親の,母親の、母性の / 母方の,The study looked at maternal care in birds.,その研究は、鳥における母親の子育て行動を調べた。,父親の場合は paternal,,
+418,media,noun,報道機関,報道機関、マスコミ / 媒体,The new product got a lot of media attention.,その新製品は報道機関の大きな注目を集めました。,medium の複数形,yes,TSL
+419,membrane,noun,膜,膜、薄い膜,Water passes through the thin membrane of the cell.,水は、細胞の薄い膜を通り抜ける。,,,
+420,mentor,noun,指導者,信頼できる指導者,Ken became a mentor to many young engineers.,ケンは多くの若い技術者の指導者になった。,経験を生かして相談に乗り、育てる人,,TSL
+421,metabolism,noun,代謝,代謝、新陳代謝,Small animals usually have a faster metabolism than large ones.,小さな動物はふつう、大きな動物よりも代謝が速い。,,,
+422,metaphor,noun,比喩,比喩、隠喩,The writer uses the sea as a metaphor for time.,その作家は、海を時間の比喩として使っている。,as a metaphor for 〜＝〜の比喩として,,
+423,micro,adj,ミクロの,ミクロの、微小な,The study looks at society at the micro level.,その研究は、社会をミクロのレベルで見ている。,接頭辞 micro- としても使う。対は macro,,
+424,mid,adj,中ごろの,中ごろの、中間の,The data was collected from early May to mid-June.,データは5月初めから6月中ごろにかけて集められた。,mid-June のようにハイフンで続けることが多い,,
+425,migrate,verb,移住する,移住する / 渡る,Many young people migrate to cities to find work.,多くの若者が仕事を求めて都市へ移住する。,鳥や動物が「渡る」の意味でも使う,,
+426,migration,noun,移住,移住 / 渡り,The study examines migration from rural areas to large cities.,その研究は農村部から大都市への移住を調べている。,,,
+427,millimeter,noun,ミリメートル,ミリメートル,The insect is only three millimeters long.,その昆虫は体長がわずか3ミリメートルだ。,英では millimetre とつづる,,
+428,mineral,noun,鉱物,鉱物 / ミネラル,The region is rich in minerals like iron and copper.,その地域は鉄や銅などの鉱物が豊富です。,mineral water＝ミネラルウォーター,,TSL
+429,mobility,noun,移動のしやすさ,移動のしやすさ / 流動性,Cheap trains improved the mobility of workers in the region.,安い列車によって、その地域の労働者の移動のしやすさが向上した。,social mobilityで「社会的流動性」,,
+430,modification,noun,修正,修正、変更,We made a few modifications to the original design.,私たちは元のデザインに、いくつか修正を加えました。,,,TSL
+431,molecular,adj,分子の,分子の,She works in a molecular biology lab.,彼女は分子生物学の研究室で働いている。,,,
+432,molecule,noun,分子,分子,Students drew the shape of a simple molecule.,学生たちは単純な分子の形を描いた。,,,
+433,momentum,noun,勢い,勢い、はずみ / 運動量,The research project gained momentum after the first results.,その研究計画は、最初の結果が出た後に勢いを得た。,gain momentum＝勢いを増す,,
+434,monetary,adj,金銭的な,金銭的な、貨幣の / 金融の、通貨の,The study measured the monetary value of clean air.,その研究は、きれいな空気の金銭的な価値を測定した。,monetary policy＝金融政策,,
+435,morphological,adj,形態の,形態の、形態学の / 語形の,The two species show clear morphological differences.,その2つの種には、はっきりとした形態の違いがある。,,,
+436,morphology,noun,形態論,形態論、形態学 / 形、構造,Morphology studies how words are built from smaller parts.,形態論は、語がより小さな部分からどのように作られるかを研究する。,生物学では「形態学」,,
+437,mortality,noun,死亡率,死亡率 / 死を免れないこと,The study recorded the mortality of young fish in the river.,その研究は川の稚魚の死亡率を記録した。,,,
+438,multiply,verb,掛け算する,掛け算する、掛ける / 大幅に増える、増殖する,Multiply the result by two to find the total.,合計を出すには、その結果に2を掛けなさい。,multiply A by B＝AにBを掛ける,,
+439,mutation,noun,突然変異,突然変異 / 変化,A single mutation can change the color of a flower.,たった一つの突然変異で、花の色が変わることがある。,,,
+440,necessity,noun,必需品,必需品 / 必要性,A good laptop is a necessity for this job.,この仕事には、性能のよいノートパソコンが必需品です。,,,TSL
+441,neuron,noun,神経細胞,神経細胞、ニューロン,Each neuron sends signals to many other cells.,それぞれの神経細胞は、他の多くの細胞に信号を送る。,,,
+442,neutral,adj,中立の,中立の / 中性の,Researchers should use neutral words when they write survey questions.,研究者は調査の質問を書くとき、中立的な言葉を使うべきだ。,化学では「中性の」の意味,,
+443,niche,noun,生態的地位,生態的地位、適所 / すき間市場,Each species fills a different niche in the forest.,それぞれの種は、森の中で異なる生態的地位を占めている。,,,
+444,nitrogen,noun,窒素,窒素,Nitrogen makes up most of the air we breathe.,私たちが吸う空気の大部分は窒素だ。,,,
+445,node,noun,結節点,結節点、ノード / 節,Each node in the network stands for one student.,そのネットワークの各結節点は、1人の学生を表している。,,,
+446,nominal,adj,名目上の,名目上の、名ばかりの / ごくわずかな,"He is the nominal head of the project, but Emma leads it.",彼はその計画の名目上の責任者だが、実際に率いているのはエマだ。,,,
+447,nonlinear,adj,非線形の,非線形の、直線的でない,The data show a nonlinear pattern over the ten years.,そのデータは、10年間にわたる非線形のパターンを示している。,non-linear とも書く,,
+448,notation,noun,表記法,表記法、記号体系,Students must learn the notation used in this field.,学生はこの分野で使われる表記法を学ばなければならない。,,,
+449,novice,noun,初心者,初心者、新米,The study compared how experts and novices solve problems.,その研究は、専門家と初心者の問題の解き方を比較した。,,,
+450,nucleus,noun,核,核、細胞核 / 中心,The nucleus contains most of the cell's genetic information.,核には、細胞の遺伝情報の大部分が含まれている。,複数形は nuclei,,
+451,numerical,adj,数値の,数値の、数の,Each answer was given a numerical score from one to five.,各回答には、1から5までの数値の得点が与えられた。,,,
+452,nutrient,noun,養分,養分、栄養素,Plants take in nutrients from the soil through their roots.,植物は、根を通して土から養分を取り込む。,,,
+453,obscure,adj,不明瞭な,不明瞭な、分かりにくい / 無名の,The meaning of this old word remains obscure to scholars.,この古い語の意味は、学者たちにとっても依然として不明瞭だ。,動詞「見えにくくする」もある,,
+454,observer,noun,観察者,観察者 / 立会人,An observer sat quietly at the back of the classroom.,観察者が一人、教室の後ろに静かに座っていた。,,,
+455,occupation,noun,職業,職業,Please write your name and occupation on this form.,この用紙にお名前とご職業をご記入ください。,,yes,TSL
+456,offspring,noun,子孫,子孫、生まれた子,The study compared the size of offspring from young and old fish.,その研究は、若い魚と年をとった魚から生まれた子の大きさを比べた。,複数形も offspring のまま,,
+457,onset,noun,始まり,始まり、開始,The onset of winter changes the behavior of many animals.,冬の始まりは、多くの動物の行動を変える。,よくないことの始まりに使うことが多い,,
+458,onwards,adv,〜以降,〜以降、〜から先 / 前方へ,"From the third week onwards, classes will be held online.",3週目以降、授業はオンラインで行われる。,from 〜 onwards の形で使う。米は onward,,
+459,optical,adj,光学的な,光学的な、光学の / 視覚の,The device uses optical sensors to count passing cars.,その装置は、光学的なセンサーを使って通過する車を数える。,optical illusion＝目の錯覚,,
+460,oral,adj,口頭の,口頭の / 口の,Each student must give a short oral presentation in English.,学生はそれぞれ英語で短い口頭発表をしなければならない。,,,
+461,organ,noun,器官,器官 / オルガン,The leaf is the organ that plants use to make food.,葉は植物が栄養を作るために使う器官だ。,楽器の「オルガン」の意味もある,,
+462,orient,verb,方向づける,方向づける、向ける / 慣れさせる,We should orient our research toward real problems in society.,私たちは、研究を社会の現実の問題へと方向づけるべきだ。,be oriented toward 〜＝〜を志向する,,
+463,orientation,noun,オリエンテーション,オリエンテーション / 方向性、志向、向き,All new employees must attend the orientation on Monday.,新入社員は全員、月曜日のオリエンテーションに出席しなければなりません。,,,TSL
+464,oscillation,noun,振動,振動、揺れ / 変動,The sensor records the oscillation of the bridge in strong wind.,そのセンサーは強風時の橋の振動を記録する。,,,
+465,outer,adj,外側の,外側の / 中心から遠い,The outer layer of the seed protects it from damage.,種子の外側の層は、種子を傷から守っている。,反対語は inner,,
+466,oxygen,noun,酸素,酸素,Plants release oxygen into the air during the day.,植物は日中、空気中に酸素を放出する。,,,
+467,paradox,noun,逆説,逆説、パラドックス / 矛盾,The paradox is that cheaper paper cost the library more money.,逆説的なのは、安い紙の方が図書館にとってかえって高くついたことだ。,,,
+468,parental,adj,親の,親の / 親としての,Parental support plays an important role in children's learning.,親の支援は、子どもの学習において重要な役割を果たす。,,,
+469,partition,noun,仕切り,仕切り、間仕切り / 分割,A glass partition divides the lab into two rooms.,ガラスの仕切りが、その実験室を2つの部屋に分けている。,,,
+470,periodic,adj,定期的な,定期的な / 周期的な,The equipment needs periodic checks to work properly.,その装置が正しく動くには、定期的な点検が必要だ。,periodic table は「周期表」,,
+471,peripheral,adj,周辺的な,周辺的な、重要でない / 周辺の、末梢の,The question was only of peripheral interest to the research team.,その問いは、研究チームにとって周辺的な関心事にすぎなかった。,名詞で「周辺機器」の意味も,,
+472,pesticide,noun,農薬,農薬、殺虫剤,The researchers tested the soil for pesticides near the farm.,研究者たちは、農場の近くの土に農薬が含まれていないか調べた。,,,
+473,philosophical,adj,哲学的な,哲学的な / 冷静な,The seminar focused on philosophical questions about knowledge.,そのゼミは知識についての哲学的な問いに焦点を当てた。,,,
+474,phonological,adj,音韻の,音韻の、音韻論の,The test measures phonological skills in young readers.,そのテストは、幼い読み手の音韻の能力を測定する。,,,
+475,phosphate,noun,リン酸塩,リン酸塩,Too much phosphate in rivers can harm fish.,川にリン酸塩が多すぎると、魚に害を与えることがある。,,,
+476,physically,adv,身体的に,身体的に / 物理的に,"The fieldwork was physically hard, but the students enjoyed it.",その現地調査は身体的にきつかったが、学生たちは楽しんだ。,,,
+477,physics,noun,物理学,物理学,My brother is studying physics at university.,兄は大学で物理学を勉強しています。,単数扱いの名詞,,TSL
+478,polar,adj,極地の,極地の、極の / 正反対の,Scientists study how polar ice changes over many years.,科学者たちは、極地の氷が長年にわたってどう変化するかを研究している。,polar opposites＝正反対のもの,,
+479,pole,noun,棒,棒、柱 / 極,The tent is held up by a single metal pole.,そのテントは、1本の金属の棒で支えられています。,the North Pole＝北極,,TSL
+480,politically,adv,政治的に,政治的に / 政治上,"The topic is politically sensitive, so researchers must be careful.",その話題は政治的に微妙なので、研究者は注意しなければならない。,,,
+481,portray,verb,描き出す,描き出す、描写する / 演じる,The film portrays scientists as lonely and strange people.,その映画は、科学者を孤独で変わった人々として描き出している。,portray A as B＝AをBとして描く,,
+482,portrayal,noun,描写,描写、描き方,The book's portrayal of university life is quite realistic.,その本の大学生活の描写は、かなり現実的だ。,,,
+483,postgraduate,noun,大学院生,大学院生,Two postgraduates helped the professor collect the data.,2人の大学院生が、教授のデータ収集を手伝った。,形容詞的にも使う,,
+484,practitioner,noun,実務家,実務家 / 開業医,The book is useful for both researchers and practitioners.,その本は研究者と実務家の両方にとって役に立つ。,,,
+485,precede,verb,先行する,先行する / 〜の前に起こる,A short speech will precede the dinner.,夕食に先立って、短いスピーチが行われます。,,yes,TSL
+486,precipitation,noun,降水,降水、降水量 / 沈殿,Annual precipitation in the area fell by ten percent.,その地域の年間降水量は10パーセント減少した。,雪やひょうも含む。雨だけなら rainfall,,
+487,predator,noun,捕食動物,捕食動物、捕食者,Researchers studied how predators change the behavior of small fish.,研究者たちは、捕食動物が小魚の行動をどう変えるかを研究した。,prey（獲物）と対で覚える,,
+488,prejudice,noun,偏見,偏見、先入観,The study found that contact between groups can reduce prejudice.,その研究で、集団間の交流が偏見を減らしうることが分かった。,prejudice against 〜＝〜への偏見,,
+489,presume,verb,〜と推定する,〜と推定する / 〜と思い込む,We presume that all participants answered the questions honestly.,私たちは、参加者全員が質問に正直に答えたと推定している。,,,
+490,prey,noun,獲物,獲物 / 犠牲者,The study shows that owls find prey mainly by sound.,その研究によると、フクロウは主に音で獲物を見つける。,predator（捕食者）と対で覚える,,
+491,probe,verb,探る,〜を探る / 〜を探査する,The interview questions probe students' reasons for choosing science.,その面接の質問は、学生が科学を選んだ理由を探るものだ。,名詞で「探査機」「調査」,,
+492,productive,adj,生産的な,生産的な / 実りの多い,We had a very productive meeting this morning.,今朝はとても生産的な会議ができました。,,,TSL
+493,profound,adj,深い,深い / 深遠な,The invention of printing had a profound effect on education.,印刷の発明は教育に深い影響を与えた。,,,
+494,progression,noun,進行,進行 / 推移,The textbook follows a logical progression from easy to difficult.,その教科書は、易しい内容から難しい内容へと論理的な順序で進行する。,,,
+495,progressive,adj,進歩的な,進歩的な / 段階的な,The school is known for its progressive teaching methods.,その学校は、進歩的な教育方法で知られている。,文法では「進行形」,,
+496,projection,noun,将来予測,将来予測、見込み / 投影,The sales projection for next year looks very good.,来年の売上予測はとても良さそうだ。,,,TSL
+497,prominent,adj,著名な,著名な、重要な / 目立つ,A prominent designer will speak at the conference.,著名なデザイナーが、その会議で講演します。,,,TSL
+498,psychology,noun,心理学,心理学 / 心理,Ken is taking a psychology class this year.,ケンは今年、心理学の授業を取っている。,,,
+499,purely,adv,純粋に,純粋に / 単に,The decision was made purely for practical reasons.,その決定は、純粋に実用的な理由から下された。,,,
+500,quantum,noun,量子,量子 / 量、額,Students learn the basics of quantum theory in their second year.,学生は2年次に量子論の基礎を学ぶ。,a quantum leap は「飛躍的な進歩」,,
+501,radiation,noun,放射線,放射線 / 放射,Workers in the lab wear badges that measure radiation.,研究室の作業員は放射線を測るバッジを着けている。,,,
+502,radius,noun,半径,半径 / 範囲,Measure the radius of the circle before you find its area.,面積を求める前に、円の半径を測りなさい。,複数形は radii,,
+503,rainfall,noun,降雨量,降雨量、雨,This region gets very little rainfall in summer.,この地域は、夏の降雨量がとても少ないです。,,,TSL
+504,randomize,verb,無作為化する,無作為化する,The researchers randomized the order of the questions.,研究者たちは質問の順番を無作為化した。,,,
+505,rationality,noun,合理性,合理性,The study questions the rationality of human decision making.,その研究は、人間の意思決定の合理性を問い直している。,,,
+506,reactive,adj,反応しやすい,反応しやすい / 受け身の,This metal is highly reactive with water.,この金属は、水と非常に反応しやすい。,,,
+507,realism,noun,現実主義,現実主義 / 写実主義,The essay discusses the balance between realism and idealism.,その小論文は、現実主義と理想主義のバランスについて論じている。,,,
+508,realistic,adj,現実的な,現実的な / 写実的な,We need to set a more realistic sales goal.,もっと現実的な販売目標を立てる必要があります。,,,TSL
+509,realm,noun,領域,領域、分野 / 王国,This question lies outside the realm of science.,この問いは、科学の領域の外にある。,,,
+510,receptor,noun,受容体,受容体 / 受容器,Each receptor responds to a different kind of signal.,受容体はそれぞれ異なる種類の信号に反応する。,,,
+511,reconstruct,verb,再構築する,再構築する / 復元する,Scientists used old records to reconstruct the climate history.,科学者たちは古い記録を使って、気候の歴史を再構築した。,,,
+512,regime,noun,体制,体制 / 政権,The new testing regime changed how students were graded.,新しい試験体制は、学生の成績のつけ方を変えた。,政治の文脈では「政権」の意味でも使う,,
+513,rejection,noun,拒否,拒否 / 不採用,Her rejection of the offer surprised the whole department.,彼女がその申し出を拒否したことに、学科の全員が驚いた。,,,
+514,repertoire,noun,レパートリー,レパートリー、持ち技の範囲,Young children slowly expand their repertoire of words.,幼い子どもは、使える言葉のレパートリーを少しずつ広げていく。,,,
+515,replacement,noun,交換,交換、取り替え / 代わりの人・物,The replacement of the old printers will take two days.,古いプリンターの交換には2日かかります。,replacement parts は「交換部品」,yes,TSL
+516,reproduction,noun,繁殖,繁殖 / 複製,The study looked at the reproduction of fish in cold water.,その研究は、冷たい水の中での魚の繁殖を調べた。,生物では「生殖」、社会学では「再生産」,,
+517,resemble,verb,〜に似ている,〜に似ている,The new logo closely resembles the old one.,新しいロゴは古いロゴによく似ています。,他動詞。toやwithは付けない,,TSL
+518,reservoir,noun,貯水池,貯水池 / 蓄え、貯蔵,The city gets most of its water from a large reservoir.,その市は水の大部分を大きな貯水池から得ている。,,,
+519,residual,adj,残りの,残りの、残存する,The residual heat in the metal was measured after one hour.,1時間後に、金属に残った熱が測定された。,統計では名詞で「残差」,,
+520,resistant,adj,耐性のある,耐性のある / 抵抗する,Some types of rice are resistant to dry weather.,乾燥した天候に耐性のある米の品種もある。,resistant to 〜「〜に強い」,,
+521,respiratory,adj,呼吸の,呼吸の、呼吸器の,Fish have a different respiratory system from humans.,魚の呼吸器系は人間のものとは異なる。,,,
+522,retrieve,verb,〜を取り戻す,〜を取り戻す、回収する / 〜を検索して取り出す,This system lets you retrieve deleted files within thirty days.,このシステムでは、削除したファイルを30日以内なら取り戻せます。,,,TSL
+523,revolutionary,adj,画期的な,画期的な / 革命の,The team developed a revolutionary method for storing energy.,そのチームは、エネルギーをためる画期的な方法を開発した。,,,
+524,rhetoric,noun,修辞法,修辞法、修辞学 / 誇張した言葉,The course teaches students the basics of rhetoric and debate.,その講座では、学生に修辞法と討論の基礎を教える。,中身のない「美辞麗句」の意味も,,
+525,ritual,noun,儀式,儀式 / 決まった習慣,Shaking hands is a common greeting ritual in many countries.,握手は、多くの国でよく見られるあいさつの儀式だ。,,,
+526,rotate,verb,回転する,回転する、回す / 交代する,The Earth rotates once every twenty-four hours.,地球は24時間で1回転する。,役割を「交代で行う」の意味も,,
+527,rotation,noun,回転,回転、自転 / 交代、輪番,The rotation of the wheel was recorded by a camera.,車輪の回転は、カメラで記録された。,crop rotation＝輪作,,
+528,scatter,verb,まき散らす,まき散らす / 散らばる,The wind scattered the seeds across the field.,風が種を畑じゅうにまき散らした。,,,
+529,scholarship,noun,奨学金,奨学金 / 学識,She received a scholarship to study abroad.,彼女は留学のための奨学金をもらいました。,,,TSL
+530,sediment,noun,堆積物,堆積物、沈殿物,The team collected sediment from the bottom of the lake.,チームは湖の底から堆積物を採取した。,,,
+531,selective,adj,選択的な,選択的な / えり好みする,Students should be selective about the sources they use.,学生は、使う情報源を取捨選択すべきだ。,,,
+532,seminar,noun,セミナー,セミナー / 講習会、ゼミ,Many people joined the free seminar on saving money.,多くの人が、お金の節約に関する無料セミナーに参加しました。,,yes,TSL
+533,sensation,noun,感覚,感覚、感じ / 大評判,Participants reported a warm sensation in their hands.,参加者たちは、手に温かい感覚があると報告した。,,,
+534,separation,noun,分離,分離 / 別離,This machine is used for the separation of mixed liquids.,この機械は、混ざった液体の分離に使われる。,,,
+535,simplify,verb,〜を簡単にする,〜を簡単にする、平易にする,We simplified the order form for our customers.,私たちはお客様のために注文用紙を簡単にした。,名詞は simplification（簡素化）,,TSL
+536,singular,adj,単数の,単数の / 並外れた、まれな,The word 'data' can be singular or plural.,data という語は、単数にも複数にもなる。,,,
+537,socialize,verb,〜を社会化する,〜を社会化する、社会に適応させる / 人と交流する、付き合う,Children are socialized by their families and schools.,子どもは家族や学校によって社会化される。,日常では「人と交流する」の意で使う,,
+538,socially,adv,社会的に,社会的に / 人付き合いの面で,Eating on trains is socially acceptable in some countries.,電車の中で物を食べることが、社会的に受け入れられている国もある。,,,
+539,soluble,adj,溶けやすい,溶けやすい、可溶性の / 解決できる,Sugar is soluble in water but not in oil.,砂糖は水には溶けるが、油には溶けない。,be soluble in 〜 で「〜に溶ける」,,
+540,solvent,noun,溶媒,溶媒、溶剤,Water is the most common solvent in nature.,水は自然界で最も一般的な溶媒である。,形容詞で「支払い能力のある」の意も,,
+541,sophisticate,verb,洗練させる,洗練させる / 高度にする,Researchers used sophisticated methods to analyze the data.,研究者たちは、洗練された手法を使ってデータを分析した。,多くは sophisticated「高度な」の形で使う,,
+542,specification,noun,仕様,仕様 / 仕様書,Please check the product specifications before you place an order.,注文する前に製品の仕様を確認してください。,複数形で「仕様書」の意味が多い,,TSL
+543,specimen,noun,標本,標本、見本 / 検体,The museum keeps thousands of insect specimens for research.,その博物館は、研究用に何千もの昆虫標本を保管している。,,,
+544,sphere,noun,球体,球体、球 / 領域、範囲,The model represents each atom as a small sphere.,そのモデルでは、各原子を小さな球体として表している。,「分野、領域」の意味でも使う,,
+545,spontaneous,adj,自然発生的な,自然発生的な / 自発的な、とっさの,Some chemical reactions are spontaneous and happen without outside help.,化学反応の中には、自然発生的で、外からの助けなしに起こるものもある。,,,
+546,stabilize,verb,〜を安定させる,〜を安定させる / 安定する,The team added salt to stabilize the mixture.,チームは混合物を安定させるために、塩を加えた。,,,
+547,standardize,verb,〜を標準化する,〜を標準化する / 〜を統一する,The university plans to standardize the format of all reports.,大学は、すべての報告書の書式を標準化する予定だ。,,,
+548,stereotype,noun,固定観念,固定観念、ステレオタイプ,The paper examines stereotypes about older people in TV ads.,その論文は、テレビ広告に見られる高齢者についての固定観念を調べている。,動詞「型にはめて見る」もある,,
+549,straightforward,adj,分かりやすい,分かりやすい、簡単な / 率直な,The instructions for the experiment were clear and straightforward.,その実験の説明は、明確で分かりやすかった。,,,
+550,strand,noun,系統,系統、流れ / より糸、DNAの鎖,The paper brings together two strands of research on memory.,その論文は、記憶に関する2つの系統の研究を結びつけている。,DNAの「鎖」や髪の「一本」にも使う,,
+551,strictly,adv,厳しく,厳しく / 厳密に,Taking photos is strictly prohibited inside the museum.,館内での写真撮影は厳しく禁止されています。,strictly speaking＝厳密に言えば,,TSL
+552,substitution,noun,代用,代用 / 置換,The substitution of plastic for metal reduced the cost.,金属をプラスチックで代用したことで、費用が下がった。,of A for B で「BをAで代用」,,
+553,substrate,noun,基質,基質 / 下層、基盤,Each enzyme acts on a specific substrate.,それぞれの酵素は特定の基質に作用する。,電子工学では「基板」の意,,
+554,superior,adj,優れた,優れた、勝っている / 上位の、上級の,Our new model is superior to the old one.,新しいモデルは古いものより優れています。,superior to＝〜より優れた。名詞で「上司」,,TSL
+555,surgical,adj,外科の,外科の、手術の,The museum displays surgical tools from the 1800s.,その博物館は1800年代の外科用の道具を展示している。,,,
+556,surplus,noun,余剰,余剰、余り / 黒字,The survey found a surplus of teachers in some regions.,その調査で、一部の地域では教員が余剰になっていることが分かった。,形容詞的にも使う。trade surplus＝貿易黒字,,
+557,symbolic,adj,象徴的な,象徴的な / 記号の,The old bridge has symbolic value for the town.,その古い橋は、町にとって象徴的な価値を持っている。,,,
+558,syntactic,adj,統語的な,統語的な、構文の,The sentence has a complex syntactic structure.,その文は複雑な統語的構造をもっている。,,,
+559,syntax,noun,構文,構文、文の構造 / 統語論,Learners of English often struggle with the syntax of long sentences.,英語学習者は、長い文の構文に苦労することが多い。,,,
+560,technically,adv,技術的に,技術的に / 厳密に言えば,"The plan is good, but it is technically difficult.",その計画は良いが、技術的に難しい。,,,
+561,textbook,noun,教科書,教科書 / 典型的な,Please read chapter three of the textbook before class.,授業の前に、教科書の第3章を読んでください。,,,TSL
+562,theorem,noun,定理,定理,The students were asked to prove the theorem in class.,学生たちは授業中にその定理を証明するよう求められた。,,,
+563,thesis,noun,学位論文,学位論文 / 主張、論旨,She spent two years writing her master's thesis.,彼女は2年かけて修士論文を書いた。,複数形は theses,,
+564,thickness,noun,厚さ,厚さ / 太さ,The students measured the thickness of the ice each morning.,学生たちは毎朝、氷の厚さを測った。,,,
+565,toxic,adj,有毒な,有毒な、毒性の,Some plants produce toxic chemicals to protect themselves.,植物の中には、身を守るために有毒な化学物質を作るものがある。,,,
+566,transaction,noun,取引,取引,You can check every transaction on your online account.,オンラインの口座で、すべての取引を確認できます。,,,TSL
+567,transcribe,verb,〜を書き起こす,〜を書き起こす、文字に起こす / 〜を転写する,We transcribed all the interviews before the analysis.,私たちは分析の前に、すべてのインタビューを書き起こした。,,,
+568,transcription,noun,書き起こし,書き起こし、文字化 / 転写,The transcription of each interview took about three hours.,各インタビューの書き起こしには、約3時間かかった。,遺伝学では「転写」の意味,,
+569,translation,noun,翻訳,翻訳 / 訳文,The translation of the manual will take a week.,説明書の翻訳には1週間かかります。,,,TSL
+570,transmission,noun,送信,送信、伝達 / 変速機,The data transmission took only a few seconds.,データの送信は、ほんの数秒で終わりました。,,,TSL
+571,transmit,verb,送信する,送信する / 伝える,The camera transmits images directly to my phone.,そのカメラは、画像を私のスマートフォンに直接送信します。,,,TSL
+572,trauma,noun,心的外傷,心的外傷、トラウマ / 外傷,The course introduces students to research on trauma.,その講座では、学生に心的外傷に関する研究を紹介する。,,,
+573,tropical,adj,熱帯の,熱帯の、熱帯性の,We stayed at a small hotel on a tropical island.,私たちは熱帯の島の小さなホテルに泊まりました。,,,TSL
+574,ultimate,adj,究極の,究極の / 最終的な,The ultimate goal of the project is to reduce waste.,そのプロジェクトの究極の目標は、廃棄物を減らすことだ。,,,
+575,undergraduate,noun,学部生,学部生、大学生,Most of the participants were undergraduates from three universities.,参加者のほとんどは3つの大学の学部生だった。,形容詞的にも使う,,
+576,unemployed,adj,失業中の,失業中の、仕事のない,He was unemployed for three months before finding this job.,彼はこの仕事が見つかるまで、3か月間失業していました。,the unemployed＝失業者,,TSL
+577,unify,verb,一つにまとめる,一つにまとめる、統一する,The new theory unifies two older models of learning.,その新理論は、学習に関する2つの古いモデルを一つにまとめている。,,,
+578,unstable,adj,不安定な,不安定な / 変わりやすい,The chemical becomes unstable at high temperatures.,その化学物質は、高温で不安定になる。,,,
+579,upward,adv,上方に,上方に、上向きに,The line on the graph moves upward over time.,グラフの線は、時間とともに上方に向かう。,upwards とも書く。形容詞用法もある,,
+580,utility,noun,有用性,有用性、役に立つこと / 公共料金、公益事業,Few people doubt the utility of online meetings.,オンライン会議の有用性を疑う人は、ほとんどいません。,複数形 utilities で「公共料金」,,TSL
+581,utterance,noun,発話,発話、発言,The researchers recorded every utterance the child made in an hour.,研究者たちは、その子どもの1時間分の発話をすべて記録した。,,,
+582,vague,adj,曖昧な,曖昧な / ぼんやりした,The instructions were too vague for the students to follow.,その指示は曖昧すぎて、学生たちは従うことができなかった。,,,
+583,vector,noun,ベクトル,ベクトル / 媒介生物,A vector shows both the size and direction of a force.,ベクトルは力の大きさと向きの両方を表す。,,,
+584,vegetation,noun,植生,植生、草木,Vegetation along the river has changed since the dam was built.,ダムが建設されてから、川沿いの植生は変化した。,,,
+585,verbal,adj,口頭の,口頭の / 言葉の,"We have a verbal agreement, but nothing is in writing yet.",口頭での合意はあるが、まだ何も書面になっていない。,文法用語では「動詞の」の意味,,TSL
+586,vertical,adj,垂直な,垂直な、縦の,Draw a vertical line down the center of the page.,ページの中央に垂直な線を引きなさい。,反意語は horizontal（水平な）,,
+587,wavelength,noun,波長,波長 / 考え方の一致,Red light has a longer wavelength than blue light.,赤い光は青い光よりも波長が長い。,on the same wavelength で「気が合う」,,
+588,whichever,det,どの〜でも,どの〜でも / どちらでも,You may write about whichever topic interests you most.,どのテーマでも、一番興味のあるものについて書いてかまいません。,,,
+589,workshop,noun,研修会,研修会 / 作業場,All new staff must attend the safety workshop.,新入社員は全員、安全研修会に出席しなければなりません。,「作業場、工房」の意味もある,yes,TSL
+590,yeast,noun,酵母,酵母、イースト,Scientists often use yeast to study how cells work.,科学者は細胞の働きを研究するために、よく酵母を使う。,,,
+591,abdominal,adj,腹部の,腹部の、腹の,The diagram shows the main abdominal muscles of the human body.,その図は、人体の主な腹部の筋肉を示している。,,,
+592,accent,noun,なまり,なまり / 強勢、アクセント,Our new coworker speaks English with a slight French accent.,新しい同僚は、少しフランス語なまりのある英語を話します。,,,TSL
+593,acidic,adj,酸性の,酸性の / 酸っぱい,The soil in this area is slightly acidic.,この地域の土壌は、わずかに酸性だ。,,,
+594,admission,noun,入場,入場、入学 / 過ちなどを認めること,Admission to the museum is free on Sundays.,日曜日は博物館への入場が無料です。,「入場料」の意味でもよく使う,yes,TSL
+595,aerosol,noun,エアロゾル,エアロゾル、空気中の微粒子 / スプレー缶,Tiny aerosols in the air can affect cloud formation.,空気中の小さなエアロゾルは、雲のでき方に影響を与えることがある。,,,
+596,afterward,adv,その後に,その後に / あとで,We had a meeting and went to lunch afterward.,私たちは会議をして、その後に昼食に行きました。,afterwardsとも言う,,TSL
+597,algebra,noun,代数,代数、代数学,Students who are good at algebra often enjoy physics.,代数が得意な学生は、物理学も楽しむことが多い。,,,
+598,altitude,noun,標高,標高、高度,Fewer plants grow at high altitudes on the mountain.,山の標高の高い所では、育つ植物が少なくなる。,,,
+599,aluminum,noun,アルミニウム,アルミニウム,"Aluminum is light, strong, and easy to recycle.",アルミニウムは軽くて丈夫で、リサイクルしやすい。,英国では aluminium とつづる,,
+600,antibiotic,noun,抗生物質,抗生物質,Many antibiotics were first found in bacteria that live in soil.,多くの抗生物質は、最初は土の中にすむ細菌から見つかった。,形容詞「抗生物質の」としても使う,,
+601,antibody,noun,抗体,抗体,The scientists measured antibody levels in each sample.,科学者たちは、各試料の抗体の量を測定した。,,,
+602,antiquity,noun,古代,古代 / 古代の遺物,The book describes how people lived in antiquity.,その本は古代の人々の暮らしを説明している。,,,
+603,archaeology,noun,考古学,考古学,She studied archaeology and joined a dig in the desert.,彼女は考古学を学び、砂漠での発掘に参加した。,米国ではarcheologyとも書く,,
+604,architect,noun,建築家,建築家 / 設計者,A famous architect designed this new library.,有名な建築家がこの新しい図書館を設計しました。,ch は k と発音する,yes,TSL
+605,arrow,noun,矢印,矢印 / 矢,The arrows in the diagram show the flow of water.,図の中の矢印は、水の流れを示している。,,,
+606,artistic,adj,芸術的な,芸術的な / 芸術の才能がある,The hotel lobby has an artistic and modern design.,そのホテルのロビーは、芸術的で現代的なデザインです。,,,TSL
+607,artwork,noun,芸術作品,芸術作品 / 挿絵、図版,The library shows artwork made by local students.,その図書館では、地元の学生が作った芸術作品を展示している。,,,
+608,athletic,adj,運動の,運動の、体育の / 運動神経のよい,The hotel has a pool and other athletic facilities.,そのホテルには、プールなどの運動施設があります。,,,TSL
+609,audio,adj,音声の,音声の,All interviews were saved as audio files for later analysis.,すべてのインタビューは、後で分析するために音声ファイルとして保存された。,,,
+610,audit,verb,監査する,監査する,An outside company will audit our accounts next month.,来月、外部の会社が当社の会計を監査します。,名詞で「監査」の意味もある,,TSL
+611,axiom,noun,公理,公理 / 自明の理、原則,Every proof in this book starts from a few simple axioms.,この本のすべての証明は、いくつかの単純な公理から始まる。,,,
+612,backward,adv,後ろへ,後ろへ / 逆方向に,"During the test, the small robot moved slowly backward.",試験中、その小型ロボットはゆっくりと後ろへ動いた。,英国では backwards の形が多い,,
+613,barrel,noun,樽,樽 / バレル,Rainwater was collected in large plastic barrels.,雨水は、大きなプラスチックの樽に集められた。,石油の単位「バレル」としても使う,,
+614,beam,noun,光線,光線 / 梁,A thin beam of light passed through the glass.,細い光線がガラスを通過した。,建物の「梁（はり）」の意味もある,,
+615,biologist,noun,生物学者,生物学者,The biologist spent a year studying birds on the island.,その生物学者は、島の鳥を1年かけて研究した。,,,
+616,bizarre,adj,奇妙な,奇妙な / 風変わりな,The results seemed bizarre until we checked the data.,データを確認するまで、その結果は奇妙に思えた。,,,
+617,blank,adj,空白の,空白の / 無表情な,Do not leave any blank spaces on the answer sheet.,解答用紙に空白の欄を残さないでください。,名詞で「空欄」の意味も,,
+618,bodily,adv,体ごと,体ごと / 丸ごと,"After winning the debate, Emma was lifted bodily by her teammates.",ディベートで勝った後、エマはチームメートたちに体ごと抱え上げられた。,形容詞「身体の」の用法の方が多い,,
+619,bubble,noun,泡,泡 / バブル,Small bubbles formed on the surface of the liquid.,液体の表面に、小さな泡ができた。,,,
+620,bundle,noun,束,束 / ひとまとめ,The researcher kept the old letters in a bundle.,その研究者は、古い手紙を束にして保管していた。,動詞「束ねる」としても使う,,
+621,calcium,noun,カルシウム,カルシウム,The researchers measured the amount of calcium in the river water.,研究者たちは、川の水に含まれるカルシウムの量を測定した。,,,
+622,calculator,noun,電卓,電卓,Please bring a calculator to the budget meeting.,予算会議には電卓を持ってきてください。,,,TSL
+623,calculus,noun,微積分,微積分 / 結石,Engineering students must take calculus in their first year.,工学部の学生は1年次に微積分を履修しなければならない。,,,
+624,campus,noun,キャンパス,キャンパス,The new office is on the university campus.,新しい事務所は大学のキャンパス内にある。,,,TSL
+625,capillary,noun,毛細血管,毛細血管 / 毛細管,A capillary is thinner than a human hair.,毛細血管は人間の髪の毛よりも細い。,,,
+626,capitalist,noun,資本家,資本家 / 資本主義者,Early capitalists invested their money in factories and railways.,初期の資本家たちは、工場や鉄道に資金を投じた。,,,
+627,cattle,noun,家畜の牛,家畜の牛 / 畜牛,The farm keeps about two hundred cattle for research.,その農場は研究用に約200頭の牛を飼っている。,複数扱い。a cattleとは言わない,,
+628,censor,noun,検閲官,検閲官,"In the past, censors checked every book before it was printed.",かつては、検閲官がすべての本を印刷前に確認していた。,sensor と同音。動詞「検閲する」も,,
+629,chemotherapy,noun,化学療法,化学療法,The study compared the costs of chemotherapy in five countries.,その研究は5か国の化学療法の費用を比較した。,,,
+630,chloride,noun,塩化物,塩化物,Sodium chloride is the scientific name for table salt.,塩化ナトリウムは食塩の科学的な名前である。,,,
+631,chunk,noun,塊,塊 / かなりの部分,The scientists cut the ice into small chunks for testing.,科学者たちは検査のために、氷を小さな塊に切った。,,,
+632,cinema,noun,映画館,映画館 / 映画,There is a new cinema near the station.,駅の近くに、新しい映画館があります。,米国では movie theater が一般的,,TSL
+633,circa,prep,〜年頃,〜年頃、およそ,The old library was built circa 1850.,その古い図書館は1850年頃に建てられた。,c. や ca. と略し、年号の前に置く,,
+634,circulate,verb,循環する,循環する / 回覧する、広まる,Ceiling fans help air circulate through the office.,天井の扇風機は、オフィス内の空気が循環するのを助けます。,,,TSL
+635,clay,noun,粘土,粘土,Ancient people made pots and tools from clay.,古代の人々は、粘土でつぼや道具を作った。,,,
+636,clever,adj,賢い,賢い / 巧妙な,My lab partner is clever and learns new methods quickly.,私の実験パートナーは賢くて、新しい手法をすぐに覚える。,,,
+637,clinic,noun,診療所,診療所 / クリニック,The clinic is open from nine to five on weekdays.,その診療所は平日の9時から5時まで開いています。,,,TSL
+638,clone,verb,クローンを作る,クローンを作る / 複製する,Scientists have cloned many kinds of plants.,科学者たちは、多くの種類の植物のクローンを作ってきた。,,,
+639,clue,noun,手がかり,手がかり / ヒント,The email gave us a clue about the problem.,そのメールが問題の手がかりになりました。,not have a clue で「全く分からない」,yes,TSL
+640,colonial,adj,植民地の,植民地の / 植民地時代の,The old town still has many colonial buildings.,その古い町には今も植民地時代の建物が多く残っている。,,,
+641,colony,noun,植民地,植民地 / 生物の集団,The island was a colony for more than two hundred years.,その島は200年以上にわたって植民地だった。,生物ではアリなどの「集団」の意味もある,,
+642,comma,noun,コンマ,コンマ、読点,Put a comma between the items in the list.,リストの項目の間にはコンマを入れなさい。,,,
+643,communicative,adj,意思伝達の,意思伝達の / 話し好きな,"The course focuses on communicative skills, not grammar rules.",その講座は文法の規則ではなく、意思伝達の技能に重点を置いている。,,,
+644,communist,adj,共産主義の,共産主義の / 共産主義者,Students compared communist and market economies in history class.,学生たちは歴史の授業で共産主義の経済と市場経済を比較した。,名詞で「共産主義者」の意味もある,,
+645,compact,adj,小さくまとまった,小さくまとまった / ぎっしり詰まった,This compact camera fits easily in your pocket.,このコンパクトなカメラは、ポケットに楽に入ります。,,yes,TSL
+646,competent,adj,有能な,有能な / 十分な能力のある,She is a competent researcher with ten years of experience.,彼女は10年の経験を持つ有能な研究者だ。,,,
+647,complication,noun,面倒な問題,面倒な問題、複雑な事情 / 合併症,There was a complication with our hotel booking.,ホテルの予約で面倒な問題が起きました。,,,TSL
+648,conduction,noun,伝導,伝導,Metal pans heat quickly because of good heat conduction.,金属の鍋は熱の伝導がよいので早く熱くなる。,,,
+649,cone,noun,円錐,円錐 / 松かさ,Students learned how to calculate the volume of a cone.,学生たちは、円錐の体積の求め方を学んだ。,目の「錐体細胞」の意味もある,,
+650,congruent,adj,合同な,合同な / 一致する、調和する,The two triangles are congruent because their sides are equal.,その2つの三角形は、辺の長さが等しいので合同である。,be congruent with 〜 で「〜と一致する」,,
+651,connector,noun,コネクター,コネクター / つなぎの言葉,Check that the connector is firmly attached to the device.,コネクターが装置にしっかり取り付けられているか確認してください。,,,
+652,conserve,verb,節約する,〜を節約する / 〜を保護する,Students were asked to conserve water in the dormitory.,学生たちは寮で水を節約するよう求められた。,,,
+653,consonant,noun,子音,子音、子音字,"Some English words begin with three consonants, like 'street'.",street のように、3つの子音で始まる英単語もある。,対は vowel（母音）。形容詞では「一致した」,,
+654,constitution,noun,憲法,憲法 / 構成,"In law class, we read the constitution line by line.",法学の授業で、私たちは憲法を1行ずつ読んだ。,「体質」「構成」の意味もある,,
+655,container,noun,容器,容器 / 輸送用コンテナ,Keep the cookies in a plastic container.,クッキーはプラスチックの容器に入れて保存してください。,,,TSL
+656,continent,noun,大陸,大陸,The team collected rock samples from every continent.,チームはすべての大陸から岩石の試料を集めた。,,,
+657,contour,noun,輪郭,輪郭 / 等高線,The students drew the contour of each leaf.,学生たちはそれぞれの葉の輪郭を描いた。,,,
+658,coronary,adj,冠状動脈の,冠状動脈の / 心臓の,"Exercise increases coronary blood flow, the study found.",運動によって冠状動脈の血流が増えることが、その研究でわかった。,,,
+659,corruption,noun,汚職,汚職 / データの破損,The study compared levels of corruption across fifty countries.,その研究は50か国の汚職の程度を比較した。,,,
+660,crystal,noun,結晶,結晶 / 水晶,Salt crystals formed slowly as the water dried.,水が乾くにつれて、塩の結晶がゆっくりとできた。,,,
+661,cure,noun,治療法,治療法 / 解決策,The research team has spent ten years looking for a cure.,その研究チームは、治療法を探して10年を費やしてきた。,動詞で「〜を治す」の意味も,,
+662,cyclic,adj,周期的な,周期的な / 循環の,The data show a cyclic pattern that repeats every year.,そのデータは毎年繰り返す周期的なパターンを示している。,化学では「環式の」の意味,,
+663,cylinder,noun,円筒,円筒、円柱 / シリンダー,Pour the water into a glass cylinder and measure it.,水をガラスの円筒に注いで、量を測りなさい。,,,
+664,deadline,noun,締め切り,締め切り / 期限,The deadline for the report is this Friday.,報告書の締め切りは今週の金曜日です。,meet the deadline で「締め切りに間に合う」,yes,TSL
+665,deceive,verb,〜をだます,〜をだます、欺く,Some insects deceive birds by looking like leaves.,木の葉のような見た目で鳥をだます昆虫もいる。,,,
+666,deflection,noun,偏向,偏向、向きをそらすこと / たわみ,The deflection of the light was larger than expected.,光の偏向は予想よりも大きかった。,,,
+667,delta,noun,三角州,三角州 / 変化量,Rich soil builds up in the river delta over time.,川の三角州には、時間とともに肥えた土がたまる。,ギリシャ文字Δ、変化量の意味も,,
+668,denominator,noun,分母,分母 / 共通点,"In the fraction 3/4, the denominator is 4.",分数 3/4 では、分母は4である。,common denominator で「共通点」の意も,,
+669,destination,noun,目的地,目的地 / 行き先,We finally reached our destination after six hours.,6時間後、私たちはついに目的地に着きました。,,yes,TSL
+670,diameter,noun,直径,直径,The pipe has a diameter of five centimeters.,そのパイプの直径は5センチメートルだ。,,,
+671,diary,noun,日記,日記 / 予定表,Participants kept a diary of their daily activities.,参加者は、日々の活動を日記につけた。,,,
+672,dictate,verb,口述する,〜を口述する / 〜を決定づける,The professor dictated the main points while we took notes.,教授が要点を口述し、私たちはノートを取った。,「命令する」「左右する」の意味もある,,
+673,dimensional,adj,次元の,次元の / 次元的な,The students built a three-dimensional model of the bridge.,学生たちはその橋の3次元の模型を作った。,three-dimensional（3次元の）の形が多い,,
+674,disability,noun,障害,障害 / 心身の障害,The university offers support for students with a disability.,その大学は障害のある学生への支援を行っている。,,,
+675,discharge,verb,放出する,〜を放出する / 〜を解放する,The factory discharges warm water into the river.,その工場は温かい水を川に放出している。,名詞も同形。「放電する」の意味もある,,
+676,dissection,noun,解剖,解剖 / 詳細な分析,The students watched a dissection of a flower in biology class.,学生たちは生物の授業で花の解剖を見学した。,,,
+677,domination,noun,支配,支配 / 優位,The study examined the domination of local markets by large stores.,その研究は大型店による地域市場の支配を調べた。,,,
+678,donor,noun,寄付者,寄付者 / 提供者,A private donor gave money to build the new library.,ある個人の寄付者が、新しい図書館を建てるための資金を出した。,,,
+679,dose,noun,1回分の量,1回分の量、服用量,Give each plant one dose of fertilizer every month.,毎月、どの植物にも肥料を1回分ずつ与えてください。,薬の1回の服用量を指すことが多い,,TSL
+680,drift,noun,漂流,漂流 / 緩やかな移動,The team tracked the drift of ice across the sea.,チームは海上での氷の漂流を追跡した。,動詞で「漂う」「流される」,,
+681,dye,noun,染料,染料,The scientists added a blue dye to see the water flow.,科学者たちは、水の流れを見るために青い染料を加えた。,動詞「染める」としても使う,,
+682,elastic,adj,弾力のある,弾力のある、伸縮性のある / 柔軟な,The material stays elastic even at very low temperatures.,その素材は、とても低い温度でも弾力のある状態を保つ。,,,
+683,elementary,adj,初歩的な,初歩的な / 初等の,The book explains statistics at an elementary level.,その本は、統計学を初歩的なレベルで説明している。,,,
+684,elevate,verb,〜を高める,〜を高める、向上させる / 〜を持ち上げる,Good design can elevate the value of a product.,優れたデザインは製品の価値を高めることができます。,,,TSL
+685,elevation,noun,標高,標高 / 上昇,The team measured plant growth at different elevations.,チームはさまざまな標高で植物の成長を測定した。,,,
+686,emperor,noun,皇帝,皇帝,Historians studied letters written by the emperor.,歴史家たちは、その皇帝が書いた手紙を研究した。,,,
+687,enforcement,noun,執行,執行 / 取り締まり,"In the study area, stricter enforcement of the law reduced illegal fishing.",調査地域では、法の執行が厳しくなったことで違法な漁が減った。,,,
+688,enormously,adv,大幅に,大幅に / 非常に,The internet has enormously changed the way students study.,インターネットは、学生の勉強の仕方を大幅に変えた。,,,
+689,entrant,noun,参加者,参加者、出場者 / 新規参入者,Each entrant in the science contest must submit a short report.,科学コンテストの参加者は、それぞれ短い報告書を提出しなければならない。,,,
+690,epidemic,noun,流行病,流行病、病気の流行 / まん延,The team built a computer model of how an epidemic spreads.,そのチームは、流行病がどのように広がるかを示すコンピューターモデルを作った。,形容詞「流行性の」としても使う,,
+691,erase,verb,〜を消す,〜を消す、消去する,Please erase the whiteboard after the meeting.,会議の後はホワイトボードを消してください。,,,TSL
+692,execute,verb,実行する,〜を実行する / 〜を処刑する,The computer executes each step of the program in order.,コンピューターはプログラムの各手順を順番に実行する。,,,
+693,execution,noun,実行,実行 / 処刑,Careful execution of the plan led to good results.,計画の慎重な実行が、よい結果につながった。,,,
+694,fabric,noun,布地,布地、織物 / 構造,"This jacket is made of a light, soft fabric.",このジャケットは、軽くて柔らかい布地でできています。,,,TSL
+695,factorial,adj,要因の,要因の、因子の / 階乗の,The researchers used a factorial design with two factors.,研究者たちは、2つの要因を組み合わせた要因計画を用いた。,数学では名詞で「階乗」,,
+696,fetal,adj,胎児の,胎児の,The study measured fetal growth in sheep.,その研究はヒツジの胎児の成長を測定した。,英では foetal とつづることもある,,
+697,fiber,noun,繊維,繊維 / 食物繊維,This paper is made from plant fibers.,この紙は植物の繊維から作られている。,英国式つづりはfibre,,
+698,footnote,noun,脚注,脚注,The author explains the term in a footnote.,著者はその用語を脚注で説明している。,,,
+699,forum,noun,意見交換の場,意見交換の場 / 公開討論会,Our company runs an online forum for users to share ideas.,当社は、利用者がアイデアを出し合えるオンラインの意見交換の場を運営しています。,,,TSL
+700,fossil,noun,化石,化石,The team found fossils of small sea animals in the rock.,チームは岩の中から、小さな海の生き物の化石を見つけた。,fossil fuel「化石燃料」,,
+701,fracture,noun,亀裂,亀裂 / 骨折,Water entered the rock through a narrow fracture.,水は細い亀裂から、岩の中に入り込んだ。,,,
+702,fringe,noun,周辺,周辺 / へり飾り,The village lies on the fringe of the forest.,その村は、森の周辺に位置している。,主流から外れた「非主流」の意味も,,
+703,fungus,noun,菌類,菌類、カビやキノコ,This fungus grows on dead trees in wet forests.,この菌類は、湿った森の枯れ木に生える。,複数形は fungi,,
+704,fusion,noun,融合,融合 / 核融合,The new field is a fusion of biology and computer science.,その新しい分野は、生物学とコンピューター科学の融合だ。,,,
+705,gauge,noun,計器,計器 / 尺度,The pressure gauge showed a sudden drop during the test.,試験中、圧力計が急な低下を示した。,発音はゲイジ。動詞「測る」も,,
+706,gram,noun,グラム,グラム,This bag of flour weighs five hundred grams.,この小麦粉の袋の重さは、500グラムです。,,,TSL
+707,grasp,verb,把握する,〜を把握する / 〜をしっかり握る,It took me a week to grasp the main idea.,主要な考えを把握するのに1週間かかった。,名詞で「理解」「握ること」,,
+708,gravity,noun,重力,重力 / 重大さ,The students measured the effect of gravity on falling balls.,学生たちは落下するボールへの重力の影響を測定した。,,,
+709,grid,noun,格子,格子 / 送電網,The map is divided into a grid of small squares.,その地図は、小さな正方形の格子に区切られている。,電力の「送電網」の意味でも使う,,
+710,gut,noun,腸,腸 / 直感,Scientists are studying the bacteria that live in the gut.,科学者たちは、腸の中にすむ細菌を研究している。,gut feeling「直感」。guts は「勇気」,,
+711,halfway,adv,途中で,途中で、中間で,We stopped halfway through the experiment to check the data.,私たちは実験の途中で手を止めて、データを確認した。,形容詞で「中間の」の意味もある,,
+712,handout,noun,配布資料,配布資料、プリント,The professor gave everyone a handout before the lecture.,教授は講義の前に全員に配布資料を配った。,,,
+713,harvest,noun,収穫,収穫 / 収穫期,Farmers reported a poor harvest because of the dry summer.,乾燥した夏のせいで収穫が少なかったと、農家は報告した。,,,
+714,headquarter,noun,本社,本社 / 本部,Our headquarters is in the center of the city.,当社の本社は市の中心部にあります。,通常は複数形 headquarters で使う,,TSL
+715,hedge,noun,生け垣,生け垣 / リスクを避ける手段,The study counted the birds living in each hedge.,その研究では、それぞれの生け垣にすむ鳥の数を数えた。,論文では断定を避ける「ぼかし表現」の意も,,
+716,helix,noun,らせん,らせん、らせん構造,The students built a paper model of a double helix.,学生たちは二重らせんの紙の模型を作った。,,,
+717,hepatitis,noun,肝炎,肝炎,The researchers compared hepatitis data from ten countries.,研究者たちは10か国の肝炎のデータを比較した。,,,
+718,herbicide,noun,除草剤,除草剤,Farmers sprayed herbicide to control weeds in the fields.,農家は畑の雑草を抑えるために除草剤をまいた。,,,
+719,homework,noun,宿題,宿題 / 下調べ,My son finishes his homework before dinner.,息子は夕食前に宿題を終わらせます。,数えられない名詞,,TSL
+720,horizon,noun,地平線,地平線 / 視野,The camera recorded the sun as it rose above the horizon.,カメラは、太陽が地平線から昇る様子を記録した。,複数形 horizons で「視野」,,
+721,hormone,noun,ホルモン,ホルモン,Plants produce hormones that control their growth.,植物は、自らの成長を調節するホルモンを作り出す。,,,
+722,hydrogen,noun,水素,水素,The team is developing cars that run on hydrogen.,そのチームは、水素で走る車を開発している。,,,
+723,illusion,noun,錯覚,錯覚 / 幻想,"The lines look different in length, but it is an illusion.",その線は長さが違って見えるが、それは錯覚だ。,,,
+724,impulse,noun,衝動,衝動 / 刺激,The study looked at why shoppers buy things on impulse.,その研究は、買い物客がなぜ衝動的に物を買うのかを調べた。,on impulse「衝動的に」,,
+725,incline,noun,斜面,斜面 / 傾斜,The ball rolled down the incline faster than expected.,ボールは、予想よりも速く斜面を転がり落ちた。,be inclined to〜「〜する傾向がある」,,
+726,incredible,adj,信じられない,信じられない / すばらしい,The amount of data we have today is incredible.,今日私たちが持っているデータの量は、信じられないほどだ。,,,
+727,incredibly,adv,信じられないほど,信じられないほど / 驚くほど,The new microscope in our lab is incredibly powerful.,私たちの研究室の新しい顕微鏡は、信じられないほど高性能だ。,,,
+728,incumbent,noun,現職者,現職者、在職者,The current incumbent of the post will retire next year.,その職の現職者は、来年退職する。,形容詞で「現職の、義務がある」の意味も,,
+729,indifference,noun,無関心,無関心,The low response rate may reflect indifference among students.,回答率の低さは、学生の無関心を反映しているのかもしれない。,,,
+730,industrialize,verb,工業化する,工業化する / 〜を工業化する,Many countries began to industrialize in the nineteenth century.,多くの国が、19世紀に工業化し始めた。,,,
+731,infect,verb,感染させる,〜に感染させる / 〜に悪影響を及ぼす,A computer virus infected several machines in the library.,コンピューターウイルスが図書館の数台の機械に感染した。,,,
+732,infectious,adj,伝染性の,伝染性の / 人にうつりやすい,"Her good mood was infectious, and the whole class felt happier.",彼女の上機嫌は周りに伝染し、クラス全体が明るい気分になった。,,,
+733,infinity,noun,無限,無限、無限大,The numbers in this series go on to infinity.,この数列の数は無限に続く。,,,
+734,initiation,noun,開始,開始 / 入会,The initiation of the project was delayed by a month.,そのプロジェクトの開始は1か月遅れた。,「入会・加入（の儀式）」の意味もある,,
+735,inject,verb,注入する,〜を注入する / 〜を注射する,The engineers injected water into the soil to test it.,技術者たちは試験のため土に水を注入した。,比喩的に資金などを「投入する」意味もある,,
+736,injection,noun,注入,注入 / 注射,The injection of new funds helped the lab buy equipment.,新たな資金の注入により、研究室は機器を購入できた。,,,
+737,insect,noun,昆虫,昆虫 / 虫,Bees are among the most important insects for farming.,ハチは、農業にとって最も重要な昆虫の一つだ。,,,
+738,insert,verb,挿入する,挿入する、差し込む,Insert your ticket into the machine at the gate.,改札で、切符を機械に挿入してください。,,,TSL
+739,instinct,noun,本能,本能 / 直感,Young birds know by instinct how to build a nest.,若い鳥は本能で巣の作り方を知っている。,,,
+740,interrupt,verb,中断させる,中断させる / 話に割り込む,A phone call interrupted our meeting this morning.,今朝、一本の電話で会議が中断されました。,,,TSL
+741,invade,verb,侵入する,侵入する / 侵略する,Some foreign plants invade fields and push out local plants.,外来の植物の中には、畑に侵入して在来の植物を追い出すものがある。,,,
+742,invasion,noun,侵入,侵入 / 侵略,Scientists studied the invasion of a foreign plant on the island.,科学者たちは、その島への外来植物の侵入を研究した。,「侵略」の意味もある,,
+743,inversion,noun,逆転,逆転、反転 / 倒置,A temperature inversion can trap smoke near the ground.,気温の逆転が起こると、煙が地面近くにたまることがある。,,,
+744,invert,verb,〜を逆さにする,〜を逆さにする、反転させる,Invert the tube gently three times to mix the liquid.,液体を混ぜるため、試験管を静かに3回逆さにしてください。,,,
+745,ion,noun,イオン,イオン,Salt splits into two kinds of ions in water.,塩は、水の中で2種類のイオンに分かれる。,,,
+746,junior,adj,若手の,若手の、下位の / 年下の,She started as a junior designer five years ago.,彼女は5年前、若手のデザイナーとして働き始めました。,名詞で「年少者、後輩」の意味も,,TSL
+747,kidney,noun,腎臓,腎臓,We learned how the kidneys remove waste from the body.,私たちは、腎臓が体から老廃物を取り除く仕組みを学んだ。,,,
+748,kilometer,noun,キロメートル,キロメートル,The hotel is about two kilometers from the airport.,そのホテルは空港から約2キロメートルです。,英国つづりはkilometre,,TSL
+749,lateral,adj,横方向の,横方向の、横の / 側面の,The plant sends out lateral roots from its main root.,その植物は、主根から横方向の根を伸ばす。,lateral thinking＝水平思考,,
+750,leaf,noun,葉,葉,The leaves change color as the temperature drops.,気温が下がるにつれて、葉の色が変わる。,複数形は leaves,,
+751,lecturer,noun,講師,講師,The lecturer spoke about new trends in marketing.,講師は、マーケティングの新しい傾向について話しました。,,,TSL
+752,legend,noun,伝説,伝説 / 凡例,"According to legend, the old bridge was built in one night.",伝説によると、その古い橋は一晩で建てられた。,地図やグラフの「凡例」の意味もある,,
+753,leisure,noun,余暇,余暇 / レジャー,What do you like to do in your leisure time?,余暇には何をするのが好きですか。,at your leisure＝都合のよいときに,,TSL
+754,lever,noun,てこ,てこ / レバー,Students used a simple lever to lift a heavy box.,学生たちは、簡単なてこを使って重い箱を持ち上げた。,,,
+755,liable,adj,法的責任がある,法的責任がある / 〜しがちな,The university is liable for damage caused by its staff.,大学は職員が引き起こした損害に対して法的責任がある。,be liable to 〜で「〜しがちだ」,,
+756,limb,noun,手足,手足、肢 / 大枝,The study compared limb length in different kinds of frogs.,その研究は、さまざまな種類のカエルの手足の長さを比べた。,動物の脚や翼も指す,,
+757,liver,noun,肝臓,肝臓,"In biology class, we studied how the liver works.",生物の授業で、私たちは肝臓の働きを学んだ。,,,
+758,lung,noun,肺,肺,The model shows how air moves in and out of the lungs.,その模型は、空気が肺に出入りする仕組みを示している。,左右一対なので複数形 lungs が多い,,
+759,magnetic,adj,磁気の,磁気の / 人を引きつける,The students measured the magnetic field around the wire.,学生たちは電線の周りの磁場を測定した。,magnetic fieldで「磁場」,,
+760,manual,noun,説明書,説明書 / 手引き,Read the manual before you use the machine.,機械を使う前に説明書を読んでください。,形容詞で「手作業の、手動の」の意味も,yes,TSL
+761,marrow,noun,骨髄,骨髄,Blood cells are made in bone marrow.,血液細胞は骨髄でつくられる。,,,
+762,mechanical,adj,機械の,機械の / 機械的な,The flight was delayed because of a mechanical problem.,機械の不具合のため、飛行機の出発が遅れました。,,,TSL
+763,mercury,noun,水銀,水銀 / 水星,The team measured mercury levels in river fish.,そのチームは川魚に含まれる水銀の量を測定した。,大文字の Mercury は「水星」,,
+764,merge,verb,合併する,合併する / 統合する,The two companies will merge next spring.,その2社は来年の春に合併します。,名詞はmerger,,TSL
+765,messenger,noun,使いの人,使いの人、使者 / 書類などの配達人,A messenger delivered the contract to our office this morning.,今朝、使いの人が契約書を事務所に届けてくれました。,,,TSL
+766,minus,prep,〜を引いた,〜を引いた / 〜を除いた,Your final score is the total minus points for late work.,最終得点は、合計から提出遅れの減点分を引いたものです。,形容詞・名詞で「マイナス（の）」も,,
+767,mole,noun,モル,モル（物質量の単位） / モグラ,One mole of water weighs about 18 grams.,水1モルの重さは約18グラムである。,動物の「モグラ」、皮膚の「ほくろ」の意も,,
+768,monopoly,noun,独占,独占、独占権,The paper explains why a monopoly can lead to higher prices.,その論文は、独占がなぜ価格の上昇につながりうるのかを説明している。,have a monopoly on 〜＝〜を独占する,,
+769,morality,noun,道徳,道徳 / 倫理性,The class discussed how children learn ideas of morality.,授業では、子どもが道徳の考えをどう身につけるかを話し合った。,,,
+770,motif,noun,図柄,図柄、模様 / 主題、モチーフ,The bird is a common motif in the art of this region.,鳥は、この地域の美術によく見られる図柄だ。,,,
+771,motive,noun,動機,動機 / 目的,The survey asked students about their motive for studying abroad.,その調査は、学生に留学の動機を尋ねた。,,,
+772,multinational,adj,多国籍の,多国籍の,The study surveyed workers at five multinational companies.,その研究は、5つの多国籍企業の従業員を調査した。,名詞「多国籍企業」としても使う,,
+773,myth,noun,神話,神話 / 根拠のない通説,New data show that this popular idea is only a myth.,新しいデータは、この広く信じられた考えが神話にすぎないことを示している。,誤った思い込みの意味でよく使う,,
+774,nationalism,noun,国家主義,国家主義 / 民族主義,Her thesis examines the rise of nationalism in the 1800s.,彼女の論文は、1800年代における国家主義の高まりを考察している。,,,
+775,nicely,adv,うまく,うまく / 感じよく,The two parts of the machine fit together nicely.,その機械の2つの部品は、うまく組み合わさる。,,,
+776,noble,adj,崇高な,崇高な、高潔な / 貴族の,The paper argues that the project had a noble aim.,その論文は、その計画には崇高な目的があったと論じている。,化学の noble gas は「希ガス」,,
+777,noisy,adj,騒がしい,騒がしい / うるさい,The cafe near the station is too noisy for meetings.,駅の近くのカフェは、打ち合わせをするには騒がしすぎます。,,,TSL
+778,objection,noun,異議,異議 / 反対,Several students raised objections to the new library hours.,何人かの学生が図書館の新しい開館時間に異議を唱えた。,objection to 〜で「〜への反対」,,
+779,outlet,noun,アウトレット店,アウトレット店、販売店 / はけ口、コンセント,We bought cheap shoes at the outlet near the highway.,高速道路の近くのアウトレット店で、安い靴を買いました。,コンセントの意味は主に米国で使う,,TSL
+780,overhead,noun,間接費,間接費、諸経費,Moving to a smaller office will reduce our overhead.,小さいオフィスに移れば、間接費を減らせます。,形容詞で「頭上の」。overhead bin＝頭上の棚,,TSL
+781,oxidize,verb,酸化する,酸化する、さびる / 〜を酸化させる,Iron oxidizes quickly when it is left in wet air.,鉄は湿った空気の中に置くとすぐに酸化する。,英では oxidise とつづることもある,,
+782,painful,adj,痛い,痛い / つらい,Sitting on hard chairs during long lectures can be painful.,長い講義の間、硬い椅子に座っていると痛くなることがある。,,,
+783,par,noun,同等の水準,同等の水準、標準 / 額面,The new method is on a par with the old one.,新しい方法は、古い方法と同等の水準にある。,on a par with 〜＝〜と同等で,,
+784,parenthesis,noun,丸括弧,丸括弧 / 挿入句,Write the year in parentheses after the author's name.,著者名の後に、年を丸括弧に入れて書きなさい。,複数形は parentheses,,
+785,peasant,noun,小作農,小作農 / 農民,The book describes the daily life of peasants in the 1700s.,その本は1700年代の小作農の日常生活を描いている。,主に歴史上の農民を指す,,
+786,pest,noun,害虫,害虫、有害な小動物,Farmers in the study lost much of their rice to pests.,調査対象の農家は、害虫によって米の多くを失った。,,,
+787,phenomenal,adj,驚異的な,驚異的な、並外れた / 現象の,Research in this field has grown at a phenomenal rate.,この分野の研究は驚異的な速さで増えている。,,,
+788,philosopher,noun,哲学者,哲学者,The philosopher asked what makes a life good.,その哲学者は、何が人生をよいものにするのかを問うた。,,,
+789,photographic,adj,写真の,写真の / 写真のように正確な,The researchers kept a photographic record of each site.,研究者たちは、各地点の写真による記録を残した。,,,
+790,physician,noun,医師,医師 / 内科医,Her father has worked as a physician for thirty years.,彼女の父親は30年間、医師として働いている。,physicist は「物理学者」,,TSL
+791,pi,noun,円周率,円周率、パイ,Students used pi to find the area of the circle.,学生たちは円周率を使って、その円の面積を求めた。,,,
+792,plantation,noun,大農園,大農園、プランテーション / 植林地,The study looked at working conditions on a tea plantation.,その研究は、ある茶の大農園での労働条件を調べた。,,,
+793,plural,adj,複数形の,複数形の、複数の / 多元的な,"In some papers, the word data is treated as plural.",論文によっては、data という語が複数形として扱われる。,名詞で「複数形」も表す,,
+794,portfolio,noun,資産構成,資産構成、保有資産の一覧 / 作品集,Our advisor helped us build a low-risk portfolio.,アドバイザーが、リスクの低い資産構成を組む手助けをしてくれました。,企業の事業や製品の構成にも使う,,TSL
+795,poster,noun,ポスター,ポスター,We put up posters about the event around the office.,社内のあちこちに、イベントのポスターを貼りました。,,,TSL
+796,potassium,noun,カリウム,カリウム,The soil in this area contains little potassium.,この地域の土にはカリウムがほとんど含まれていない。,,,
+797,powder,noun,粉末,粉末 / 粉,The students turned the dry clay into a fine powder.,学生たちは乾いた粘土を細かい粉末にした。,,,
+798,precipitate,verb,〜を引き起こす,〜を引き起こす、早める / 〜を沈殿させる,The new data precipitated a long debate among researchers.,その新しいデータは、研究者の間に長い議論を引き起こした。,化学では「沈殿させる」。名詞では「沈殿物」,,
+799,primer,noun,入門書,入門書 / 下塗り塗料,This short book is a useful primer on statistics.,この短い本は統計学の役に立つ入門書だ。,分子生物学では「プライマー」の意も,,
+800,primitive,adj,原始的な,原始的な / 素朴な、未発達の,Early humans made primitive tools from stone and wood.,初期の人類は、石や木で原始的な道具を作った。,,,
+801,processor,noun,処理装置,処理装置 / 加工業者,The new processor makes the computer much faster.,新しい処理装置のおかげで、そのコンピューターはずっと速くなる。,,,
+802,proton,noun,陽子,陽子,A hydrogen atom has one proton and one electron.,水素原子は陽子1個と電子1個をもつ。,,,
+803,psychiatric,adj,精神医学の,精神医学の / 精神科の,The library has a large collection of psychiatric journals.,その図書館には精神医学の学術誌が多く所蔵されている。,,,
+804,psychologist,noun,心理学者,心理学者,A psychologist studied how students remember new words.,ある心理学者が、学生が新しい単語をどのように覚えるかを研究した。,,,
+805,pulse,noun,脈拍,脈拍 / 波動、パルス,Students measured their pulse after walking up the stairs.,学生たちは階段を上った後、自分の脈拍を測った。,,,
+806,punishment,noun,罰,罰 / 処罰,Rewards often work better than punishment in the classroom.,教室では、罰よりもほうびの方がうまくいくことが多い。,,,
+807,puzzle,noun,謎,謎、難問 / パズル,Why sales dropped last month is still a puzzle to us.,先月なぜ売上が落ちたのかは、私たちにとってまだ謎です。,動詞で「困惑させる」の意味もある,,TSL
+808,quiz,noun,小テスト,小テスト / クイズ,We have a short quiz at the start of each class.,毎回、授業の始めに小テストがある。,動詞で「小テストをする」の意味もある,,
+809,quotation,noun,引用,引用 / 見積もり,Every quotation in your essay must include its source.,レポート内のすべての引用には、出典を付けなければならない。,quotation marks は「引用符」,,
+810,radar,noun,レーダー,レーダー、電波探知機,Scientists use radar to track the movement of birds.,科学者は鳥の移動を追跡するためにレーダーを使う。,,,
+811,ray,noun,光線,光線,A ray of sunlight came through the office window.,オフィスの窓から、一筋の太陽光線が差し込みました。,a ray of hope＝一筋の希望,,TSL
+812,reactor,noun,原子炉,原子炉 / 反応装置,Engineers check the temperature of the reactor every hour.,技術者たちは、毎時間原子炉の温度を確認している。,,,
+813,rehabilitation,noun,リハビリ,リハビリ、社会復帰 / 修復、復旧,The report compares the cost of rehabilitation programs in three cities.,その報告書は、3つの都市のリハビリ事業の費用を比較している。,,,
+814,republic,noun,共和国,共和国,The republic has a population of about five million.,その共和国の人口は約500万人だ。,,,
+815,residue,noun,残留物,残留物、残りかす,A white residue remained after the water dried.,水が乾いた後、白い残留物が残っていた。,,,
+816,rewrite,verb,書き直す,書き直す,I had to rewrite the report three times.,私は報告書を3回書き直さなければなりませんでした。,,yes,TSL
+817,rhythm,noun,リズム,リズム / 周期,Many animals follow a daily rhythm of sleep and activity.,多くの動物は、睡眠と活動の一日のリズムに従っている。,,,
+818,robot,noun,ロボット,ロボット,The engineering students built a small robot that can climb stairs.,工学部の学生たちは、階段を上れる小さなロボットを作った。,,,
+819,ruler,noun,支配者,支配者 / 定規,Historians know little about the early rulers of the island.,歴史家たちは、その島の初期の支配者についてほとんど知らない。,,,
+820,scripture,noun,聖典,聖典、経典,The library keeps copies of scripture in many languages.,その図書館は、多くの言語で書かれた聖典の写しを所蔵している。,,,
+821,secrete,verb,〜を分泌する,〜を分泌する / 〜を隠す,Some plants secrete a sweet liquid to attract insects.,昆虫を引き寄せるために甘い液を分泌する植物もある。,,,
+822,semester,noun,学期,学期,My sister will study abroad next semester.,妹は来学期に留学します。,1年を2期に分けたときの学期,,TSL
+823,sensible,adj,賢明な,賢明な / 分別のある,It would be sensible to collect more data first.,まず、もっと多くのデータを集めるのが賢明だろう。,sensitive（敏感な）と混同しない,,
+824,shallow,adj,浅い,浅い / 浅はかな,The fish lay their eggs in shallow water near the shore.,その魚は、岸の近くの浅い水域に卵を産む。,,,
+825,shortly,adv,まもなく,まもなく / 簡潔に,The train will arrive at the station shortly.,電車はまもなく駅に到着します。,shortly after で「〜のすぐ後に」,yes,TSL
+826,shuttle,noun,シャトル便,シャトル便 / 往復する,A free shuttle runs between the hotel and the airport.,ホテルと空港の間を無料のシャトル便が運行しています。,,,TSL
+827,sketch,noun,スケッチ,スケッチ、略図 / 〜をスケッチする、概略を述べる,The designer showed us a rough sketch of the new logo.,デザイナーが新しいロゴの大まかなスケッチを見せてくれました。,,,TSL
+828,skip,verb,飛ばす,飛ばす、抜かす / 軽く跳ぶ,You may skip the second section if time is short.,時間が足りなければ、第2節は飛ばしてもよい。,,,
+829,slab,noun,厚板,厚板、平たい塊 / 厚切り,The old stone slab had writing on both sides.,その古い石の厚板には、両面に文字が刻まれていた。,,,
+830,slash,noun,斜線,斜線、スラッシュ記号 / 大幅な削減,The authors used a slash to separate the two terms.,著者たちは2つの用語を区切るのに斜線を使った。,動詞では「大幅に削減する」の意が多い,,
+831,slot,noun,細長い穴,細長い穴、差し込み口 / 時間枠,Put your card into the slot to open the door.,ドアを開けるには、カードを差し込み口に入れてください。,,,TSL
+832,sodium,noun,ナトリウム,ナトリウム,The lab measured the amount of sodium in each soup.,その研究室は、各スープに含まれるナトリウムの量を測定した。,元素記号は Na,,
+833,solute,noun,溶質,溶質,Salt is the solute when you mix it with water.,塩を水に混ぜると、塩が溶質になる。,溶かす側の液体は solvent（溶媒）,,
+834,specialty,noun,専門,専門 / 名物,Her specialty is designing small gardens for homes.,彼女の専門は住宅向けの小さな庭のデザインだ。,英国では speciality とつづる,,TSL
+835,splice,noun,接合部,接合部、継ぎ目 / 接合すること,The splice in the cable was hidden under the floor.,ケーブルの接合部は床下に隠されていた。,動詞で「つなぎ合わせる」の意味もある,,
+836,sponsorship,noun,資金援助,資金援助 / 後援,The project received sponsorship from a local company.,そのプロジェクトは、地元の企業から資金援助を受けた。,,,
+837,stack,noun,積み重ね,積み重ね / 積み重ねる,There is a stack of letters on your desk.,あなたの机の上に、手紙が積み重ねてあります。,,,TSL
+838,subtract,verb,引き算する,引き算する、〜を差し引く,Subtract the shipping cost from the total price.,合計金額から送料を引いてください。,subtract A from B＝BからAを引く,,TSL
+839,supposedly,adv,〜とされている,〜とされている / 想定上は,"The new method is supposedly faster, but our results disagree.",新しい方法はより速いとされているが、私たちの結果はそれと一致しない。,疑いを込めて使うことが多い,,
+840,surgeon,noun,外科医,外科医,The study compared the working hours of surgeons in two countries.,その研究は、2か国の外科医の労働時間を比較した。,,,
+841,swap,verb,〜を交換する,〜を交換する、取り替える,"In the second test, the two groups swapped tasks.",2回目のテストでは、2つのグループが課題を交換した。,名詞で「交換」の意味もある,,
+842,swell,verb,膨らむ,膨らむ / 増大する,The wood swells when it absorbs water.,その木材は、水を吸うと膨らむ。,活用 swell-swelled-swollen,,
+843,syllable,noun,音節,音節,The English word 'banana' has three syllables.,英単語の banana には3つの音節がある。,,,
+844,syllabus,noun,授業計画,授業計画、シラバス,The syllabus lists all the readings for the course.,授業計画には、その授業で読むべき文献がすべて載っている。,,,
+845,syndrome,noun,症候群,症候群 / 典型的な傾向,The new database lists the main features of each syndrome.,その新しいデータベースには、各症候群の主な特徴が載っている。,,,
+846,tense,adj,緊張した,緊張した / ぴんと張った,Everyone felt tense while waiting for the exam results.,試験の結果を待つ間、全員が緊張していた。,名詞で「時制」の意味もある,,
+847,terminal,noun,ターミナル,発着ターミナル / 端末,The bus leaves from the north terminal at noon.,バスは正午に北ターミナルから出発します。,,,TSL
+848,thread,noun,糸,糸 / 話の筋、スレッド,The students tied each sample bag with a piece of thread.,学生たちは、それぞれの試料袋を糸で縛った。,,,
+849,ton,noun,トン,トン / 大量,The truck can carry up to ten tons of goods.,そのトラックは最大10トンの荷物を運べます。,tons of 〜 で「たくさんの〜」,,TSL
+850,tract,noun,広い土地,広い土地、区域 / 器官系,The university owns a large tract of forest land.,その大学は森林の広い土地を所有している。,the digestive tract で「消化管」,,
+851,transplant,noun,移植,移植,"After the transplant, the young trees grew quickly in new soil.",移植の後、若木は新しい土でぐんぐん育った。,動詞「移植する」としても使う,,
+852,treaty,noun,条約,条約,The treaty aims to protect the ocean environment.,その条約は、海洋環境を守ることを目的としている。,,,
+853,tremendous,adj,ものすごい,ものすごい、とてつもない / 素晴らしい,The team did a tremendous amount of work this month.,チームは今月、ものすごい量の仕事をこなしました。,,,TSL
+854,triangle,noun,三角形,三角形,Draw a triangle with sides of equal length.,3辺の長さが等しい三角形を描きなさい。,,,
+855,tribe,noun,部族,部族,The researchers lived with the tribe for two years.,研究者たちは、その部族と2年間一緒に暮らした。,,,
+856,tumor,noun,腫瘍,腫瘍,The new software measures the size of a tumor from images.,その新しいソフトウェアは、画像から腫瘍の大きさを測定する。,英国式つづりは tumour,,
+857,turbulent,adj,激しく乱れた,激しく乱れた、荒れた / 激動の,The team studied how turbulent water moves around rocks.,そのチームは、激しく乱れた水が岩の周りをどう流れるかを研究した。,名詞 turbulence は「乱流・乱気流」,,
+858,tutor,noun,個別指導の先生,個別指導の先生、チューター / 家庭教師,Each first-year student meets a tutor once a week.,1年生は全員、週に1回、個別指導の先生と面談する。,,,
+859,underneath,adv,下に,下に / 裏側に,The leaf is dark green on top and lighter underneath.,その葉は表が濃い緑色で、下側はもっと薄い色だ。,前置詞として「〜の下に」も,,
+860,unintelligible,adj,理解できない,理解できない、聞き取れない,Parts of the old recording were unintelligible.,その古い録音の一部は、何を言っているのか理解できなかった。,,,
+861,unity,noun,統一性,統一性 / 団結,The essay lacks unity because it covers too many topics.,そのエッセイは扱う話題が多すぎて、統一性に欠ける。,,,
+862,uplift,noun,隆起,隆起、押し上げ / 気分の高揚,The mountains were formed by slow uplift over millions of years.,その山々は、何百万年にもわたるゆっくりとした隆起によってできた。,動詞で「元気づける」の意味もある,,
+863,urine,noun,尿,尿,Some animals use urine to mark their territory.,尿を使って縄張りを示す動物もいる。,,,
+864,valve,noun,弁,弁、バルブ,Turn the valve slowly to control the flow of gas.,ガスの流れを調節するには、弁をゆっくり回してください。,,,
+865,vein,noun,静脈,静脈 / 鉱脈、葉脈,The diagram shows how veins carry blood back to the heart.,その図は、静脈が血液を心臓へ戻す仕組みを示している。,,,
+866,virtue,noun,美徳,美徳 / 長所,Honesty is an important virtue for every scientist.,誠実さは、すべての科学者にとって大切な美徳だ。,by virtue of〜「〜のおかげで」,,
+867,vitamin,noun,ビタミン,ビタミン,Oranges are a good source of vitamin C.,オレンジはビタミンCを豊富に含んでいます。,,,TSL
+868,volition,noun,意志,意志、自由意志,Participants joined the study of their own volition.,参加者は自らの意志でその研究に参加した。,of one's own volition の形が多い,,
+869,vowel,noun,母音,母音,The Japanese language has five basic vowel sounds.,日本語には5つの基本的な母音がある。,,,
+870,watershed,noun,転換点,転換点、分岐点 / 分水界、流域,That discovery was a watershed in the history of biology.,その発見は生物学の歴史における転換点だった。,地理では「分水界・流域」の意,,
+871,weave,verb,織る,織る / 編み込む,Researchers watched the villagers weave cloth by hand.,研究者たちは、村人たちが手で布を織る様子を観察した。,活用 weave-wove-woven,,
+872,wheat,noun,小麦,小麦,The research team developed a new type of wheat.,その研究チームは新しい品種の小麦を開発した。,,,
+873,whoever,pron,〜する人は誰でも,〜する人は誰でも / 誰が〜しても,Whoever wants a copy can take one from my desk.,コピーが欲しい人は誰でも、私の机から1部持っていってかまいません。,,,TSL
+874,wisdom,noun,知恵,知恵 / 賢明さ,The book collects the wisdom of farmers from many regions.,その本は、多くの地域の農家の知恵を集めている。,,,
+875,airplane,noun,飛行機,飛行機,Our airplane left the airport thirty minutes late.,私たちの飛行機は30分遅れて空港を出発しました。,単に plane とも言う。英は aeroplane,yes,TSL
+876,alien,noun,宇宙人,宇宙人 / 外国人,The novel tells the story of an alien who visits Earth.,その小説は、地球を訪れる宇宙人の物語だ。,形容詞で「異質な」。外国人の意は法律用語,,
+877,applause,noun,拍手,拍手、拍手喝采,Her talk ended with loud applause from the audience.,彼女の講演は、聴衆からの大きな拍手で終わった。,数えられない名詞,,
+878,apple,noun,りんご,りんご,I usually eat an apple with my lunch.,私はたいてい昼食と一緒にりんごを食べる。,,,TSL
+879,auction,noun,競売,競売,The old paintings were sold at an auction.,その古い絵画は競売で売られた。,動詞で「競売にかける」,,TSL
+880,bang,verb,ドンとたたく,ドンとたたく / バタンと閉まる,The professor banged on the desk to get everyone's attention.,教授は皆の注意を引くために、机をドンとたたいた。,,,
+881,bargain,noun,お買い得品,お買い得品 / 値段を交渉する,This jacket was a real bargain at half price.,このジャケットは半額で、本当にお買い得でした。,,,TSL
+882,bat,noun,バット,バット / コウモリ,The students measured how fast the ball left the bat.,学生たちは、ボールがバットから離れる速さを測定した。,,,
+883,bleed,verb,出血する,出血する / 色がにじむ,"The old project was bleeding money, so the university stopped it.",その古いプロジェクトは資金面で出血が続いていたので、大学はそれを打ち切った。,bleed money で「赤字を出し続ける」,,
+884,bonus,noun,賞与,賞与 / おまけ,All staff received a bonus at the end of the year.,全社員が年末に賞与を受け取りました。,,,TSL
+885,bucket,noun,バケツ,バケツ / バケツ1杯分,Rainwater was collected in a bucket for the experiment.,実験のために、雨水がバケツに集められた。,,,
+886,bullet,noun,弾丸,弾丸 / 箇条書きの黒丸,The train is shaped like a bullet to reduce air resistance.,その列車は、空気抵抗を減らすために弾丸のような形をしている。,bullet point「箇条書きの項目」も頻出,,
+887,cheat,verb,不正をする,不正をする / 〜をだます,Students caught cheating on the exam will fail the course.,試験で不正をしているのが見つかった学生は、その科目が不合格になる。,cheat on a test「試験でカンニングする」,,
+888,cheers,noun,歓声,歓声 / 声援,The audience gave loud cheers after the student's presentation.,聴衆は、その学生の発表の後に大きな歓声を上げた。,Cheers! で「乾杯」「ありがとう」の意味も,,
+889,chess,noun,チェス,チェス,The study compared the memory of chess players and other students.,その研究は、チェスをする人とほかの学生の記憶力を比較した。,,,
+890,clip,noun,クリップ,クリップ、留め具 / 動画の一部,Please keep these pages together with a clip.,これらのページは、クリップでまとめておいてください。,動詞で「〜を切り抜く、短く切る」,,TSL
+891,composer,noun,作曲家,作曲家,The music students studied the works of a young composer.,音楽専攻の学生たちはある若い作曲家の作品を研究した。,,,
+892,cord,noun,電気コード,電気コード / ひも、縄,The cord is too short to reach the outlet.,そのコードは短すぎて、コンセントまで届きません。,,,TSL
+893,damp,adj,湿った,湿った / じめじめした,Keep the samples wrapped in a damp cloth until the test.,検査まで試料を湿った布に包んでおいてください。,,,
+894,demonstrator,noun,実演者,実演者 / 実験助手,The demonstrator showed visitors how the new machine works.,実演者が来場者に新しい機械の動かし方を見せた。,「デモ参加者」の意味もある,,
+895,dictionary,noun,辞書,辞書,Students may use a dictionary during the reading test.,学生は読解テストの間、辞書を使ってもよい。,,,
+896,drain,noun,排水管,排水管 / 流出,The lab sink has a special drain for used water.,研究室の流しには使用済みの水のための特別な排水管がある。,動詞で「排水する」「消耗させる」,,
+897,exit,noun,出口,出口 / 退出,The nearest exit is next to the elevator.,いちばん近い出口はエレベーターの隣です。,動詞で「外に出る、退出する」の意味も,yes,TSL
+898,fever,noun,熱,熱 / 熱狂,Soccer fever spread across the campus before the final game.,決勝戦を前に、キャンパス中にサッカー熱が広がった。,本来は病気による「発熱」の意味,,
+899,fin,noun,ひれ,ひれ,The fish uses its tail fin to change direction.,その魚は尾びれを使って向きを変える。,,,
+900,flesh,noun,肉,肉 / 果肉,The flesh of this fruit turns brown in the air.,この果物の果肉は空気に触れると茶色くなる。,,,
+901,flip,noun,反転,反転 / 指ではじくこと,A simple flip of the image made the pattern clear.,画像を単純に反転させると、その模様がはっきりした。,動詞「ひっくり返す」の用法も多い,,
+902,ghost,noun,幽霊,幽霊,The students collected old ghost stories from local villages.,学生たちは、地元の村々から昔の幽霊話を集めた。,,,
+903,goat,noun,ヤギ,ヤギ,Farmers in the region keep goats for their milk.,その地域の農家は、乳をとるためにヤギを飼っている。,,,
+904,hawk,noun,タカ,タカ / 強硬派,The researchers tracked the flight of a hawk using GPS.,研究者たちは、GPSを使ってタカの飛行を追跡した。,,,
+905,hip,noun,腰,腰 / 股関節,The team measured hip movement in young runners.,チームは若いランナーの腰の動きを測定した。,尻ではなく、腰の横の張り出した部分を指す,,
+906,jazz,noun,ジャズ,ジャズ,We listened to live jazz at a small cafe.,私たちは小さなカフェで生演奏のジャズを聴いた。,,,TSL
+907,lump,noun,かたまり,かたまり / こぶ,Each student was given a lump of clay to shape.,各学生に、形を作るための粘土のかたまりが配られた。,lump sum で「一括払いの金額」,,
+908,mall,noun,ショッピングモール,ショッピングモール,The new mall has over one hundred shops.,新しいショッピングモールには100以上の店があります。,,yes,TSL
+909,marble,noun,大理石,大理石 / ビー玉,The old library has floors made of white marble.,その古い図書館には、白い大理石の床がある。,,,
+910,mechanic,noun,整備士,整備士 / 機械工,The mechanic said my car needs new tires.,整備士は、私の車には新しいタイヤが必要だと言いました。,,yes,TSL
+911,memorize,verb,暗記する,暗記する、覚える,I memorized the names of all my new coworkers.,私は新しい同僚全員の名前を暗記しました。,,,TSL
+912,missile,noun,ミサイル,ミサイル / 飛び道具,The museum shows an early missile used in space research.,その博物館は宇宙研究に使われた初期のミサイルを展示している。,,,
+913,monkey,noun,サル,サル,The researchers watched how young monkeys learn from adults.,研究者たちは、若いサルが大人のサルからどう学ぶかを観察した。,,,
+914,naked,adj,裸の,裸の / むき出しの,You can see this star with the naked eye.,この星は肉眼でも見ることができる。,the naked eyeで「肉眼」,,
+915,nasty,adj,嫌な,嫌な / 意地の悪い,The team got a nasty surprise when the data disappeared.,データが消えるという嫌な事態に、チームは驚かされた。,,,
+916,neat,adj,きちんとした,きちんとした / すてきな,"Her desk is always neat, even on busy days.",彼女の机は、忙しい日でもいつもきちんとしています。,,,TSL
+917,nest,noun,巣,巣 / 居心地のよい場所,The students counted the nests in each tree on campus.,学生たちは、キャンパスの各木にある巣の数を数えた。,,,
+918,parcel,noun,小包,小包,A parcel arrived for you while you were at lunch.,お昼に出ている間に、あなた宛ての小包が届きました。,米国では package がよく使われる,,TSL
+919,pardon,verb,〜を許す,〜を許す / 〜を大目に見る,Please pardon me for arriving late to the seminar.,ゼミに遅れて来たことをお許しください。,Pardon? で「もう一度言って」,,
+920,planner,noun,計画を立てる人,計画を立てる人、企画担当者 / 手帳,Our event planner booked a hotel for the conference.,イベントの企画担当者が、会議のためにホテルを予約しました。,city planner＝都市計画の専門家,,TSL
+921,plug,verb,〜をふさぐ,〜をふさぐ、〜に栓をする / 〜を差し込む,Please plug the hole in the pipe with this tape.,このテープで、パイプの穴をふさいでください。,plug in で「電源につなぐ」。名詞は「プラグ」「栓」,,TSL
+922,pronounce,verb,〜を発音する,〜を発音する / 〜を宣言する,Many learners find this word difficult to pronounce correctly.,多くの学習者は、この単語を正しく発音するのが難しいと感じる。,名詞は pronunciation（つづり注意）,,
+923,punch,verb,こぶしで打つ,こぶしで打つ / 穴を開ける,He punched the air with joy when his paper was accepted.,論文が採択されると、彼は喜びのあまりこぶしで宙を突いた。,,,
+924,punish,verb,〜を罰する,〜を罰する,The university punishes students who copy other people's work.,その大学は、他人の課題を写した学生を罰する。,,,
+925,rack,noun,ラック,ラック / 網棚,Please hang your coat on the rack by the door.,コートはドアのそばのラックに掛けてください。,coat rack＝コート掛け,,TSL
+926,recipe,noun,レシピ,レシピ / 秘訣,Could you share the recipe for this cake?,このケーキのレシピを教えていただけますか。,,,TSL
+927,ridiculous,adj,ばかげた,ばかげた / とんでもない,It seems ridiculous to repeat the same test ten times.,同じ試験を10回も繰り返すのは、ばかげているように思える。,,,
+928,rope,noun,ロープ,ロープ / 縄,The students used a long rope to measure the field.,学生たちは、長いロープを使ってその畑の広さを測った。,,,
+929,rub,verb,〜をこする,〜をこする / 〜をすり込む,"In the experiment, students rubbed two metal plates together.",その実験で、学生たちは2枚の金属板をこすり合わせた。,,,
+930,scroll,noun,巻物,巻物 / スクロール,The museum keeps an old scroll from the tenth century.,その博物館は10世紀の古い巻物を所蔵している。,動詞で「画面をスクロールする」の意も,,
+931,sin,noun,罪,罪 / 過ち,"For a researcher, hiding data is a serious sin.",研究者にとって、データを隠すことは重大な罪だ。,宗教・道徳上の罪。法律上の罪は crime,,
+932,snake,noun,ヘビ,ヘビ,The biologist studies how snakes move across sand.,その生物学者は、ヘビが砂の上をどう移動するかを研究している。,,,
+933,sneeze,verb,くしゃみをする,くしゃみをする,Dust in the old library made the students sneeze.,古い図書館のほこりで、学生たちはくしゃみをした。,,,
+934,sniff,verb,においをかぐ,においをかぐ / 鼻をすする,"In the test, each dog sniffed five different boxes.",その実験では、それぞれの犬が5つの異なる箱のにおいをかいだ。,,,
+935,sometime,adv,いつか,いつか / ある時に,Let's have lunch together sometime next week.,来週いつか一緒にお昼を食べましょう。,sometimes（時々）と混同しない,yes,TSL
+936,spray,verb,吹きかける,吹きかける / スプレー、しぶき,Please spray the cleaner on the glass and wipe it.,ガラスに洗剤を吹きかけてから、拭いてください。,,,TSL
+937,stadium,noun,競技場,競技場,Thousands of fans filled the stadium for the final game.,決勝戦では、何千人ものファンが競技場を埋め尽くしました。,,,TSL
+938,stripe,noun,しま模様,しま模様、筋 / ストライプ,He wore a blue shirt with thin white stripes.,彼は、細い白のしま模様が入った青いシャツを着ていました。,,,TSL
+939,super,adj,すばらしい,すばらしい、最高の,The team did a super job on the final report.,そのチームは最終報告書ですばらしい仕事をした。,くだけた語。接頭辞 super- の意もある,,
+940,sword,noun,剣,剣 / 刀,Archaeologists found an old iron sword near the river.,考古学者たちは、川の近くで古い鉄の剣を発見した。,w は発音しない,,
+941,tech,noun,テクノロジー,テクノロジー / 技術者,Our team uses the latest tech to save time.,私たちのチームは時間を節約するために最新のテクノロジーを使っている。,technology の短縮形で、くだけた語,,TSL
+942,tempt,verb,誘惑する,誘惑する / 気をそそる,The smell of fresh bread tempted me into the shop.,焼きたてのパンの匂いに誘われて、その店に入ってしまいました。,be tempted to 〜＝つい〜したくなる,,TSL
+943,terribly,adv,ひどく,ひどく / とても,The first draft of my essay was terribly long.,私のレポートの最初の下書きは、ひどく長かった。,,,
+944,thumb,noun,親指,親指,The robot hand has a thumb and four fingers.,そのロボットの手には、親指と4本の指がある。,rule of thumb＝経験則,,
+945,tricky,adj,扱いが難しい,扱いが難しい / ずる賢い,This kind of data can be tricky to handle.,この種のデータは、扱いが難しいことがある。,,,

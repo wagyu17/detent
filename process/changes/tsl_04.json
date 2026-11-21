@@ -1,0 +1,254 @@
+[
+ {
+  "headword": "headache",
+  "field": "glossShort",
+  "before": "頭痛",
+  "after": "頭痛の種",
+  "reason": "例文は比喩（壊れたコピー機が悩みの種）で、和訳「頭痛の種」が glossShort「頭痛」の意味と対応していなかった。字義の例文は仕様で避ける病気の話題になるため、glossShort を例文の意味に合わせた（字義の「頭痛」は glosses に残す）"
+ },
+ {
+  "headword": "headache",
+  "field": "glosses",
+  "before": [
+   "頭痛",
+   "悩みの種"
+  ],
+  "after": [
+   "頭痛の種、悩みの種",
+   "頭痛"
+  ],
+  "reason": "glossShort の変更に合わせて並べ替え、字義の「頭痛」を2番目に置いた"
+ },
+ {
+  "headword": "headache",
+  "field": "note",
+  "before": "比喩で「悩みの種」の意味でもよく使う",
+  "after": "本来の意味は「頭痛」。比喩で困った問題を指す",
+  "reason": "glossShort が比喩の意味になったため、字義を注記した"
+ },
+ {
+  "headword": "jam",
+  "field": "glossShort",
+  "before": "〜を詰め込む",
+  "after": "詰まる",
+  "reason": "TOEIC ではコピー機・プリンターの紙詰まり（jam / be jammed）や traffic jam のような「詰まる」意味が中心。「詰め込む」は glosses に残す"
+ },
+ {
+  "headword": "jam",
+  "field": "glosses",
+  "before": [
+   "〜を詰め込む",
+   "渋滞"
+  ],
+  "after": [
+   "詰まって動かなくなる",
+   "〜を詰め込む"
+  ],
+  "reason": "動詞の語義にそろえた（名詞の「渋滞」は note へ移した）"
+ },
+ {
+  "headword": "jam",
+  "field": "example.en",
+  "before": "We jammed all the boxes into the small van.",
+  "after": "The printer in our office jammed again this morning.",
+  "reason": "新しい glossShort に対応する、職場の典型的な場面の例文に作り直した"
+ },
+ {
+  "headword": "jam",
+  "field": "example.ja",
+  "before": "私たちはすべての箱を小さなバンに詰め込んだ。",
+  "after": "今朝、事務所のプリンターがまた詰まった。",
+  "reason": "例文の作り直しに伴う和訳"
+ },
+ {
+  "headword": "jam",
+  "field": "note",
+  "before": "名詞で「紙詰まり」や食品の「ジャム」も",
+  "after": "名詞で「渋滞」「紙詰まり」、食品のジャムも",
+  "reason": "glosses から外した「渋滞」を注記に移した"
+ },
+ {
+  "headword": "workforce",
+  "field": "example.ja",
+  "before": "当社の従業員は500人以上に増えた。",
+  "after": "当社の全従業員数は、500人を超えるまでに増えた。",
+  "reason": "over 500 は「500人を超える」が正確。glossShort「全従業員」との対応も明確にした"
+ },
+ {
+  "headword": "adhere",
+  "field": "glossShort",
+  "before": "〜を厳守する",
+  "after": "〜に忠実に従う",
+  "reason": "同じ束の comply（〜に従う）とほぼ同義で、4択で紛らわしい。公式定義（to stay with or follow）に沿う訳にし、近義語どうしが同時に選択肢に並ばないよう共通の語（従う）を含めた"
+ },
+ {
+  "headword": "adhere",
+  "field": "glosses",
+  "before": [
+   "〜を厳守する",
+   "くっつく"
+  ],
+  "after": [
+   "〜に忠実に従う、〜を厳守する",
+   "くっつく"
+  ],
+  "reason": "glossShort の変更に合わせ、元の訳「厳守する」も残した"
+ },
+ {
+  "headword": "adhere",
+  "field": "example.ja",
+  "before": "全スタッフは新しい安全規則を厳守しなければならない。",
+  "after": "全スタッフは新しい安全規則に忠実に従わなければならない。",
+  "reason": "glossShort の変更に合わせた"
+ },
+ {
+  "headword": "clip",
+  "field": "glosses",
+  "before": [
+   "〜を切り抜く",
+   "〜をクリップで留める"
+  ],
+  "after": [
+   "〜を切り抜く、短く切る",
+   "〜をクリップで留める"
+  ],
+  "reason": "公式定義（to cut short）の語義を補った。同じパックの shorten（短くする）が4択の誤答に並ぶと正答が一意にならないため、共通する語義を明示した"
+ },
+ {
+  "headword": "fasten",
+  "field": "example.en",
+  "before": "Please fasten your seat belt during the flight.",
+  "after": "Ken fastened his seat belt before the plane took off.",
+  "reason": "機内アナウンスや辞書の定番文（Please fasten your seat belt）に近いため、オリジナルの文に作り直した"
+ },
+ {
+  "headword": "fasten",
+  "field": "example.ja",
+  "before": "飛行中はシートベルトを締めてください。",
+  "after": "ケンは飛行機が離陸する前にシートベルトを締めた。",
+  "reason": "例文の作り直しに伴う和訳"
+ },
+ {
+  "headword": "generic",
+  "field": "example.ja",
+  "before": "これはほとんどの電話に使える汎用の充電器だ。",
+  "after": "これはほとんどの携帯電話に使える汎用の充電器だ。",
+  "reason": "充電器の文脈の phones は携帯電話。訳を自然にした"
+ },
+ {
+  "headword": "simplify",
+  "field": "glosses",
+  "before": [
+   "〜を簡単にする"
+  ],
+  "after": [
+   "〜を簡単にする、平易にする"
+  ],
+  "reason": "公式定義（make easier to understand）の語義を補った。同じ束の facilitate（〜を容易にする）と4択で紛らわしくならないよう、共通する語義を明示した"
+ },
+ {
+  "headword": "downturn",
+  "field": "example.ja",
+  "before": "景気の低迷の間に、多くの店が閉店した。",
+  "after": "景気が低迷する中、多くの店が閉店した。",
+  "reason": "「の…の間に」が不自然なため、自然な訳にした"
+ },
+ {
+  "headword": "plug",
+  "field": "glossShort",
+  "before": "〜をふさぐ",
+  "after": "〜を差し込む",
+  "reason": "TOEIC では plug A into B / plug in（プラグを差し込む・電源につなぐ）の用法が中心。公式定義の「穴をふさぐ」は glosses に残す。パック内の unplug（〜のプラグを抜く）とも対応する"
+ },
+ {
+  "headword": "plug",
+  "field": "glosses",
+  "before": [
+   "〜をふさぐ",
+   "プラグ"
+  ],
+  "after": [
+   "〜を差し込む",
+   "〜をふさぐ"
+  ],
+  "reason": "動詞の語義にそろえた（名詞の「プラグ」は note へ移した）"
+ },
+ {
+  "headword": "plug",
+  "field": "example.en",
+  "before": "We used tape to plug the hole in the pipe.",
+  "after": "Please plug the cable into the back of the computer.",
+  "reason": "新しい glossShort に対応する例文に作り直した"
+ },
+ {
+  "headword": "plug",
+  "field": "example.ja",
+  "before": "私たちはテープでパイプの穴をふさいだ。",
+  "after": "ケーブルをパソコンの背面に差し込んでください。",
+  "reason": "例文の作り直しに伴う和訳"
+ },
+ {
+  "headword": "plug",
+  "field": "note",
+  "before": "plug in で「電源につなぐ」",
+  "after": "plug in で「電源につなぐ」。名詞は「プラグ」「栓」",
+  "reason": "glosses から外した名詞の意味を注記に移した"
+ },
+ {
+  "headword": "vase",
+  "field": "example.ja",
+  "before": "机の上には生花を生けた花瓶がある。",
+  "after": "机の上には、新鮮な花を生けた花瓶がある。",
+  "reason": "「生花を生けた」は重ね言葉で、生花（いけばな）とも読めるため"
+ },
+ {
+  "headword": "consent",
+  "field": "glosses",
+  "before": [
+   "同意"
+  ],
+  "after": [
+   "同意、承諾",
+   "許可"
+  ],
+  "reason": "公式定義（to give permission）の「許可」を補った。同じ束の authorization（許可）・acceptance（受け入れ）と4択で紛らわしくならないよう、共通する語義を明示した"
+ },
+ {
+  "headword": "detach",
+  "field": "glosses",
+  "before": [
+   "〜を取り外す"
+  ],
+  "after": [
+   "〜を取り外す、切り離す"
+  ],
+  "reason": "書類の切り取り（detach and return）で多い「切り離す」を補った。パック内の disconnect（接続を切る）が誤答に並ぶと紛らわしいため、共通する語義を明示した"
+ },
+ {
+  "headword": "familiarize",
+  "field": "note",
+  "before": "oneself with 〜 で「〜に慣れる」",
+  "after": "〜 oneself with A で「Aに慣れる」",
+  "reason": "見出し語が抜けて途中から始まっていたため、〜で見出し語を示す形に直した"
+ },
+ {
+  "headword": "entrée",
+  "field": "note",
+  "before": "米ではメイン料理、英では前菜を指す",
+  "after": "米ではメイン料理、英・豪では前菜を指す",
+  "reason": "前菜の意味はオーストラリアなどでも一般的なため"
+ },
+ {
+  "headword": "acceptance",
+  "field": "glosses",
+  "before": [
+   "受け入れ",
+   "容認"
+  ],
+  "after": [
+   "受け入れ、承諾",
+   "容認"
+  ],
+  "reason": "申し出の承諾（acceptance of an offer）の語義を補い、consent（同意、承諾）と4択で紛らわしくならないよう共通する語義を明示した"
+ }
+]

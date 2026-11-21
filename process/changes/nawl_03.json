@@ -1,0 +1,159 @@
+[
+ {
+  "headword": "reinforce",
+  "field": "example.ja",
+  "before": "新しいデータは、以前の研究の結果をさらに強化するものだ。",
+  "after": "新しいデータは、以前の研究の結果をさらに補強するものだ。",
+  "reason": "「結果を強化する」は日本語として不自然なため、同義で自然な「補強する」に変更"
+ },
+ {
+  "headword": "reproduction",
+  "field": "note",
+  "before": "",
+  "after": "生物では「生殖」、社会学では「再生産」",
+  "reason": "迷い語の確認。glossShort「繁殖」は定義どおりで妥当。学術で頻出の訳語（生物学・社会学）を補足"
+ },
+ {
+  "headword": "superior",
+  "field": "pos",
+  "before": "noun",
+  "after": "adj",
+  "reason": "定義 better; higher quality も学術での用法も形容詞が主（superior to など）。名詞「上司」は学術文ではまれなため品詞を形容詞に変更（posHint は n）"
+ },
+ {
+  "headword": "superior",
+  "field": "glossShort",
+  "before": "上司",
+  "after": "優れた",
+  "reason": "学術で主な意味（形容詞）に変更"
+ },
+ {
+  "headword": "superior",
+  "field": "glosses",
+  "before": [
+   "上司",
+   "目上の人"
+  ],
+  "after": [
+   "優れた",
+   "上位の"
+  ],
+  "reason": "形容詞の主要な意味に合わせて変更。名詞「上司」は note へ"
+ },
+ {
+  "headword": "superior",
+  "field": "example.en",
+  "before": "Junior researchers often ask their superiors for advice.",
+  "after": "Tests showed that the new method was superior to the old one.",
+  "reason": "形容詞の主用法 superior to を示す研究場面の例文に変更"
+ },
+ {
+  "headword": "superior",
+  "field": "example.ja",
+  "before": "若手研究者は、よく上司に助言を求める。",
+  "after": "試験の結果、新しい方法は古い方法よりも優れていることが分かった。",
+  "reason": "新しい例文の和訳"
+ },
+ {
+  "headword": "superior",
+  "field": "note",
+  "before": "形容詞 superior to「〜より優れた」も重要",
+  "after": "superior to〜「〜より優れた」。名詞で「上司」",
+  "reason": "語法と名詞の意味を補足（than ではなく to）"
+ },
+ {
+  "headword": "utility",
+  "field": "glosses",
+  "before": [
+   "有用性",
+   "公共事業"
+  ],
+  "after": [
+   "有用性",
+   "公益事業"
+  ],
+  "reason": "「公共事業」は public works（道路・ダム工事など）の意味。電気・ガス・水道の utility は「公益事業」"
+ },
+ {
+  "headword": "array",
+  "field": "glossShort",
+  "before": "配列",
+  "after": "ずらりと並んだもの",
+  "reason": "迷い語の確認。学術文では a (wide) array of「多数の・多様な」の用法が最も多く、定義の第1義も a large group。「配列」は同じ束の configuration（配置）と紛らわしいため glosses の2番目へ"
+ },
+ {
+  "headword": "array",
+  "field": "glosses",
+  "before": [
+   "配列",
+   "ずらりと並んだもの"
+  ],
+  "after": [
+   "ずらりと並んだもの",
+   "配列"
+  ],
+  "reason": "glossShort の変更に合わせて順序を入れ替え"
+ },
+ {
+  "headword": "array",
+  "field": "example.en",
+  "before": "The cameras were placed in a regular array across the field.",
+  "after": "The lab has a wide array of tools for testing soil.",
+  "reason": "最頻の用法 a wide array of を示す例文に変更"
+ },
+ {
+  "headword": "array",
+  "field": "example.ja",
+  "before": "カメラは、畑全体に規則的な配列で設置された。",
+  "after": "その研究室には、土壌を調べるための道具がずらりとそろっている。",
+  "reason": "新しい例文の和訳（glossShort に対応）"
+ },
+ {
+  "headword": "bullet",
+  "field": "example.en",
+  "before": "The bullet train travels at about 300 kilometers per hour.",
+  "after": "The train is shaped like a bullet to reduce air resistance.",
+  "reason": "迷い語の確認。bullet train は「新幹線」を指す複合語で大学・研究の場面でもない。暴力に触れずに「弾丸」の意味で使う工学の例文に変更"
+ },
+ {
+  "headword": "bullet",
+  "field": "example.ja",
+  "before": "その弾丸列車は、時速約300キロで走る。",
+  "after": "その列車は、空気抵抗を減らすために弾丸のような形をしている。",
+  "reason": "「その弾丸列車は」は不自然。新しい例文の和訳"
+ },
+ {
+  "headword": "essence",
+  "field": "example.ja",
+  "before": "その議論の本質は、実はとても単純だ。",
+  "after": "その議論の本質は、とても単純だ。",
+  "reason": "原文にない「実は」を削除（忠実さ）"
+ },
+ {
+  "headword": "fraction",
+  "field": "glossShort",
+  "before": "ごく一部",
+  "after": "一部",
+  "reason": "「ごく一部」は small の意味を含み、a large fraction of や「割合」の用法に合わない"
+ },
+ {
+  "headword": "fraction",
+  "field": "glosses",
+  "before": [
+   "ごく一部",
+   "分数"
+  ],
+  "after": [
+   "一部",
+   "分数"
+  ],
+  "reason": "glossShort の変更に合わせる"
+ },
+ {
+  "headword": "fraction",
+  "field": "note",
+  "before": "",
+  "after": "the fraction of〜で「〜の割合」",
+  "reason": "学術文で多い「割合」の用法を補足"
+ }
+]

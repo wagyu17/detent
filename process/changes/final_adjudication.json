@@ -1,0 +1,863 @@
+{
+ "fixes": [
+  {
+   "batch": "tsl_03",
+   "headword": "pant",
+   "set": {
+    "headword": "pants",
+    "note": "原典の見出しはpant（動詞では「あえぐ」）"
+   },
+   "reason": "決定済みの方針：TOEICでの頻度は pants（ズボン）に由来するため見出しを pants に。pos・glossShort（名詞「ズボン」）と例文（pants を1回使用）は既に方針どおりなので変えず、note を見出し変更に合わせて更新",
+   "source": "adj_flags.json"
+  },
+  {
+   "batch": "tsl_02",
+   "headword": "seldom",
+   "set": {
+    "glossShort": "めったに〜しない"
+   },
+   "reason": "訳の意味は正しいが、副詞に対し「めったにない」は形容詞（まれな）的で品詞が分からない。glosses と同じ副詞の形にした（他の語の glossShort と重複なし）",
+   "source": "adj_flags.json"
+  },
+  {
+   "batch": "tsl_07",
+   "headword": "oblige",
+   "set": {
+    "glossShort": "余儀なくさせる",
+    "glosses": [
+     "余儀なくさせる、〜せざるを得なくさせる",
+     "〜の頼みを聞く"
+    ]
+   },
+   "reason": "「やむなく〜させる」は主語が仕方なく人に何かをさせる意味に読め、oblige の「（状況・義務が）人に〜せざるを得なくする」とずれる。例文（悪天候で中止せざるを得なかった）に合い、同じ束の obligate（〜に義務を負わせる）とも区別できる形に（重複なし）",
+   "source": "adj_flags.json"
+  },
+  {
+   "batch": "tsl_01",
+   "headword": "luggage",
+   "set": {
+    "glossShort": "旅行の荷物",
+    "glosses": [
+     "旅行の荷物、手荷物"
+    ],
+    "example": {
+     "en": "Please do not leave your luggage here.",
+     "ja": "ここに荷物を置いたままにしないでください。"
+    }
+   },
+   "reason": "glossShort「旅行かばん類」は一般的な訳語ではなく、和訳「旅行かばん類を置いたままに」も不自然。baggage（手荷物）と重ならない「旅行の荷物」にし、和訳は自然な「荷物」にした（英文は変更なし）",
+   "source": "adj_free.json"
+  },
+  {
+   "batch": "nawl_05",
+   "headword": "whereby",
+   "set": {
+    "glossShort": "それによって〜する",
+    "glosses": [
+     "それによって〜する"
+    ]
+   },
+   "reason": "thereby と glossShort が同じ「それによって」で、どちらも無料語かつ NAWL の出題順で数語差。関係詞（by which）として後ろに節が続くことが分かる形にして区別した",
+   "source": "adj_free.json"
+  },
+  {
+   "batch": "tsl_02",
+   "headword": "accurately",
+   "set": {
+    "example": {
+     "en": "This machine counts coins quickly and accurately.",
+     "ja": "この機械は硬貨をすばやく正確に数えます。"
+    }
+   },
+   "reason": "無料語 correctly の例文（Please make sure you fill in the form correctly.）と場面も構文もほぼ同じで、近い意味の2語が区別できない。accurately らしい「数を正確に数える」場面に替えた",
+   "source": "adj_free.json"
+  },
+  {
+   "batch": "tsl_06",
+   "headword": "housekeep",
+   "set": {
+    "headword": "housekeeping",
+    "pos": "noun",
+    "glossShort": "客室清掃",
+    "glosses": [
+     "客室清掃、清掃業務",
+     "家事"
+    ],
+    "example": {
+     "en": "The hotel offers housekeeping service every day.",
+     "ja": "そのホテルでは毎日、客室清掃のサービスがある。"
+    },
+    "note": "原典の見出しは housekeep（家事をする）"
+   },
+   "reason": "TOEIC で出るのはほぼ housekeeping（客室清掃）。動詞 housekeep はまれで、例文も不自然だったため見出しを変更（pant→pants と同じ扱い）",
+   "source": "adj_own.json"
+  },
+  {
+   "batch": "tsl_03",
+   "headword": "planner",
+   "set": {
+    "glossShort": "計画を立てる人",
+    "glosses": [
+     "計画を立てる人、企画担当者",
+     "手帳"
+    ],
+    "note": "city planner＝都市計画の専門家"
+   },
+   "reason": "両リストの文脈で主に使うのは「人」の意味（event planner／urban planner）なので維持し、ビジネス寄りの「企画担当者」を一般的な訳にした。NAWL の主訳「手帳」を2個目へ（予定表→手帳）。例文は人の意味のままで対応",
+   "source": "adj_shared.json"
+  },
+  {
+   "batch": "tsl_02",
+   "headword": "availability",
+   "set": {
+    "glossShort": "利用できること",
+    "glosses": [
+     "利用できること、入手できること",
+     "空き状況、都合"
+    ],
+    "example": {
+     "en": "The availability of free parking is important to our customers.",
+     "ja": "無料駐車場を利用できることは、当社のお客様にとって重要です。"
+    },
+    "note": "check availability＝空き状況を確認する"
+   },
+   "reason": "両リストの定義は同じ（being present and able to be used）。「空き状況」は予約の場面に限られ、学術の availability of data などに合わないため、一般的な意味を主にして「空き状況」は2個目と note へ。例文も一般的な意味で作り直し",
+   "source": "adj_shared.json"
+  },
+  {
+   "batch": "tsl_07",
+   "headword": "bound",
+   "set": {
+    "glossShort": "縛られた",
+    "glosses": [
+     "縛られた、義務を負った",
+     "〜行きの"
+    ],
+    "example": {
+     "en": "We are bound by the contract until next March.",
+     "ja": "私たちは来年の3月まで、その契約に縛られています。"
+    },
+    "note": "be bound to＝きっと〜する。動詞で「境界となる」"
+   },
+   "reason": "「〜行きの」は乗り物の行き先に限られ学術ではまれ。契約・規則に「縛られた」は両方の文脈で使い、TSL の定義（bind）・NAWL の jHint（縛られた）とも一致。NAWL の動詞の意味「境界となる」は品詞が違うので note へ。例文も作り直し",
+   "source": "adj_shared.json"
+  },
+  {
+   "batch": "tsl_04",
+   "headword": "clip",
+   "set": {
+    "pos": "noun",
+    "glossShort": "クリップ",
+    "glosses": [
+     "クリップ、留め具",
+     "動画の一部"
+    ],
+    "example": {
+     "en": "Please keep these pages together with a clip.",
+     "ja": "これらのページは、クリップでまとめておいてください。"
+    },
+    "note": "動詞で「〜を切り抜く、短く切る」"
+   },
+   "reason": "名詞（紙ばさみ・動画の一部）がオフィスでも研究（video clips）でも最も一般的で、NAWL の定義・jHint の第1義とも一致。TSL の動詞「切り抜く」は品詞が違うので note へ。pos を noun に変更し例文も作り直し",
+   "source": "adj_shared.json"
+  },
+  {
+   "batch": "tsl_01",
+   "headword": "replacement",
+   "set": {
+    "glossShort": "交換",
+    "glosses": [
+     "交換、取り替え",
+     "代わりの人・物"
+    ],
+    "example": {
+     "en": "The replacement of the old printers will take two days.",
+     "ja": "古いプリンターの交換には2日かかります。"
+    }
+   },
+   "reason": "両リストの定義はどちらも「取り替えること」（TSL: to put something in place of…／NAWL: the act of putting something new in the place of…）。主訳を「交換」にし「代わりの人・物」を2個目へ。例文も作り直し",
+   "source": "adj_shared.json"
+  },
+  {
+   "batch": "tsl_04",
+   "headword": "plug",
+   "set": {
+    "glossShort": "〜をふさぐ",
+    "glosses": [
+     "〜をふさぐ、〜に栓をする",
+     "〜を差し込む"
+    ],
+    "example": {
+     "en": "Please plug the hole in the pipe with this tape.",
+     "ja": "このテープで、パイプの穴をふさいでください。"
+    }
+   },
+   "reason": "両リストの定義はどちらも「穴をふさぐ」（to fill in a hole／to fill or close tightly）。主訳を「ふさぐ」にし「差し込む」を2個目へ（plug in は既存の note のまま）。例文も作り直し",
+   "source": "adj_shared.json"
+  },
+  {
+   "batch": "tsl_04",
+   "headword": "assembly",
+   "set": {
+    "glossShort": "組み立て",
+    "glosses": [
+     "組み立て",
+     "集会、議会"
+    ],
+    "example": {
+     "en": "The assembly of each desk takes about thirty minutes.",
+     "ja": "机1台の組み立てには、約30分かかります。"
+    }
+   },
+   "reason": "「組み立て」は TOEIC（assembly line・組み立て説明書など）でも学術（工学など）でもよく使い、NAWL の定義・jHint と一致。「集会」は2個目へ（議会の意味も追加）。例文も作り直し",
+   "source": "adj_shared.json"
+  },
+  {
+   "batch": "tsl_04",
+   "headword": "circulation",
+   "set": {
+    "glossShort": "循環",
+    "glosses": [
+     "循環",
+     "流通、発行部数"
+    ],
+    "example": {
+     "en": "Open the windows to improve air circulation in the office.",
+     "ja": "オフィスの空気の循環をよくするために、窓を開けてください。"
+    },
+    "note": "in circulation＝流通している"
+   },
+   "reason": "「発行部数」は新聞・雑誌に限られ学術では通じにくい。中心義の「循環」を主にし（NAWL の定義・jHint、EJDict の第1義と一致）、流通・発行部数を2個目へ。例文も作り直し",
+   "source": "adj_shared.json"
+  },
+  {
+   "batch": "tsl_02",
+   "headword": "utility",
+   "set": {
+    "glossShort": "有用性",
+    "glosses": [
+     "有用性、役に立つこと",
+     "公共料金、公益事業"
+    ],
+    "example": {
+     "en": "Few people doubt the utility of online meetings.",
+     "ja": "オンライン会議の有用性を疑う人は、ほとんどいません。"
+    },
+    "note": "複数形 utilities で「公共料金」"
+   },
+   "reason": "両リストの定義はどちらも usefulness が第1義（TSL: usefulness／NAWL: being useful; a public service…）。単数形の主な意味「有用性」を主にし、「公共料金」（複数形 utilities）は2個目と note へ。例文も作り直し",
+   "source": "adj_shared.json"
+  },
+  {
+   "batch": "tsl_01",
+   "headword": "valid",
+   "set": {
+    "glossShort": "妥当な",
+    "glosses": [
+     "妥当な、正当な",
+     "有効な"
+    ],
+    "example": {
+     "en": "That is a valid point, so let's change the plan.",
+     "ja": "それは妥当な指摘なので、計画を変えましょう。"
+    },
+    "note": "反意語は invalid（妥当でない、無効な）"
+   },
+   "reason": "両リストの定義はどちらも「正当な・根拠のある」（just, fair, right／sound; just; well-founded）。主訳を「妥当な」にし、切符などが「有効な」は2個目へ。例文も作り直し",
+   "source": "adj_shared.json"
+  },
+  {
+   "batch": "tsl_06",
+   "headword": "activate",
+   "set": {
+    "glossShort": "〜を作動させる",
+    "glosses": [
+     "〜を作動させる、始動させる",
+     "〜を有効にする、活性化する"
+    ],
+    "example": {
+     "en": "Press this button to activate the alarm system.",
+     "ja": "警報装置を作動させるには、このボタンを押してください。"
+    }
+   },
+   "reason": "両リストの定義はどちらも「動き始めさせる」（to start or begin something／to make something start working）。「有効にする」（カード等）と「活性化する」（細胞等）は文脈が限られるので2個目へ。例文も作り直し",
+   "source": "adj_shared.json"
+  },
+  {
+   "batch": "tsl_05",
+   "headword": "dynamic",
+   "set": {
+    "glossShort": "動的な",
+    "glosses": [
+     "動的な、絶えず変化する",
+     "活気のある、精力的な"
+    ],
+    "example": {
+     "en": "This dynamic model shows how prices change over time.",
+     "ja": "この動的なモデルは、価格が時間とともにどう変わるかを示しています。"
+    },
+    "note": "反意語は static（静的な）"
+   },
+   "reason": "「活気のある」は人・会社の描写に限られ、学術ではほぼ「動的な（変化し続ける）」の意味。市場・環境など両方の文脈で通じる「動的な」を主にし（NAWL 定義・jHint・EJDict と一致）、「活気のある」は2個目へ。例文も作り直し",
+   "source": "adj_shared.json"
+  },
+  {
+   "batch": "tsl_03",
+   "headword": "informal",
+   "set": {
+    "glossShort": "非公式の",
+    "glosses": [
+     "非公式の、略式の",
+     "形式ばらない、くだけた"
+    ],
+    "example": {
+     "en": "The two companies reached an informal agreement last week.",
+     "ja": "両社は先週、非公式の合意に達しました。"
+    },
+    "note": "反意語は formal（正式の）"
+   },
+   "reason": "「非公式の」は会議・合意（ビジネス）でも informal sector など（学術）でも使い、NAWL の定義・jHint、EJDict の第1義と一致。TSL の「形式ばらない」は2個目へ。例文も作り直し",
+   "source": "adj_shared.json"
+  },
+  {
+   "batch": "tsl_03",
+   "headword": "portfolio",
+   "set": {
+    "glossShort": "資産構成",
+    "glosses": [
+     "資産構成、保有資産の一覧",
+     "作品集"
+    ],
+    "example": {
+     "en": "Our advisor helped us build a low-risk portfolio.",
+     "ja": "アドバイザーが、リスクの低い資産構成を組む手助けをしてくれました。"
+    },
+    "note": "企業の事業や製品の構成にも使う"
+   },
+   "reason": "決定方針どおり、両リストの公式定義（投資・金融資産）に合わせて金融の意味を主にし、「作品集」を2個目へ。例文も金融の意味で作り直し",
+   "source": "adj_shared.json"
+  },
+  {
+   "batch": "tsl_03",
+   "headword": "overhead",
+   "set": {
+    "glossShort": "間接費",
+    "glosses": [
+     "間接費、諸経費"
+    ],
+    "example": {
+     "en": "Moving to a smaller office will reduce our overhead.",
+     "ja": "小さいオフィスに移れば、間接費を減らせます。"
+    }
+   },
+   "reason": "決定方針どおり名詞「間接費」を主に（TSL の定義 the fixed cost of a business どおり）。形容詞「頭上の」は既存の note（overhead bin＝頭上の棚）のまま。和訳を glossShort に合わせた",
+   "source": "adj_shared.json"
+  },
+  {
+   "batch": "tsl_03",
+   "headword": "superior",
+   "set": {
+    "glossShort": "優れた",
+    "glosses": [
+     "優れた、勝っている",
+     "上位の、上級の"
+    ],
+    "note": "superior to＝〜より優れた。名詞で「上司」"
+   },
+   "reason": "決定方針どおり両方で使う形容詞「優れた」を主にし、名詞「上司」は note へ。例文（superior to）は対応しているので維持",
+   "source": "adj_shared.json"
+  },
+  {
+   "batch": "tsl_04",
+   "headword": "projection",
+   "set": {
+    "glossShort": "将来予測",
+    "glosses": [
+     "将来予測、見込み",
+     "投影"
+    ]
+   },
+   "reason": "意味（予測）は両方の文脈で通じるので維持。ただし「予測」は prediction（tsl_02・nawl_02）の glossShort と重複するため「将来予測」にした。例文（売上予測）はそのまま対応",
+   "source": "adj_shared.json"
+  },
+  {
+   "batch": "tsl_04",
+   "headword": "comply",
+   "set": {
+    "glossShort": "〜を順守する",
+    "glosses": [
+     "〜を順守する、〜に従う",
+     "〜に応じる"
+    ],
+    "example": {
+     "en": "Visitors must comply with the rules of the building.",
+     "ja": "訪問者は建物の規則を順守しなければならない。"
+    }
+   },
+   "reason": "意味は同じだが「〜に従う」は abide（tsl_07）の glossShort と重複するため「〜を順守する」に（compliance＝順守と対応）。NAWL の「応じる」を2個目へ。和訳を glossShort に合わせた",
+   "source": "adj_shared.json"
+  },
+  {
+   "batch": "tsl_05",
+   "headword": "subtract",
+   "set": {
+    "glossShort": "引き算する",
+    "glosses": [
+     "引き算する、〜を差し引く"
+    ],
+    "example": {
+     "en": "Subtract the shipping cost from the total price.",
+     "ja": "合計金額から送料を引いてください。"
+    },
+    "note": "subtract A from B＝BからAを引く"
+   },
+   "reason": "意味は同じだが「差し引く」は deduct（tsl_03）の glossShort と重複するため「引き算する」に。和訳を対応させ、NAWL の語法 note を採用",
+   "source": "adj_shared.json"
+  },
+  {
+   "batch": "tsl_01",
+   "headword": "admission",
+   "set": {
+    "glosses": [
+     "入場、入学",
+     "過ちなどを認めること"
+    ],
+    "note": "「入場料」の意味でもよく使う"
+   },
+   "reason": "主な意味「入場・入学」は両方の文脈で通じるので維持。NAWL の公式定義・jHint の意味（過ちを認めること、自白）を note から2個目へ移し、「入場料」を note へ",
+   "source": "adj_shared.json"
+  },
+  {
+   "batch": "tsl_02",
+   "headword": "distribution",
+   "set": {
+    "glosses": [
+     "配布、流通",
+     "分布、分配"
+    ]
+   },
+   "reason": "主訳「配布」は TSL 定義・jHint の第1義と一致するので維持。学術で最も多い「分布」（NAWL の主訳）と「分配」が抜けていたので2個目に追加",
+   "source": "adj_shared.json"
+  },
+  {
+   "batch": "tsl_02",
+   "headword": "orientation",
+   "set": {
+    "glosses": [
+     "オリエンテーション",
+     "方向性、志向、向き"
+    ]
+   },
+   "reason": "主訳は両方の文脈（新入社員・新入生）で通じるので維持。NAWL の主訳「向き」と学術で多い「志向」を2個目に追加",
+   "source": "adj_shared.json"
+  },
+  {
+   "batch": "tsl_02",
+   "headword": "outlet",
+   "set": {
+    "glosses": [
+     "アウトレット店、販売店",
+     "はけ口、コンセント"
+    ],
+    "note": "コンセントの意味は主に米国で使う"
+   },
+   "reason": "主訳は TSL 定義・jHint（アウトレット）と一致するので維持。NAWL の主訳「はけ口」を note から2個目へ移し、「販売店」を1個目に追加",
+   "source": "adj_shared.json"
+  },
+  {
+   "batch": "tsl_07",
+   "headword": "induction",
+   "set": {
+    "glosses": [
+     "新人研修、導入",
+     "誘導、帰納"
+    ],
+    "note": "「就任、入会」の意味もある"
+   },
+   "reason": "どちらの意味も片方の文脈に偏るため TSL の主訳を維持。NAWL の主訳・jHint「誘導」と学術の「帰納」を2個目へ入れ、「就任、入会」は note へ",
+   "source": "adj_shared.json"
+  },
+  {
+   "batch": "tsl_07",
+   "headword": "complication",
+   "set": {
+    "glosses": [
+     "面倒な問題、複雑な事情",
+     "合併症"
+    ]
+   },
+   "reason": "主な意味は同じ。NAWL の jHint（公式の日本語訳）が「合併症」で学術でよく使うため2個目に追加",
+   "source": "adj_shared.json"
+  }
+ ],
+ "ok": [
+  "goodness",
+  "cheers",
+  "clever",
+  "rub",
+  "marginal",
+  "micro",
+  "neo",
+  "password",
+  "delicious",
+  "waitress",
+  "subscribe",
+  "trainer",
+  "trainee",
+  "suite",
+  "calculator",
+  "occupancy",
+  "voucher",
+  "behalf",
+  "sightsee",
+  "internship",
+  "jog",
+  "rearrange",
+  "parade",
+  "removal",
+  "generic",
+  "mild",
+  "recruitment",
+  "referral",
+  "concierge",
+  "irritate",
+  "compatible",
+  "stapler",
+  "browse",
+  "bye",
+  "hesitant",
+  "dispose",
+  "whale",
+  "pillow",
+  "brainstorm",
+  "cordless",
+  "reassure",
+  "superb",
+  "cheeseburger",
+  "impatient",
+  "jeans",
+  "abide",
+  "hereby",
+  "innovative",
+  "logo",
+  "download",
+  "affordable",
+  "taker",
+  "conditioner",
+  "efficiently",
+  "desktop",
+  "spokesperson",
+  "airfare",
+  "businessperson",
+  "login",
+  "recruiter",
+  "internet",
+  "unspecified",
+  "periodically",
+  "alternatively",
+  "unavailable",
+  "webpage",
+  "fundraise",
+  "healthcare",
+  "repairperson",
+  "spreadsheet",
+  "toner",
+  "urgently",
+  "environmentally",
+  "telecommunication",
+  "internationally",
+  "downsize",
+  "flextime",
+  "homeowner",
+  "refundable",
+  "misidentify",
+  "underway",
+  "archive",
+  "housekeep",
+  "interactive",
+  "salespeople",
+  "electronically",
+  "euro",
+  "hacker",
+  "modem",
+  "paralegal",
+  "redesign",
+  "smartphone",
+  "by-law",
+  "restatement",
+  "sunscreen",
+  "wellness",
+  "timeline",
+  "unauthorized",
+  "videoconference",
+  "mister",
+  "vacation",
+  "e-book",
+  "airport",
+  "memo",
+  "reservation",
+  "logical",
+  "fax",
+  "o'clock",
+  "sincerely",
+  "sometime",
+  "supervisor",
+  "refund",
+  "downtown",
+  "deadline",
+  "invoice",
+  "brochure",
+  "noon",
+  "accountant",
+  "clerk",
+  "lobby",
+  "publish",
+  "résumé",
+  "enclose",
+  "applicant",
+  "technician",
+  "cloth",
+  "fare",
+  "receipt",
+  "traveler",
+  "caller",
+  "subway",
+  "shipment",
+  "infer",
+  "waiter",
+  "rental",
+  "warranty",
+  "cafeteria",
+  "chef",
+  "elevator",
+  "reception",
+  "correctly",
+  "lease",
+  "bicycle",
+  "notify",
+  "preview",
+  "attendant",
+  "subscription",
+  "convenient",
+  "clue",
+  "garage",
+  "obtain",
+  "oval",
+  "inventory",
+  "outdoor",
+  "suitcase",
+  "destination",
+  "occupation",
+  "postpone",
+  "contradict",
+  "umbrella",
+  "inference",
+  "cellphone",
+  "merchandise",
+  "receptionist",
+  "dentist",
+  "coupon",
+  "depart",
+  "reschedule",
+  "tactic",
+  "renovation",
+  "upgrade",
+  "precede",
+  "dine",
+  "passport",
+  "coworker",
+  "upcoming",
+  "cabinet",
+  "appliance",
+  "explanatory",
+  "instructor",
+  "keyboard",
+  "supermarket",
+  "laptop",
+  "underline",
+  "electrical",
+  "airplane",
+  "exit",
+  "attendee",
+  "cruise",
+  "birthday",
+  "café",
+  "mall",
+  "medication",
+  "recycle",
+  "renew",
+  "tenant",
+  "sandwich",
+  "departure",
+  "mini",
+  "fitness",
+  "inconvenience",
+  "banquet",
+  "closet",
+  "unreal",
+  "distractor",
+  "expire",
+  "folder",
+  "photocopy",
+  "renovate",
+  "sunny",
+  "calendar",
+  "donation",
+  "shortly",
+  "snack",
+  "warehouse",
+  "copier",
+  "provider",
+  "beverage",
+  "hungry",
+  "inspection",
+  "recipient",
+  "aisle",
+  "inspect",
+  "mechanic",
+  "merger",
+  "soccer",
+  "sweater",
+  "ingredient",
+  "itinerary",
+  "workplace",
+  "architect",
+  "convenience",
+  "eligible",
+  "impact",
+  "aspect",
+  "commonly",
+  "authority",
+  "classify",
+  "calculation",
+  "statistics",
+  "accumulate",
+  "indicator",
+  "approximate",
+  "reliability",
+  "accuracy",
+  "cognitive",
+  "correlation",
+  "empirical",
+  "identical",
+  "likelihood",
+  "linear",
+  "parameter",
+  "qualitative",
+  "statistical",
+  "statistically",
+  "systematic",
+  "thereby",
+  "validity",
+  "variability",
+  "variance",
+  "widespread",
+  "accumulation",
+  "adaptation",
+  "adaptive",
+  "adverse",
+  "aggregate",
+  "algorithm",
+  "allocation",
+  "arbitrary",
+  "assert",
+  "autonomy",
+  "axis",
+  "behavioral",
+  "broadly",
+  "classification",
+  "coefficient",
+  "coherent",
+  "afterward",
+  "generalization",
+  "meaningful",
+  "noisy",
+  "rewrite",
+  "simplify",
+  "apple",
+  "identification",
+  "interrupt",
+  "junior",
+  "memorize",
+  "similarity",
+  "spray",
+  "tempt",
+  "absorb",
+  "allocate",
+  "assignment",
+  "athletic",
+  "bargain",
+  "clarify",
+  "client",
+  "compensate",
+  "consent",
+  "correspondence",
+  "dose",
+  "elevate",
+  "facilitate",
+  "goods",
+  "irrelevant",
+  "manual",
+  "media",
+  "reproduce",
+  "resemble",
+  "strictly",
+  "transmission",
+  "tremendous",
+  "auction",
+  "bonus",
+  "bulk",
+  "compact",
+  "comprehension",
+  "cord",
+  "diagnose",
+  "diagram",
+  "duration",
+  "forum",
+  "integral",
+  "likewise",
+  "maximize",
+  "minimize",
+  "necessity",
+  "questionnaire",
+  "retrieve",
+  "seminar",
+  "sketch",
+  "slot",
+  "stack",
+  "terminal",
+  "diagnostic",
+  "erase",
+  "messenger",
+  "shuttle",
+  "usage",
+  "mentor",
+  "feedback",
+  "workshop",
+  "pole",
+  "headquarter"
+ ],
+ "concerns": [
+  "adj_flags.json: neo：build_packs.py の ALWAYS_EXCLUDE で出荷対象外のため、直さず ok に入れた（訳・例文に誤りはない）",
+  "adj_flags.json: cheers：公式定義と jHint は「乾杯」だが、飲酒の話題を例文で避ける規則があるため名詞「歓声」のまま ok（同じ語族の主要な意味で、note に「乾杯」「ありがとう」あり。TSL の cheer＝〜に声援を送る とも重ならない）",
+  "adj_flags.json: micro：pos が adj で、GEN_SPEC の「NAWL は posHint（n）に従う」と異なる。検証担当が用法（at the micro level）に合わせて意図的に変えたもので訳は正しいため ok",
+  "adj_flags.json: housekeep：TSL の語族は housekeep/housekeeping で、TOEIC で出るのはほぼ housekeeping（ホテルの客室清掃・家事）。動詞 housekeep はまれで例文の housekeeps もやや不自然。pant と同じく見出しを housekeeping（名詞）にするか要判断。今の訳「家事をする」は動詞として正しいので ok",
+  "adj_flags.json: found（102語外、指示により確認のみ）：「設立する」の意味で例文（founded the college）・和訳・note とも正しく、修正不要",
+  "adj_free.json: adverse: glossShort「有害な」は harmful（tsl_04、無料外）と同じ。4択では同じ訳は同時に出ない仕組みで、学術英語で最も多い adverse effects に合うため残した（辞書の第1義は「不利な」）",
+  "adj_free.json: coefficient: 公式 NAWL の品詞は adj だが明らかに名詞なので noun のまま",
+  "adj_free.json: 和訳がやや硬いが誤りではないので残した: explanatory（説明のための注）、aggregate（総計として分析）、shipment（発送品）、provider（インターネットの提供業者）",
+  "adj_free.json: 無料外の語と glossShort が同じだが同時には出題されないので残した: sometime/someday（いつか）、instructor/lecturer（講師）、brochure/pamphlet（パンフレット）",
+  "adj_free.json: crosscheck 12語はすべて辞書（EJDict）側の収録・表記の差で、問題なし。noReference: e-book, fax, cellphone, reschedule, tactic（辞書は複数形 tactics のみ）, laptop, attendee, café（辞書は cafe）, distractor, workplace。flagged: upcoming（辞書「やがて起こる」と同義）, folder（辞書「紙ばさみ」＝書類ばさみ。フォルダーが現代の一般訳）",
+  "adj_shared.json: valid（TSL 94位）と utility は、TOEIC では「有効な」「公共料金（utilities）」の出題が多いが、両リストの公式定義が一致するため「妥当な」「有用性」を主にした（TOEIC 側の訳は2個目・note に残した）。TOEIC 優先に戻すならこの2語。",
+  "adj_shared.json: clip は pos を verb→noun に変えたため、キーが clip:verb から clip:noun に変わる（既存の学習記録があれば引き継がれない）。glossShort がカタカナ「クリップ」で4択ではやさしい。",
+  "adj_shared.json: assembly は TSL 定義と EJDict の第1義が「集会」。TOEIC（組み立てライン等）と NAWL 定義・jHint の頻度を重く見て「組み立て」にしたので、判断が分かれうる。",
+  "adj_shared.json: projection／comply／subtract の glossShort 重複（prediction／abide／deduct）はこちらの語側で解消した。相手の語は変えていない。",
+  "adj_shared.json: NAWL の定義には不正確なもの（distribution が #NAME?、circulation が血液の循環のみ、bound の posHint が verb など）があり、定義だけでなく両方の文脈での使われ方と jHint・EJDict を合わせて判断した。"
+ ],
+ "sources": [
+  "adj_flags.json",
+  "adj_free.json",
+  "adj_own.json",
+  "adj_shared.json"
+ ]
+}

@@ -1,0 +1,261 @@
+[
+ {
+  "headword": "bodily",
+  "field": "glossShort",
+  "before": "丸ごと",
+  "after": "体ごと",
+  "reason": "公式定義（physically, as when lifting someone）と jHint（身体の）に合う語義を主訳にする。「丸ごと」は2番目へ"
+ },
+ {
+  "headword": "bodily",
+  "field": "glosses",
+  "before": [
+   "丸ごと",
+   "体ごと"
+  ],
+  "after": [
+   "体ごと",
+   "丸ごと"
+  ],
+  "reason": "主訳の変更に合わせて並べ替え"
+ },
+ {
+  "headword": "bodily",
+  "field": "example.en",
+  "before": "The old library was moved bodily to a new site.",
+  "after": "After winning the debate, Emma was lifted bodily by her teammates.",
+  "reason": "主訳（人を体ごと持ち上げる）の意味で使う例文に作り直し"
+ },
+ {
+  "headword": "bodily",
+  "field": "example.ja",
+  "before": "古い図書館は、丸ごと新しい場所へ移された。",
+  "after": "ディベートで勝った後、エマはチームメートたちに体ごと抱え上げられた。",
+  "reason": "新しい例文の和訳"
+ },
+ {
+  "headword": "continuity",
+  "field": "glosses",
+  "before": [
+   "継続性",
+   "一貫性"
+  ],
+  "after": [
+   "継続性",
+   "連続性"
+  ],
+  "reason": "数学や歴史研究で多い「連続性」の方が主要な別義のため、「一貫性」と差し替え"
+ },
+ {
+  "headword": "goodness",
+  "field": "glossShort",
+  "before": "善良さ",
+  "after": "良さ",
+  "reason": "学術文で最も多い goodness of fit（当てはまりの良さ）にも通じる、一般的な訳にする"
+ },
+ {
+  "headword": "goodness",
+  "field": "glosses",
+  "before": [
+   "善良さ",
+   "栄養分"
+  ],
+  "after": [
+   "良さ",
+   "善良さ"
+  ],
+  "reason": "主要な別義の「善良さ」を2番目に置く"
+ },
+ {
+  "headword": "goodness",
+  "field": "example.en",
+  "before": "Philosophers have long discussed the nature of human goodness.",
+  "after": "The researchers checked the goodness of fit of their model.",
+  "reason": "学術での代表的な用法（goodness of fit）を使う例文に"
+ },
+ {
+  "headword": "goodness",
+  "field": "example.ja",
+  "before": "哲学者たちは、人間の善良さの本質について長く論じてきた。",
+  "after": "研究者たちは、自分たちのモデルの当てはまりの良さを確認した。",
+  "reason": "新しい例文の和訳"
+ },
+ {
+  "headword": "realism",
+  "field": "example.en",
+  "before": "We admired the realism of her plan for the project.",
+  "after": "The essay discusses the balance between realism and idealism.",
+  "reason": "the realism of her plan は「現実味」の意味で、和訳「現実主義的な点」も不自然なため、主訳「現実主義」に合う文に作り直し"
+ },
+ {
+  "headword": "realism",
+  "field": "example.ja",
+  "before": "私たちは、彼女のプロジェクト計画の現実主義的な点に感心した。",
+  "after": "その小論文は、現実主義と理想主義のバランスについて論じている。",
+  "reason": "新しい例文の和訳"
+ },
+ {
+  "headword": "sexuality",
+  "field": "sensitive",
+  "before": null,
+  "after": true,
+  "reason": "性に強く結びつく語"
+ },
+ {
+  "headword": "supposedly",
+  "field": "glossShort",
+  "before": "想定上は",
+  "after": "〜とされている",
+  "reason": "「想定上は」は「理論上は」の意味に偏る。公式定義（as some people believe）に合う訳にする"
+ },
+ {
+  "headword": "supposedly",
+  "field": "glosses",
+  "before": [
+   "想定上は",
+   "〜とされているが"
+  ],
+  "after": [
+   "〜とされている",
+   "想定上は"
+  ],
+  "reason": "元の主訳を2番目へ"
+ },
+ {
+  "headword": "supposedly",
+  "field": "example.ja",
+  "before": "新しい方法は想定上はより速いはずだが、私たちの結果は違った。",
+  "after": "新しい方法はより速いとされているが、私たちの結果はそれと一致しない。",
+  "reason": "主訳の変更に合わせる。disagree は現在形で訳す"
+ },
+ {
+  "headword": "bleed",
+  "field": "example.en",
+  "before": "Small cuts on the skin usually stop bleeding within minutes.",
+  "after": "The old project was bleeding money, so the university stopped it.",
+  "reason": "けが（切り傷・出血）の話題を避け、比喩の用法を使った中立的な場面に作り直し"
+ },
+ {
+  "headword": "bleed",
+  "field": "example.ja",
+  "before": "皮膚の小さな切り傷は、たいてい数分以内に出血が止まる。",
+  "after": "その古いプロジェクトは資金面で出血が続いていたので、大学はそれを打ち切った。",
+  "reason": "新しい例文の和訳（比喩の「出血」）"
+ },
+ {
+  "headword": "bleed",
+  "field": "note",
+  "before": "",
+  "after": "bleed money で「赤字を出し続ける」",
+  "reason": "例文の比喩用法を説明"
+ },
+ {
+  "headword": "bleed",
+  "field": "sensitive",
+  "before": null,
+  "after": true,
+  "reason": "けが・出血に強く結びつく語（公式定義も to lose blood because of an injury）"
+ },
+ {
+  "headword": "cheat",
+  "field": "example.ja",
+  "before": "試験で不正をして見つかった学生は、その科目を落第になる。",
+  "after": "試験で不正をしているのが見つかった学生は、その科目が不合格になる。",
+  "reason": "「その科目を落第になる」が文法的に不自然"
+ },
+ {
+  "headword": "cheers",
+  "field": "note",
+  "before": "英口語の Cheers! は「ありがとう」の意味も",
+  "after": "Cheers! で「乾杯」「ありがとう」の意味も",
+  "reason": "公式定義と jHint にある「乾杯」の語義を note で補う"
+ },
+ {
+  "headword": "projection",
+  "field": "example.ja",
+  "before": "スクリーンへの投影は、暗すぎて読めなかった。",
+  "after": "スクリーンの投影画像は、暗すぎて読めなかった。",
+  "reason": "「投影は…読めなかった」が不自然"
+ },
+ {
+  "headword": "reactive",
+  "field": "example.en",
+  "before": "This metal is highly reactive when it touches water.",
+  "after": "This metal is highly reactive with water.",
+  "reason": "highly reactive when it touches water がやや不自然なため、reactive with の形に"
+ },
+ {
+  "headword": "reactive",
+  "field": "example.ja",
+  "before": "この金属は、水に触れると非常に反応しやすい。",
+  "after": "この金属は、水と非常に反応しやすい。",
+  "reason": "新しい例文の和訳"
+ },
+ {
+  "headword": "separately",
+  "field": "glosses",
+  "before": [
+   "別々に",
+   "個々に"
+  ],
+  "after": [
+   "別々に"
+  ],
+  "reason": "「個々に」は individually（個別に）と紛らわしく、別の主要な意味でもないため1個にする"
+ },
+ {
+  "headword": "slavery",
+  "field": "sensitive",
+  "before": null,
+  "after": true,
+  "reason": "虐待・人権侵害（奴隷制）に強く結びつく語"
+ },
+ {
+  "headword": "socially",
+  "field": "example.en",
+  "before": "Students who are socially active often feel happier at university.",
+  "after": "Eating on trains is socially acceptable in some countries.",
+  "reason": "socially active（人付き合いが活発）を「社会的に活発な」と訳していて不自然なため、主訳「社会的に」に合う文に作り直し"
+ },
+ {
+  "headword": "socially",
+  "field": "example.ja",
+  "before": "社会的に活発な学生は、大学生活をより楽しく感じることが多い。",
+  "after": "電車の中で物を食べることが、社会的に受け入れられている国もある。",
+  "reason": "新しい例文の和訳"
+ },
+ {
+  "headword": "tricky",
+  "field": "example.en",
+  "before": "Measuring very small changes in weight can be tricky.",
+  "after": "This kind of data can be tricky to handle.",
+  "reason": "和訳「測るのは扱いが難しい」が不自然なため、主訳と自然に対応する文に"
+ },
+ {
+  "headword": "tricky",
+  "field": "example.ja",
+  "before": "重さのごく小さな変化を測るのは、扱いが難しいことがある。",
+  "after": "この種のデータは、扱いが難しいことがある。",
+  "reason": "新しい例文の和訳"
+ },
+ {
+  "headword": "admission",
+  "field": "glosses",
+  "before": [
+   "入学許可",
+   "入場"
+  ],
+  "after": [
+   "入学許可",
+   "認めること"
+  ],
+  "reason": "公式定義（誤りを認めること）の語義を2番目の訳に入れる"
+ },
+ {
+  "headword": "admission",
+  "field": "note",
+  "before": "「認めること・自白」の意味もある",
+  "after": "入場や入場料の意味でも使う",
+  "reason": "「認めること」を glosses に移し、入場の意味を note に"
+ }
+]

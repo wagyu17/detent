@@ -1,0 +1,27 @@
+[
+ {
+  "pack": "NAWL",
+  "headword": "sexuality",
+  "reason": "sexual content"
+ },
+ {
+  "pack": "NAWL",
+  "headword": "slavery",
+  "reason": "slavery"
+ },
+ {
+  "pack": "NAWL",
+  "headword": "suicide",
+  "reason": "self-harm"
+ },
+ {
+  "pack": "NAWL",
+  "headword": "sperm",
+  "reason": "sexual content"
+ },
+ {
+  "pack": "NAWL",
+  "headword": "neo",
+  "reason": "prefix-like entry, not a standalone word"
+ }
+]

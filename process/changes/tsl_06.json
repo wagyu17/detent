@@ -1,0 +1,97 @@
+[
+ {
+  "headword": "layoff",
+  "field": "glossShort",
+  "before": "一時解雇",
+  "after": "人員整理",
+  "reason": "公式定義は「仕事が足りない・払えないために職を終わらせること」で一時的とは限らない。現在の主な用法に合わせ、一時解雇は第2義に回した"
+ },
+ {
+  "headword": "layoff",
+  "field": "glosses",
+  "before": [
+   "一時解雇、人員整理"
+  ],
+  "after": [
+   "人員整理、解雇",
+   "一時解雇"
+  ],
+  "reason": "glossShort の変更に合わせた"
+ },
+ {
+  "headword": "layoff",
+  "field": "example.ja",
+  "before": "その工場は、売上の減少を理由に一時解雇を発表しました。",
+  "after": "その工場は、売上の減少を理由に人員整理を発表しました。",
+  "reason": "glossShort の変更に合わせ、見出し語の訳を人員整理にした"
+ },
+ {
+  "headword": "attire",
+  "field": "glossShort",
+  "before": "衣服",
+  "after": "服装",
+  "reason": "business attire（ビジネス向けの服装）のように「服装」が最も代表的な訳で、和訳の訳語とも一致する。outfit と区別しやすくした"
+ },
+ {
+  "headword": "attire",
+  "field": "glosses",
+  "before": [
+   "衣服、服装"
+  ],
+  "after": [
+   "服装、衣服"
+  ],
+  "reason": "glossShort の変更に合わせた"
+ },
+ {
+  "headword": "outfit",
+  "field": "glossShort",
+  "before": "服装一式",
+  "after": "ひとそろいの服",
+  "reason": "attire（服装）と紛らわしくならないよう、「上下そろえた一式の服」という意味の違いを訳に出した"
+ },
+ {
+  "headword": "outfit",
+  "field": "glosses",
+  "before": [
+   "服装一式",
+   "用具一式"
+  ],
+  "after": [
+   "ひとそろいの服、衣装",
+   "用具一式"
+  ],
+  "reason": "glossShort の変更に合わせた"
+ },
+ {
+  "headword": "integral",
+  "field": "glossShort",
+  "before": "不可欠な",
+  "after": "全体に欠かせない",
+  "reason": "「不可欠な」は imperative（緊急に必要な）の訳としても通り、4択で正答が一意にならない。定義の「全体の一部として必要」を訳に出して区別した"
+ },
+ {
+  "headword": "integral",
+  "field": "glosses",
+  "before": [
+   "不可欠な、欠かせない"
+  ],
+  "after": [
+   "全体に欠かせない、不可欠な"
+  ],
+  "reason": "glossShort の変更に合わせた"
+ },
+ {
+  "headword": "ward",
+  "field": "glosses",
+  "before": [
+   "区",
+   "病棟"
+  ],
+  "after": [
+   "区、選挙区",
+   "病棟"
+  ],
+  "reason": "公式定義（electoral district）の意味が訳に含まれていなかったため「選挙区」を加えた"
+ }
+]

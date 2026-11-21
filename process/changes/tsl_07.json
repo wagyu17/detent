@@ -1,0 +1,68 @@
+[
+ {
+  "headword": "whoever",
+  "field": "example.en",
+  "before": "Whoever finishes first can go home early today.",
+  "after": "Whoever wants a copy can take one from my desk.",
+  "reason": "元の和訳「最初に終わった人は誰でも」は、1人しか当てはまらない場面に「誰でも」を当てていて不自然。glossShort「〜する人は誰でも」がそのまま当てはまる文に差し替え"
+ },
+ {
+  "headword": "whoever",
+  "field": "example.ja",
+  "before": "最初に終わった人は誰でも、今日は早く帰ってかまいません。",
+  "after": "コピーが欲しい人は誰でも、私の机から1部持っていってかまいません。",
+  "reason": "差し替えた英文に合わせた和訳"
+ },
+ {
+  "headword": "intently",
+  "field": "glossShort",
+  "before": "熱心に",
+  "after": "集中して",
+  "reason": "定義（concentrate closely）は集中の意味。同じ束の actively（積極的に）と「熱心に」が4択で紛らわしいため区別"
+ },
+ {
+  "headword": "intently",
+  "field": "glosses",
+  "before": [
+   "熱心に、じっと集中して"
+  ],
+  "after": [
+   "集中して、じっと、熱心に"
+  ],
+  "reason": "glossShort の変更に合わせた"
+ },
+ {
+  "headword": "intently",
+  "field": "example.ja",
+  "before": "学生たちはゲストスピーカーの話に熱心に耳を傾けました。",
+  "after": "学生たちはゲストスピーカーの話に集中して耳を傾けました。",
+  "reason": "glossShort の変更に合わせた"
+ },
+ {
+  "headword": "acclaim",
+  "field": "glossShort",
+  "before": "称賛",
+  "after": "絶賛",
+  "reason": "同じ束の compliment（褒め言葉）と「称賛」が4択で紛らわしい。定義（great praise）に合い、公の高い評価を表す「絶賛」で区別"
+ },
+ {
+  "headword": "acclaim",
+  "field": "glosses",
+  "before": [
+   "称賛、高い評価",
+   "〜を称賛する"
+  ],
+  "after": [
+   "絶賛、高い評価",
+   "〜を称賛する"
+  ],
+  "reason": "glossShort の変更に合わせた"
+ },
+ {
+  "headword": "acclaim",
+  "field": "example.ja",
+  "before": "彼女の最初の小説は読者から広く称賛されました。",
+  "after": "彼女の最初の小説は、多くの読者から絶賛されました。",
+  "reason": "glossShort の変更に合わせた"
+ }
+]

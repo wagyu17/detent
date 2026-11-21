@@ -1,0 +1,185 @@
+[
+ {
+  "headword": "pant",
+  "field": "pos",
+  "before": "verb",
+  "after": "noun",
+  "reason": "TOEICの場面では呼吸の意味（息を切らす）はほぼ出ず、頻度はpants（ズボン）によると考えられるため主訳を変更。公式定義の意味はnoteに残す"
+ },
+ {
+  "headword": "pant",
+  "field": "glossShort",
+  "before": "息を切らす",
+  "after": "ズボン",
+  "reason": "TOEICの場面では呼吸の意味（息を切らす）はほぼ出ず、頻度はpants（ズボン）によると考えられるため主訳を変更。公式定義の意味はnoteに残す"
+ },
+ {
+  "headword": "pant",
+  "field": "glosses",
+  "before": [
+   "息を切らす",
+   "あえぐ"
+  ],
+  "after": [
+   "ズボン"
+  ],
+  "reason": "TOEICの場面では呼吸の意味（息を切らす）はほぼ出ず、頻度はpants（ズボン）によると考えられるため主訳を変更。公式定義の意味はnoteに残す"
+ },
+ {
+  "headword": "pant",
+  "field": "example.en",
+  "before": "He was panting after running up the stairs.",
+  "after": "I bought a new pair of pants for work.",
+  "reason": "主訳の変更に合わせて例文を作り直した"
+ },
+ {
+  "headword": "pant",
+  "field": "example.ja",
+  "before": "彼は階段を駆け上がった後で、息を切らしていました。",
+  "after": "仕事用に新しいズボンを1本買いました。",
+  "reason": "主訳の変更に合わせて和訳を作り直した"
+ },
+ {
+  "headword": "pant",
+  "field": "note",
+  "before": "名詞pantsは「ズボン」の意",
+  "after": "ふつう複数形pants。動詞で「息を切らす」",
+  "reason": "動詞（公式定義）の意味をnoteへ移した"
+ },
+ {
+  "headword": "vegetarian",
+  "field": "glosses",
+  "before": [
+   "菜食主義者",
+   "菜食主義の"
+  ],
+  "after": [
+   "菜食主義者",
+   "ベジタリアン"
+  ],
+  "reason": "glossesに形容詞の訳（菜食主義の）が混ざっていたため名詞にそろえた"
+ },
+ {
+  "headword": "vegetarian",
+  "field": "note",
+  "before": "形容詞としても使う",
+  "after": "形容詞で「菜食主義の」の意味も",
+  "reason": "形容詞の意味をglossesからnoteへ移した"
+ },
+ {
+  "headword": "superior",
+  "field": "glosses",
+  "before": [
+   "より優れた",
+   "上司"
+  ],
+  "after": [
+   "より優れた",
+   "上位の"
+  ],
+  "reason": "glossesに名詞の訳（上司）が混ざっていたため形容詞にそろえた。名詞の意味は既存のnoteにある"
+ },
+ {
+  "headword": "overhead",
+  "field": "glosses",
+  "before": [
+   "諸経費",
+   "頭上の"
+  ],
+  "after": [
+   "諸経費",
+   "間接費"
+  ],
+  "reason": "glossesに形容詞の訳（頭上の）が混ざっていたため名詞にそろえた"
+ },
+ {
+  "headword": "overhead",
+  "field": "note",
+  "before": "overhead bin＝機内の頭上の棚",
+  "after": "形容詞で「頭上の」。overhead bin＝頭上の棚",
+  "reason": "形容詞の意味をglossesからnoteへ移した"
+ },
+ {
+  "headword": "portfolio",
+  "field": "glossShort",
+  "before": "資産構成",
+  "after": "作品集",
+  "reason": "TOEICでは求人・応募の場面の「作品集」の意味が多いため主訳を入れ替えた。公式定義の投資の意味はglossesの2番目に残す"
+ },
+ {
+  "headword": "portfolio",
+  "field": "glosses",
+  "before": [
+   "資産構成",
+   "作品集"
+  ],
+  "after": [
+   "作品集",
+   "資産構成"
+  ],
+  "reason": "TOEICでは求人・応募の場面の「作品集」の意味が多いため主訳を入れ替えた。公式定義の投資の意味はglossesの2番目に残す"
+ },
+ {
+  "headword": "portfolio",
+  "field": "example.en",
+  "before": "Her portfolio includes both stocks and bonds.",
+  "after": "Please send your portfolio with your application.",
+  "reason": "主訳の変更に合わせて例文を作り直した"
+ },
+ {
+  "headword": "portfolio",
+  "field": "example.ja",
+  "before": "彼女の資産構成には、株と債券の両方が含まれています。",
+  "after": "応募書類と一緒に作品集をお送りください。",
+  "reason": "主訳の変更に合わせて和訳を作り直した"
+ },
+ {
+  "headword": "portfolio",
+  "field": "note",
+  "before": "求職で見せる「作品集」の意味も多い",
+  "after": "投資の意味では株や債券などの組み合わせ",
+  "reason": "作品集が主訳になったため、2番目の訳（資産構成）の説明に替えた"
+ },
+ {
+  "headword": "dividend",
+  "field": "example.en",
+  "before": "The company pays a dividend to its shareholders every year.",
+  "after": "The company paid a large dividend this year.",
+  "reason": "例文のshareholdersが基本語ではないため、やさしい語だけで作り直した"
+ },
+ {
+  "headword": "dividend",
+  "field": "example.ja",
+  "before": "その会社は毎年、株主に配当金を支払っています。",
+  "after": "その会社は今年、多額の配当金を支払いました。",
+  "reason": "例文の変更に合わせた"
+ },
+ {
+  "headword": "withdrawal",
+  "field": "example.en",
+  "before": "There is no fee for withdrawals at this bank's machines.",
+  "after": "There is no fee for withdrawals at this bank's ATMs.",
+  "reason": "machinesでは指すものがあいまいなためATMsにした"
+ },
+ {
+  "headword": "withdrawal",
+  "field": "example.ja",
+  "before": "この銀行の機械での引き出しには手数料がかかりません。",
+  "after": "この銀行のATMでの引き出しには手数料がかかりません。",
+  "reason": "「機械での引き出し」が不自然なため例文の変更に合わせて直した"
+ },
+ {
+  "headword": "alert",
+  "field": "note",
+  "before": "名詞で「警報」、動詞で「警告する」",
+  "after": "名詞で「警報・通知」、動詞で「警告する」",
+  "reason": "TOEICで多いメールなどの通知（alert）の意味を補った"
+ },
+ {
+  "headword": "graphic",
+  "field": "note",
+  "before": "名詞graphicsは「画像・図」",
+  "after": "名詞で「図表・画像」。複数形graphicsも多い",
+  "reason": "単数の名詞（図表・画像）としても使うため補った"
+ }
+]

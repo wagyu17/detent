@@ -1,0 +1,140 @@
+[
+ {
+  "headword": "alliance",
+  "field": "example.en",
+  "before": "The small research groups formed an alliance to share equipment.",
+  "after": "The class studied why the two kingdoms formed an alliance.",
+  "reason": "研究グループが「同盟を結ぶ」は和訳として不自然。glossShortの「同盟」が自然に使える文脈（歴史の授業）に作り直した"
+ },
+ {
+  "headword": "alliance",
+  "field": "example.ja",
+  "before": "小さな研究グループが機器を共有するために同盟を結んだ。",
+  "after": "授業では、その2つの王国がなぜ同盟を結んだのかを学んだ。",
+  "reason": "例文の作り直しに合わせて和訳を更新"
+ },
+ {
+  "headword": "compensate",
+  "field": "example.en",
+  "before": "Participants were compensated for their time in the study.",
+  "after": "The report says the company must compensate farmers for their losses.",
+  "reason": "研究参加の時間への支払いは日本語では「謝礼」で、「補償を受けた」は不自然。損失の補償という文脈に作り直した"
+ },
+ {
+  "headword": "compensate",
+  "field": "example.ja",
+  "before": "参加者は研究に費やした時間に対して補償を受けた。",
+  "after": "報告書によると、その会社は農家の損失を補償しなければならない。",
+  "reason": "例文の作り直しに合わせて和訳を更新"
+ },
+ {
+  "headword": "damp",
+  "field": "example.en",
+  "before": "Keep the samples in a damp cloth until the test.",
+  "after": "Keep the samples wrapped in a damp cloth until the test.",
+  "reason": "keep ... in a damp cloth は不自然。和訳（布に包んで）に合わせて wrapped in にした"
+ },
+ {
+  "headword": "dominant",
+  "field": "glosses",
+  "before": [
+   "支配的な",
+   "優性の"
+  ],
+  "after": [
+   "支配的な",
+   "顕性の"
+  ],
+  "reason": "遺伝学の用語は2017年の学会改訂と現行の教科書で「優性」から「顕性」に変わったため、現行の用語にした"
+ },
+ {
+  "headword": "dominant",
+  "field": "note",
+  "before": "遺伝では「優性の」の意味",
+  "after": "遺伝では「顕性の」（旧称「優性の」）",
+  "reason": "現行の用語「顕性」に合わせ、旧称も併記した"
+ },
+ {
+  "headword": "elaborate",
+  "field": "example.ja",
+  "before": "学生たちは手の込んだ太陽系の模型を作った。",
+  "after": "学生たちは太陽系の手の込んだ模型を作った。",
+  "reason": "「手の込んだ太陽系」と読める語順だったので、模型を修飾する語順に直した"
+ },
+ {
+  "headword": "enforcement",
+  "field": "example.en",
+  "before": "Strict enforcement of the rules made the library much quieter.",
+  "after": "In the study area, stricter enforcement of the law reduced illegal fishing.",
+  "reason": "「規則の厳格な執行」は日本語として不自然。「法の執行」が自然に言える研究の文脈に作り直した"
+ },
+ {
+  "headword": "enforcement",
+  "field": "example.ja",
+  "before": "規則の厳格な執行によって、図書館はずっと静かになった。",
+  "after": "調査地域では、法の執行が厳しくなったことで違法な漁が減った。",
+  "reason": "例文の作り直しに合わせて和訳を更新"
+ },
+ {
+  "headword": "estimation",
+  "field": "example.en",
+  "before": "Our estimation of the cost was close to the real number.",
+  "after": "Accurate estimation of bird numbers is difficult in large forests.",
+  "reason": "費用には estimate／見積もりが自然で、「費用の推定」は不自然。学術的な「推定」の文脈に作り直した"
+ },
+ {
+  "headword": "estimation",
+  "field": "example.ja",
+  "before": "私たちの費用の推定は実際の数字に近かった。",
+  "after": "広い森では、鳥の数の正確な推定は難しい。",
+  "reason": "例文の作り直しに合わせて和訳を更新"
+ },
+ {
+  "headword": "found",
+  "field": "headword",
+  "before": "founds",
+  "after": "found",
+  "reason": "見出し語が三人称単数形（founds）だったので原形にした（入力は founds）"
+ },
+ {
+  "headword": "found",
+  "field": "note",
+  "before": "原形はfound。findの過去形と同じ形",
+  "after": "findの過去形とは別の語。活用はfounded",
+  "reason": "見出し語を原形にしたため「原形はfound」を削除し、find の過去形との区別を明確にした"
+ },
+ {
+  "headword": "manual",
+  "field": "example.ja",
+  "before": "鳥の手作業での数え上げに、チームは何時間もかかった。",
+  "after": "鳥を手作業で数えるのに、チームは何時間もかかった。",
+  "reason": "「手作業での数え上げ」が硬く不自然なので自然な言い方にした"
+ },
+ {
+  "headword": "marginal",
+  "field": "note",
+  "before": "「余白の」の意味もある",
+  "after": "経済学では「限界の」の意味（限界費用など）",
+  "reason": "marginal cost を「わずかな費用」と誤読しやすいので、学術で重要な経済学の意味を注記にした（「余白の」より優先）"
+ },
+ {
+  "headword": "missile",
+  "field": "glosses",
+  "before": [
+   "ミサイル",
+   "飛ばされる物"
+  ],
+  "after": [
+   "ミサイル",
+   "飛び道具"
+  ],
+  "reason": "2つめの訳「飛ばされる物」が日本語として不自然なので直した"
+ },
+ {
+  "headword": "naked",
+  "field": "example.ja",
+  "before": "この星は裸眼でも見ることができる。",
+  "after": "この星は肉眼でも見ることができる。",
+  "reason": "「裸眼」は眼鏡を使わない目の意味。望遠鏡などを使わない the naked eye は「肉眼」"
+ }
+]

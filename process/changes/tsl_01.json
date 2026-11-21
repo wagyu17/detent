@@ -1,0 +1,228 @@
+[
+ {
+  "headword": "mister",
+  "field": "glossShort",
+  "before": "男性への呼びかけ",
+  "after": "男性の敬称",
+  "reason": "TSL 1位は Mr.（〜さん・〜氏）の用法による。定義の a form of address も敬称を指すため、TOEIC で最も出会う意味にした"
+ },
+ {
+  "headword": "mister",
+  "field": "glosses",
+  "before": [
+   "男性への呼びかけ",
+   "〜さん、〜氏"
+  ],
+  "after": [
+   "男性の敬称、〜さん、〜氏",
+   "男性への呼びかけ"
+  ],
+  "reason": "glossShort の変更に合わせ、敬称を先に、呼びかけを2つ目にした"
+ },
+ {
+  "headword": "mister",
+  "field": "example.en",
+  "before": "Excuse me, mister, you dropped your wallet.",
+  "after": "Please call me Ken, not Mister Brown.",
+  "reason": "名前なしの呼びかけではなく、名字の前に付く敬称の用法を示す例文にした"
+ },
+ {
+  "headword": "mister",
+  "field": "example.ja",
+  "before": "すみません、そこの方、財布を落としましたよ。",
+  "after": "ブラウンさんではなく、ケンと呼んでください。",
+  "reason": "例文の変更に合わせた（Mister Brown＝ブラウンさん）"
+ },
+ {
+  "headword": "reservation",
+  "field": "glosses",
+  "before": [
+   "予約",
+   "不安、ためらい"
+  ],
+  "after": [
+   "予約",
+   "懸念、ためらい"
+  ],
+  "reason": "複数形 reservations は「疑念・懸念」の意で、「不安」とはずれる"
+ },
+ {
+  "headword": "refund",
+  "field": "pos",
+  "before": "verb",
+  "after": "noun",
+  "reason": "TOEIC では a full refund / request a refund など名詞用法が中心"
+ },
+ {
+  "headword": "refund",
+  "field": "glossShort",
+  "before": "払い戻す",
+  "after": "返金",
+  "reason": "名詞に合わせた。購入品の払い戻しで最も一般的な訳"
+ },
+ {
+  "headword": "refund",
+  "field": "glosses",
+  "before": [
+   "払い戻す",
+   "返金する"
+  ],
+  "after": [
+   "返金、払い戻し"
+  ],
+  "reason": "名詞に合わせた"
+ },
+ {
+  "headword": "refund",
+  "field": "example.en",
+  "before": "The store will refund your money within a week.",
+  "after": "You can get a full refund within thirty days of purchase.",
+  "reason": "名詞用法の例文にした"
+ },
+ {
+  "headword": "refund",
+  "field": "example.ja",
+  "before": "その店は1週間以内に代金を払い戻します。",
+  "after": "購入から30日以内であれば、全額返金を受けられます。",
+  "reason": "例文の変更に合わせた"
+ },
+ {
+  "headword": "refund",
+  "field": "note",
+  "before": "名詞で「払い戻し、返金」としても頻出",
+  "after": "動詞で「払い戻す、返金する」の意味も",
+  "reason": "品詞の変更に合わせ、動詞用法を注記した"
+ },
+ {
+  "headword": "merchandise",
+  "field": "glossShort",
+  "before": "商品",
+  "after": "店の商品",
+  "reason": "goods（品物）とほぼ同義のため、4択で並んでも区別できるよう「店で売る商品」に限定した"
+ },
+ {
+  "headword": "merchandise",
+  "field": "glosses",
+  "before": [
+   "商品"
+  ],
+  "after": [
+   "店の商品、売り物"
+  ],
+  "reason": "glossShort の変更に合わせた"
+ },
+ {
+  "headword": "luggage",
+  "field": "glossShort",
+  "before": "旅行の荷物",
+  "after": "旅行かばん類",
+  "reason": "baggage（手荷物）とほぼ同義のため、かばん類そのものを指す訳で書き分けた。「類」で数えられない集合名詞であることと suitcase との違いも示す"
+ },
+ {
+  "headword": "luggage",
+  "field": "glosses",
+  "before": [
+   "旅行の荷物"
+  ],
+  "after": [
+   "旅行かばん類、旅行の荷物"
+  ],
+  "reason": "glossShort の変更に合わせた"
+ },
+ {
+  "headword": "luggage",
+  "field": "example.ja",
+  "before": "ここに旅行の荷物を置いたままにしないでください。",
+  "after": "ここに旅行かばん類を置いたままにしないでください。",
+  "reason": "glossShort の変更に合わせた"
+ },
+ {
+  "headword": "baggage",
+  "field": "note",
+  "before": "数えられない名詞。luggage とほぼ同じ",
+  "after": "数えられない名詞。baggage claim＝手荷物受取所",
+  "reason": "luggage との書き分けに合わせ、glossShort「手荷物」が使われる空港での代表的な言い方を示した"
+ },
+ {
+  "headword": "rental",
+  "field": "glossShort",
+  "before": "賃貸",
+  "after": "レンタル",
+  "reason": "「賃貸」は貸す側の語で、定義（使用料を払って借りること）や例文（自転車のレンタル）と合わない"
+ },
+ {
+  "headword": "rental",
+  "field": "glosses",
+  "before": [
+   "賃貸、レンタル",
+   "賃貸料"
+  ],
+  "after": [
+   "レンタル、借りること",
+   "レンタル料、使用料"
+  ],
+  "reason": "glossShort の変更に合わせた"
+ },
+ {
+  "headword": "exit",
+  "field": "pos",
+  "before": "verb",
+  "after": "noun",
+  "reason": "TOEIC では emergency exit や案内表示など名詞「出口」が最も多い。depart（出発する）との4択の紛れも避けられる"
+ },
+ {
+  "headword": "exit",
+  "field": "glossShort",
+  "before": "外に出る",
+  "after": "出口",
+  "reason": "名詞に合わせた"
+ },
+ {
+  "headword": "exit",
+  "field": "glosses",
+  "before": [
+   "外に出る",
+   "退出する"
+  ],
+  "after": [
+   "出口",
+   "退出"
+  ],
+  "reason": "名詞に合わせた"
+ },
+ {
+  "headword": "exit",
+  "field": "example.en",
+  "before": "Please exit the building by the side door.",
+  "after": "The nearest exit is next to the elevator.",
+  "reason": "名詞用法の例文にした"
+ },
+ {
+  "headword": "exit",
+  "field": "example.ja",
+  "before": "横のドアから建物の外に出てください。",
+  "after": "いちばん近い出口はエレベーターの隣です。",
+  "reason": "例文の変更に合わせた"
+ },
+ {
+  "headword": "exit",
+  "field": "note",
+  "before": "名詞で「出口」の意味も多い",
+  "after": "動詞で「外に出る、退出する」の意味も",
+  "reason": "品詞の変更に合わせ、動詞用法を注記した"
+ },
+ {
+  "headword": "receptionist",
+  "field": "example.en",
+  "before": "The receptionist will give you a visitor card.",
+  "after": "The receptionist will give you a visitor pass.",
+  "reason": "来客用の入館証は visitor card より visitor pass が自然"
+ },
+ {
+  "headword": "receptionist",
+  "field": "example.ja",
+  "before": "受付係が来客用のカードをお渡しします。",
+  "after": "受付係が来客用の入館証をお渡しします。",
+  "reason": "例文の変更に合わせた"
+ }
+]

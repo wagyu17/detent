@@ -1,0 +1,183 @@
+[
+ {
+  "headword": "plausible",
+  "field": "example.ja",
+  "before": "彼女の理論は、その変化にもっともらしい理由を示している。",
+  "after": "彼女の理論は、その変化のもっともらしい理由を示している。",
+  "reason": "「その変化に…理由を示している」は日本語として不自然なため、「その変化の…理由」に直した"
+ },
+ {
+  "headword": "precipitation",
+  "field": "note",
+  "before": "",
+  "after": "雪やひょうも含む。雨だけなら rainfall",
+  "reason": "同じ束の rainfall（降雨量）と紛らわしいため、雨以外も含むという違いを注記した"
+ },
+ {
+  "headword": "socialize",
+  "field": "glossShort",
+  "before": "人と交流する",
+  "after": "〜を社会化する",
+  "reason": "公式定義の第1義は「文化に合った振る舞いを身につけさせる」で、学術英語（社会学・教育学・心理学）では children are socialized のような「社会化する」の用法が中心。学術英語の学習者に最も役立つ意味に合わせた"
+ },
+ {
+  "headword": "socialize",
+  "field": "glosses",
+  "before": [
+   "人と交流する、付き合う",
+   "社会に適応させる"
+  ],
+  "after": [
+   "〜を社会化する、社会に適応させる",
+   "人と交流する、付き合う"
+  ],
+  "reason": "glossShort の変更に合わせ、日常的な「人と交流する」は第2義に回した"
+ },
+ {
+  "headword": "socialize",
+  "field": "example.en",
+  "before": "Students often socialize with classmates after the lecture.",
+  "after": "Children are socialized by their families and schools.",
+  "reason": "glossShort の意味（社会化する）で使う例文に作り直した"
+ },
+ {
+  "headword": "socialize",
+  "field": "example.ja",
+  "before": "学生たちは講義の後、よくクラスメートと交流する。",
+  "after": "子どもは家族や学校によって社会化される。",
+  "reason": "例文の変更に合わせた"
+ },
+ {
+  "headword": "socialize",
+  "field": "note",
+  "before": "社会学では「社会化する」の意で使う",
+  "after": "日常では「人と交流する」の意で使う",
+  "reason": "第2義（日常的な用法）を注記した"
+ },
+ {
+  "headword": "hepatitis",
+  "field": "sensitive",
+  "before": null,
+  "after": true,
+  "reason": "病名（肝炎）で病気に強く結びつき、正解時に祝う演出がそぐわない"
+ },
+ {
+  "headword": "sperm",
+  "field": "sensitive",
+  "before": null,
+  "after": true,
+  "reason": "性（生殖）に強く結びつく語で、正解時に祝う演出がそぐわない"
+ },
+ {
+  "headword": "chemotherapy",
+  "field": "sensitive",
+  "before": null,
+  "after": true,
+  "reason": "がんなどの病気の治療法で病気に強く結びつき、正解時に祝う演出がそぐわない"
+ },
+ {
+  "headword": "confound",
+  "field": "note",
+  "before": "研究では「交絡させる」の意で使う",
+  "after": "統計では「交絡させる」の意で使う",
+  "reason": "例文は研究の場面で「困惑させる」の意なので、「研究では交絡させるの意」だと矛盾して読める。交絡は統計・研究デザインの用語であることを明確にした"
+ },
+ {
+  "headword": "null",
+  "field": "example.ja",
+  "before": "その試験では効果のない結果が出たので、もう一度試した。",
+  "after": "その試験では効果が見られないという結果が出たので、もう一度試した。",
+  "reason": "「効果のない結果」は日本語として不自然。null result（効果なしという結果）の意味が伝わる訳にした"
+ },
+ {
+  "headword": "primer",
+  "field": "note",
+  "before": "",
+  "after": "分子生物学では「プライマー」の意も",
+  "reason": "学術英語では分子生物学（PCR など）の primer も頻出するため注記した"
+ },
+ {
+  "headword": "consonant",
+  "field": "pos",
+  "before": "adj",
+  "after": "noun",
+  "reason": "公式定義は「母音でない音・文字」で名詞。posHint（adj）と jHint（一致した）は定義と食い違う。同じ束に vowel（母音）があり、学術英語でも名詞「子音」のほうがはるかに頻出するため名詞にした"
+ },
+ {
+  "headword": "consonant",
+  "field": "glossShort",
+  "before": "一致した",
+  "after": "子音",
+  "reason": "品詞の変更に合わせた（vowel＝母音と対になる）"
+ },
+ {
+  "headword": "consonant",
+  "field": "glosses",
+  "before": [
+   "一致した、調和した"
+  ],
+  "after": [
+   "子音、子音字"
+  ],
+  "reason": "glossShort の変更に合わせた（公式定義の「母音でない文字」も含めた）"
+ },
+ {
+  "headword": "consonant",
+  "field": "example.en",
+  "before": "These findings are consonant with earlier studies.",
+  "after": "Some English words begin with three consonants, like 'street'.",
+  "reason": "名詞「子音」の意味で使う例文に作り直した"
+ },
+ {
+  "headword": "consonant",
+  "field": "example.ja",
+  "before": "これらの結果は、以前の研究と一致している。",
+  "after": "street のように、3つの子音で始まる英単語もある。",
+  "reason": "例文の変更に合わせた"
+ },
+ {
+  "headword": "consonant",
+  "field": "note",
+  "before": "名詞では「子音」の意味",
+  "after": "対は vowel（母音）。形容詞では「一致した」",
+  "reason": "名詞にしたため、対の語と形容詞の用法（be consonant with）を注記した"
+ },
+ {
+  "headword": "wavelength",
+  "field": "glosses",
+  "before": [
+   "波長",
+   "考え方の波長"
+  ],
+  "after": [
+   "波長",
+   "考え方の一致"
+  ],
+  "reason": "「考え方の波長」は不自然な直訳。公式定義の a shared understanding（考え方の一致）に合わせた"
+ },
+ {
+  "headword": "micro",
+  "field": "pos",
+  "before": "noun",
+  "after": "adj",
+  "reason": "単独の micro は「微小な・ミクロの」の意の形容詞で、例文（at the micro level）も名詞を修飾する用法。posHint（n）は接頭辞を便宜上名詞としたもので、品詞を意味と用法に合わせた"
+ },
+ {
+  "headword": "micro",
+  "field": "glossShort",
+  "before": "ミクロ",
+  "after": "ミクロの",
+  "reason": "品詞（形容詞）に合わせて「〜の」の形にした"
+ },
+ {
+  "headword": "micro",
+  "field": "glosses",
+  "before": [
+   "ミクロ、微小な規模"
+  ],
+  "after": [
+   "ミクロの、微小な"
+  ],
+  "reason": "glossShort の変更に合わせた"
+ }
+]

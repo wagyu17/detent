@@ -1,0 +1,188 @@
+[
+ {
+  "headword": "conveniently",
+  "field": "glossShort",
+  "before": "都合よく",
+  "after": "便利に",
+  "reason": "TOEICで最も多い conveniently located（便利な場所にある）と公式定義 in a manner that is easy に合う意味を代表訳にした（都合よくは2番目へ）"
+ },
+ {
+  "headword": "conveniently",
+  "field": "glosses",
+  "before": [
+   "都合よく",
+   "便利に"
+  ],
+  "after": [
+   "便利に",
+   "都合よく"
+  ],
+  "reason": "代表訳の変更に合わせて順序を入れ替えた"
+ },
+ {
+  "headword": "conveniently",
+  "field": "example.en",
+  "before": "The bus stop is conveniently right in front of my office.",
+  "after": "Our new office is conveniently located near the station.",
+  "reason": "代表訳（便利に）と最頻の語法 conveniently located を示す例文に差し替えた"
+ },
+ {
+  "headword": "conveniently",
+  "field": "example.ja",
+  "before": "都合のいいことに、バス停は会社のすぐ前にあります。",
+  "after": "新しいオフィスは、駅の近くの便利な場所にあります。",
+  "reason": "例文の差し替えに合わせた"
+ },
+ {
+  "headword": "handy",
+  "field": "glossShort",
+  "before": "便利な",
+  "after": "役に立つ",
+  "reason": "conveniently（便利に）と同じ束で品詞違いの同じ訳になるのを避けた（TSLの convenient も「便利な」）。公式定義 useful と come in handy に合う訳にした"
+ },
+ {
+  "headword": "handy",
+  "field": "glosses",
+  "before": [
+   "便利な、役に立つ",
+   "手近な"
+  ],
+  "after": [
+   "役に立つ、便利な",
+   "手近な"
+  ],
+  "reason": "代表訳の変更に合わせた"
+ },
+ {
+  "headword": "handy",
+  "field": "example.ja",
+  "before": "この小さなかばんは、短い出張に便利です。",
+  "after": "この小さなかばんは、短い出張のときに役に立ちます。",
+  "reason": "和訳の見出し語の訳を代表訳に対応させた"
+ },
+ {
+  "headword": "handy",
+  "field": "note",
+  "before": "",
+  "after": "come in handy＝役に立つ",
+  "reason": "よく出る語法を補った"
+ },
+ {
+  "headword": "stapler",
+  "field": "glossShort",
+  "before": "ホチキス",
+  "after": "ステープラー",
+  "reason": "商標由来の語（ホチキス）より一般名詞を優先した"
+ },
+ {
+  "headword": "stapler",
+  "field": "glosses",
+  "before": [
+   "ホチキス、ステープラー"
+  ],
+  "after": [
+   "ステープラー"
+  ],
+  "reason": "一般名詞だけにした（通称は用法メモへ）"
+ },
+ {
+  "headword": "stapler",
+  "field": "example.ja",
+  "before": "ちょっとホチキスをお借りしてもいいですか。",
+  "after": "ちょっとステープラーをお借りしてもいいですか。",
+  "reason": "代表訳の変更に合わせた"
+ },
+ {
+  "headword": "stapler",
+  "field": "note",
+  "before": "",
+  "after": "日本では「ホチキス」とも呼ぶ",
+  "reason": "学習者が物を特定できるよう、通称を用法メモに移した"
+ },
+ {
+  "headword": "energetic",
+  "field": "glossShort",
+  "before": "精力的な",
+  "after": "元気いっぱいの",
+  "reason": "dynamic（活力のある）と4択で紛れるため、energy（元気）の意味が分かる訳にした"
+ },
+ {
+  "headword": "energetic",
+  "field": "glosses",
+  "before": [
+   "精力的な、元気な"
+  ],
+  "after": [
+   "元気いっぱいの、精力的な"
+  ],
+  "reason": "代表訳の変更に合わせた"
+ },
+ {
+  "headword": "energetic",
+  "field": "example.ja",
+  "before": "営業チームには、精力的な人に来てほしいと考えています。",
+  "after": "営業チームには、元気いっぱいの人に来てほしいと考えています。",
+  "reason": "和訳の見出し語の訳を代表訳に対応させた"
+ },
+ {
+  "headword": "dynamic",
+  "field": "glossShort",
+  "before": "活力のある",
+  "after": "活気のある",
+  "reason": "energetic と紛れないよう、会社・職場の活気を表す訳にした（dynamic company などの語法）"
+ },
+ {
+  "headword": "dynamic",
+  "field": "glosses",
+  "before": [
+   "活力のある、活動的な",
+   "変化し続ける"
+  ],
+  "after": [
+   "活気のある、活動的な",
+   "変化し続ける"
+  ],
+  "reason": "代表訳の変更に合わせた"
+ },
+ {
+  "headword": "dynamic",
+  "field": "example.ja",
+  "before": "当社は、大きな計画を持つ若くて活力のある会社です。",
+  "after": "当社は、大きな計画を持つ若くて活気のある会社です。",
+  "reason": "和訳の見出し語の訳を代表訳に対応させた"
+ },
+ {
+  "headword": "staple",
+  "field": "glossShort",
+  "before": "ホチキスの針",
+  "after": "ステープラーの針",
+  "reason": "商標由来の語（ホチキス）より一般名詞を優先した（stapler と統一）"
+ },
+ {
+  "headword": "staple",
+  "field": "glosses",
+  "before": [
+   "ホチキスの針",
+   "主要産物、主食"
+  ],
+  "after": [
+   "ステープラーの針",
+   "主要産物、主食"
+  ],
+  "reason": "代表訳の変更に合わせた"
+ },
+ {
+  "headword": "staple",
+  "field": "example.ja",
+  "before": "事務所用に、ホチキスの針をもっと注文する必要があります。",
+  "after": "事務所用に、ステープラーの針をもっと注文する必要があります。",
+  "reason": "代表訳の変更に合わせた"
+ },
+ {
+  "headword": "staple",
+  "field": "note",
+  "before": "動詞で「ホチキスで留める」",
+  "after": "動詞で「ステープラーで留める」",
+  "reason": "一般名詞に統一した"
+ }
+]

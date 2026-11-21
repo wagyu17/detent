@@ -1,0 +1,792 @@
+{
+ "checked": 2200,
+ "flagged": [
+  {
+   "batch": "nawl_01",
+   "headword": "goodness",
+   "pos": "noun",
+   "ours": [
+    "良さ",
+    "良さ",
+    "善良さ"
+   ],
+   "reference": "(一般に)『優秀さ』,質のよさ,よい状態 / (人の)『親切』,優しさ,寛容,親切 / (食物などの)『よいところ』,精髄,滋養分 / 《Godを遠回しに言って驚きを表す句に用いて》 よいこと"
+  },
+  {
+   "batch": "nawl_01",
+   "headword": "cheers",
+   "pos": "noun",
+   "ours": [
+    "歓声",
+    "歓声",
+    "声援"
+   ],
+   "reference": "(健康を祝して)乾杯 / ありがとう / (特に電話で)ではまた 乾杯"
+  },
+  {
+   "batch": "nawl_01",
+   "headword": "clever",
+   "pos": "adj",
+   "ours": [
+    "賢い",
+    "賢い",
+    "巧妙な"
+   ],
+   "reference": "『利口な』,頭のよい,才気のある,気のきいた / 『器用な』,じょうずな(skillful) 利口な"
+  },
+  {
+   "batch": "nawl_01",
+   "headword": "rub",
+   "pos": "verb",
+   "ours": [
+    "〜をこする",
+    "〜をこする",
+    "〜をすり込む"
+   ],
+   "reference": "〈物の表面など〉を『こする』,さする / (…に)…をこすりつける《+名+『against(on, over)』+名》;(…に)…をすりこむ《+『名』+『in』(『into, on』)+『名』》 / 〈二つの物〉をこすり合わせる《+『名』+『together,』+『together』+『名』》 / …をこすり落とす《+"
+  },
+  {
+   "batch": "nawl_02",
+   "headword": "marginal",
+   "pos": "adj",
+   "ours": [
+    "わずかな",
+    "わずかな",
+    "周辺的な"
+   ],
+   "reference": "縁の,へりの / 限界の,ぎりぎりの,かろうじて要件を満たす / 《名詞の前にのみ用いて》余白に書いた,欄外の / かろうじて帳じりの合う,限界収益点の / 取るに足りない,小さな 縁の；余白の"
+  },
+  {
+   "batch": "nawl_05",
+   "headword": "whereby",
+   "pos": "adv",
+   "ours": [
+    "それによって〜する",
+    "それによって〜する"
+   ],
+   "reference": "[…の手段によって] / …によって…するところの(according to which) それによって～する"
+  },
+  {
+   "batch": "nawl_05",
+   "headword": "micro",
+   "pos": "adj",
+   "ours": [
+    "ミクロの",
+    "ミクロの、微小な"
+   ],
+   "reference": "マイクロ"
+  },
+  {
+   "batch": "nawl_05",
+   "headword": "neo",
+   "pos": "noun",
+   "ours": [
+    "新〜",
+    "新〜、新しい形の"
+   ],
+   "reference": "ネオ"
+  },
+  {
+   "batch": "tsl_01",
+   "headword": "upcoming",
+   "pos": "adj",
+   "ours": [
+    "今度の",
+    "今度の",
+    "近く行われる"
+   ],
+   "reference": "なって来る,やがて起こる(現れる),まもなく公開される"
+  },
+  {
+   "batch": "tsl_01",
+   "headword": "folder",
+   "pos": "noun",
+   "ours": [
+    "フォルダー",
+    "フォルダー",
+    "書類ばさみ"
+   ],
+   "reference": "紙ばさみ / (印刷した1枚の紙を数ページに折り畳んだ)折り本;折り畳み広告,折り畳み時間表,折り畳み地図 / 折り畳む人;(紙などの)折り畳み機"
+  },
+  {
+   "batch": "tsl_02",
+   "headword": "password",
+   "pos": "noun",
+   "ours": [
+    "パスワード",
+    "パスワード"
+   ],
+   "reference": "(敵味方を識別する)合い言葉(watchword)"
+  },
+  {
+   "batch": "tsl_02",
+   "headword": "delicious",
+   "pos": "adj",
+   "ours": [
+    "とてもおいしい",
+    "とてもおいしい"
+   ],
+   "reference": "『おいしい』 / 香りのよい / 喜ばしい,快い"
+  },
+  {
+   "batch": "tsl_02",
+   "headword": "waitress",
+   "pos": "noun",
+   "ours": [
+    "ウェイトレス",
+    "ウェイトレス"
+   ],
+   "reference": "(レストランなどの)『女給仕人』,ウエートレス"
+  },
+  {
+   "batch": "tsl_02",
+   "headword": "subscribe",
+   "pos": "verb",
+   "ours": [
+    "定期購読する",
+    "定期購読する",
+    "加入する"
+   ],
+   "reference": "(雑誌・切符などを)『予約する』《+to(for)+名》 / (…に)『寄付(出資)を約束する』,寄付(出資)する《+to(for)+名》,(…を)寄付する《+for+名》 / (書類などの終りに)署名する《+to+名》 / (…に)同意する,賛成する《+to+名》 / (…に)〈金〉の寄付(支払い)を約束する,を寄付"
+  },
+  {
+   "batch": "tsl_02",
+   "headword": "trainer",
+   "pos": "noun",
+   "ours": [
+    "指導員",
+    "指導員"
+   ],
+   "reference": "訓練する人,仕込む人,(運動選手の)トレーナー,調教師"
+  },
+  {
+   "batch": "tsl_02",
+   "headword": "trainee",
+   "pos": "noun",
+   "ours": [
+    "研修生",
+    "研修生"
+   ],
+   "reference": "訓練(特に職業訓練)を受けている人,徒弟,見習い / 《米》(軍事教練を受ける)新兵"
+  },
+  {
+   "batch": "tsl_02",
+   "headword": "seldom",
+   "pos": "adv",
+   "ours": [
+    "めったに〜しない",
+    "めったに〜しない"
+   ],
+   "reference": "『めったに』…『ない』,まれに"
+  },
+  {
+   "batch": "tsl_02",
+   "headword": "suite",
+   "pos": "noun",
+   "ours": [
+    "スイートルーム",
+    "スイートルーム",
+    "ひとそろい"
+   ],
+   "reference": "(ホテルなどで寝室・居間・客間などの)一続きの豪華な部屋 / (家具などの)一そろい,一組 / (いっしょに使われるものの)一続き,一組,一そろい / (楽曲の一形式である)組曲 / 《集合的に》《まれ》随行員,従者の一行"
+  },
+  {
+   "batch": "tsl_02",
+   "headword": "calculator",
+   "pos": "noun",
+   "ours": [
+    "電卓",
+    "電卓"
+   ],
+   "reference": "計算者 / 計算器機(=calculating machine) 計算機 計算機"
+  },
+  {
+   "batch": "tsl_02",
+   "headword": "occupancy",
+   "pos": "noun",
+   "ours": [
+    "入居",
+    "入居",
+    "稼働率"
+   ],
+   "reference": "(家・土地などの)占有 / 占有期間"
+  },
+  {
+   "batch": "tsl_02",
+   "headword": "voucher",
+   "pos": "noun",
+   "ours": [
+    "引換券",
+    "引換券",
+    "割引券"
+   ],
+   "reference": "(受領・支払いの)証書,受領証・証拠物件 / 保証人,証人"
+  },
+  {
+   "batch": "tsl_02",
+   "headword": "behalf",
+   "pos": "noun",
+   "ours": [
+    "代理",
+    "代理"
+   ],
+   "reference": "大義, 大目的; 支持, 利益; 《古》 点, 面"
+  },
+  {
+   "batch": "tsl_02",
+   "headword": "sightsee",
+   "pos": "verb",
+   "ours": [
+    "観光する",
+    "観光する"
+   ],
+   "reference": "見物(遊覧)する"
+  },
+  {
+   "batch": "tsl_02",
+   "headword": "internship",
+   "pos": "noun",
+   "ours": [
+    "就業体験",
+    "就業体験"
+   ],
+   "reference": "インターンとしての勤務期間"
+  },
+  {
+   "batch": "tsl_03",
+   "headword": "jog",
+   "pos": "verb",
+   "ours": [
+    "ジョギングする",
+    "ジョギングする"
+   ],
+   "reference": "…を軽く揺り動かす;…をちょっと押す(突く) / 〈記憶など〉を呼び起こす,刺激する / (特に健康法として)ゆっくり走る / とぼとぼと歩き続ける《+『on』(『along』)》 / 軽い揺さぶり(つつき,刺激) / てくてく(ことこと)歩き;(馬の)緩歩(jog trot)"
+  },
+  {
+   "batch": "tsl_03",
+   "headword": "rearrange",
+   "pos": "verb",
+   "ours": [
+    "並べ替える",
+    "並べ替える",
+    "予定を変更する"
+   ],
+   "reference": "(以前とは別の様式で)…を整理し直す,配列し直す"
+  },
+  {
+   "batch": "tsl_04",
+   "headword": "parade",
+   "pos": "noun",
+   "ours": [
+    "パレード",
+    "パレード"
+   ],
+   "reference": "〈C〉〈U〉『行進』,『行列』;示威行進,団体行進 / 〈C〉(多くの人・車などの)長い列,行列《+『of』+『名』》 / 〈C〉(…の)見せびらかし,誇示;(これ見よがしの)陳列《+『of』+『名』》 / 〈C〉観兵式;観兵式場 / 〈C〉(海岸などの)遊歩道;歩行者の群れ,人波 / 『列を作って行進する』,練り歩く"
+  },
+  {
+   "batch": "tsl_04",
+   "headword": "removal",
+   "pos": "noun",
+   "ours": [
+    "除去",
+    "除去"
+   ],
+   "reference": "(…か,…を)移動すること《+『of』+『名』》 / 移転,引っ越し / (…の)解任,免職(dismissal)《+『of』+『名』》"
+  },
+  {
+   "batch": "tsl_04",
+   "headword": "generic",
+   "pos": "adj",
+   "ours": [
+    "汎用の",
+    "汎用の",
+    "ノーブランドの"
+   ],
+   "reference": "(生物分類上の)属(genus)の / ある種類(群)全体にあてはまる / (商品が)特定銘柄品でない / (文法で)総称的な"
+  },
+  {
+   "batch": "tsl_04",
+   "headword": "mild",
+   "pos": "adj",
+   "ours": [
+    "穏やかな",
+    "穏やかな",
+    "辛くない"
+   ],
+   "reference": "(人,人の気性・態度などが)『柔和な』,ものやわらかな,温和な / (程度・力・効果などが)『適度な』,ほどよい / (病気などが)そんなにひどくない,軽い / (気温が)おだやかな / (味・においが)強くない,ぴりぴりしない / マイルド(苦みの少ないビールの一種)"
+  },
+  {
+   "batch": "tsl_04",
+   "headword": "recruitment",
+   "pos": "noun",
+   "ours": [
+    "採用",
+    "人材の採用"
+   ],
+   "reference": "新兵徴募,新会員募集;《古》補充,補強"
+  },
+  {
+   "batch": "tsl_04",
+   "headword": "referral",
+   "pos": "noun",
+   "ours": [
+    "紹介",
+    "紹介"
+   ],
+   "reference": "〈U〉参照(照会,委託,言及)すること;〈C〉参照(照会,委託,言及)された人(事) / 〈C〉推薦された人"
+  },
+  {
+   "batch": "tsl_04",
+   "headword": "concierge",
+   "pos": "noun",
+   "ours": [
+    "コンシェルジュ",
+    "コンシェルジュ"
+   ],
+   "reference": "ホテルのフロントスタッフ〈C〉"
+  },
+  {
+   "batch": "tsl_04",
+   "headword": "irritate",
+   "pos": "verb",
+   "ours": [
+    "〜をいらいらさせる",
+    "〜をいらいらさせる"
+   ],
+   "reference": "…を『怒らせる』,『いらだたせる』 / …を刺激する;…に炎症を起こさせる"
+  },
+  {
+   "batch": "tsl_05",
+   "headword": "compatible",
+   "pos": "adj",
+   "ours": [
+    "互換性のある",
+    "互換性のある",
+    "相性が良い"
+   ],
+   "reference": "(…と)両立できる,矛盾のない《+『with』+『名』》"
+  },
+  {
+   "batch": "tsl_05",
+   "headword": "stapler",
+   "pos": "noun",
+   "ours": [
+    "ステープラー",
+    "ステープラー"
+   ],
+   "reference": "製本機,針金つづり機,ホッチキス"
+  },
+  {
+   "batch": "tsl_05",
+   "headword": "browse",
+   "pos": "verb",
+   "ours": [
+    "見て回る",
+    "見て回る、ざっと見る",
+    "閲覧する"
+   ],
+   "reference": "《副詞[句]を伴って》漫然とながめる,ざっと目を通す / 〈牛・シカなどが〉若葉(新芽)を食べる,草を食べる / …に若葉(新芽)を食べさせる;〈若葉・新芽〉を食べる / (牛・シカなどが食べる)草,細枝,新芽"
+  },
+  {
+   "batch": "tsl_05",
+   "headword": "bye",
+   "pos": "interj",
+   "ours": [
+    "じゃあね",
+    "じゃあね、さようなら"
+   ],
+   "reference": "二の次の事(物) / 付随的な,副次的な / バイ(クリケットで打者が打たない球が守備者を通り越した場合の得点)"
+  },
+  {
+   "batch": "tsl_05",
+   "headword": "hesitant",
+   "pos": "adj",
+   "ours": [
+    "ためらいがちな",
+    "ためらいがちな",
+    "気が進まない"
+   ],
+   "reference": "ちゅうちょする;(…を)ためらう《+about+名(doing)》 / 口ごもる"
+  },
+  {
+   "batch": "tsl_05",
+   "headword": "dispose",
+   "pos": "verb",
+   "ours": [
+    "処分する",
+    "処分する、捨てる"
+   ],
+   "reference": "(…に備えて)…を『配置する』,整える(arrange)《+『名』+『for』+『名』(do『ing』)》 / 《『dispose』+『名』+『to』 do》〈人〉を(…する)『気にさせる』 / (…に)〈人〉が影響されやすいようにする,(…の影響を)〈人〉が受けやすいようにする《+『名』〈人〉+『to』+『名』》"
+  },
+  {
+   "batch": "tsl_05",
+   "headword": "whale",
+   "pos": "noun",
+   "ours": [
+    "クジラ",
+    "クジラ"
+   ],
+   "reference": "鯨: 捕鯨に従事する 〔話〕 非常に大きい[すごい]もの (a ～ at [for, on] …の得意[熱心]な人) / (棒・むち・手などで)…を打つ,打ちのめす,ひどく打つ / …を打ち負かす"
+  },
+  {
+   "batch": "tsl_06",
+   "headword": "pillow",
+   "pos": "noun",
+   "ours": [
+    "枕",
+    "枕"
+   ],
+   "reference": "『まくら』 / (まくらなどに)〈頭〉を載せる《+『名』+『on』(『in』)+『名』》 / 〈頭など〉のまくらになる"
+  },
+  {
+   "batch": "tsl_06",
+   "headword": "brainstorm",
+   "pos": "verb",
+   "ours": [
+    "アイデアを出し合う",
+    "アイデアを出し合う",
+    "ブレーンストーミング"
+   ],
+   "reference": "(突然の一時的な)精神錯乱 / 《米話》ひらめき,突然浮かんだ名案"
+  },
+  {
+   "batch": "tsl_06",
+   "headword": "cordless",
+   "pos": "adj",
+   "ours": [
+    "コードレスの",
+    "コードレスの"
+   ],
+   "reference": "ひものない;(電気器具が)コード(線)不要の,(特に)電池式の"
+  },
+  {
+   "batch": "tsl_06",
+   "headword": "reassure",
+   "pos": "verb",
+   "ours": [
+    "安心させる",
+    "安心させる"
+   ],
+   "reference": "〈人〉に自信を取り戻させる"
+  },
+  {
+   "batch": "tsl_06",
+   "headword": "superb",
+   "pos": "adj",
+   "ours": [
+    "見事な",
+    "見事な、最高の"
+   ],
+   "reference": "(形・内容などが)りっぱな,一流の / (建物などが)堂々とした,壮麗な / (衣装などが)豪華な,目もあやな"
+  },
+  {
+   "batch": "tsl_07",
+   "headword": "cheeseburger",
+   "pos": "noun",
+   "ours": [
+    "チーズバーガー",
+    "チーズバーガー"
+   ],
+   "reference": "チーズをのせたハンバーガー"
+  },
+  {
+   "batch": "tsl_07",
+   "headword": "impatient",
+   "pos": "adj",
+   "ours": [
+    "せっかちな",
+    "せっかちな、いらいらした",
+    "〜したくてたまらない"
+   ],
+   "reference": "『我慢しきれない』,もどかしそうな,性急な / 《補語にのみ用いて》『待ちかねて』,切望して"
+  },
+  {
+   "batch": "tsl_07",
+   "headword": "jeans",
+   "pos": "noun",
+   "ours": [
+    "ジーンズ",
+    "ジーンズ"
+   ],
+   "reference": "〈U〉ジーン布(じょうぶなあや織りの綿布) / 《複数形で》ジーパン;(ジーン布製の)作業服"
+  },
+  {
+   "batch": "tsl_07",
+   "headword": "oblige",
+   "pos": "verb",
+   "ours": [
+    "余儀なくさせる",
+    "余儀なくさせる、〜せざるを得なくさせる",
+    "〜の頼みを聞く"
+   ],
+   "reference": "〈人〉に『義務を負わせる』,強制する / 〈人〉に親切にする,の願いをかなえる"
+  },
+  {
+   "batch": "tsl_07",
+   "headword": "abide",
+   "pos": "verb",
+   "ours": [
+    "〜に従う",
+    "〜に従う、〜を守る",
+    "〜を我慢する"
+   ],
+   "reference": "(ある状態に)とどまる;残る / 住む / 《まれ》…をじっと待つ / 《否定文・疑問文で》…をがまんする,に耐える"
+  },
+  {
+   "batch": "tsl_07",
+   "headword": "hereby",
+   "pos": "adv",
+   "ours": [
+    "これにより",
+    "これにより、ここに"
+   ],
+   "reference": "これによって"
+  }
+ ],
+ "noReference": [
+  {
+   "batch": "tsl_01",
+   "headword": "e-book"
+  },
+  {
+   "batch": "tsl_01",
+   "headword": "fax"
+  },
+  {
+   "batch": "tsl_01",
+   "headword": "cellphone"
+  },
+  {
+   "batch": "tsl_01",
+   "headword": "reschedule"
+  },
+  {
+   "batch": "tsl_01",
+   "headword": "tactic"
+  },
+  {
+   "batch": "tsl_01",
+   "headword": "laptop"
+  },
+  {
+   "batch": "tsl_01",
+   "headword": "attendee"
+  },
+  {
+   "batch": "tsl_01",
+   "headword": "café"
+  },
+  {
+   "batch": "tsl_01",
+   "headword": "distractor"
+  },
+  {
+   "batch": "tsl_01",
+   "headword": "workplace"
+  },
+  {
+   "batch": "tsl_01",
+   "headword": "innovative"
+  },
+  {
+   "batch": "tsl_01",
+   "headword": "logo"
+  },
+  {
+   "batch": "tsl_02",
+   "headword": "download"
+  },
+  {
+   "batch": "tsl_02",
+   "headword": "affordable"
+  },
+  {
+   "batch": "tsl_02",
+   "headword": "taker"
+  },
+  {
+   "batch": "tsl_02",
+   "headword": "conditioner"
+  },
+  {
+   "batch": "tsl_03",
+   "headword": "efficiently"
+  },
+  {
+   "batch": "tsl_03",
+   "headword": "desktop"
+  },
+  {
+   "batch": "tsl_03",
+   "headword": "spokesperson"
+  },
+  {
+   "batch": "tsl_03",
+   "headword": "airfare"
+  },
+  {
+   "batch": "tsl_03",
+   "headword": "businessperson"
+  },
+  {
+   "batch": "tsl_03",
+   "headword": "login"
+  },
+  {
+   "batch": "tsl_03",
+   "headword": "recruiter"
+  },
+  {
+   "batch": "tsl_04",
+   "headword": "internet"
+  },
+  {
+   "batch": "tsl_04",
+   "headword": "unspecified"
+  },
+  {
+   "batch": "tsl_04",
+   "headword": "periodically"
+  },
+  {
+   "batch": "tsl_04",
+   "headword": "alternatively"
+  },
+  {
+   "batch": "tsl_04",
+   "headword": "unavailable"
+  },
+  {
+   "batch": "tsl_04",
+   "headword": "webpage"
+  },
+  {
+   "batch": "tsl_05",
+   "headword": "fundraise"
+  },
+  {
+   "batch": "tsl_05",
+   "headword": "healthcare"
+  },
+  {
+   "batch": "tsl_05",
+   "headword": "repairperson"
+  },
+  {
+   "batch": "tsl_05",
+   "headword": "spreadsheet"
+  },
+  {
+   "batch": "tsl_05",
+   "headword": "toner"
+  },
+  {
+   "batch": "tsl_05",
+   "headword": "urgently"
+  },
+  {
+   "batch": "tsl_05",
+   "headword": "environmentally"
+  },
+  {
+   "batch": "tsl_05",
+   "headword": "telecommunication"
+  },
+  {
+   "batch": "tsl_05",
+   "headword": "internationally"
+  },
+  {
+   "batch": "tsl_06",
+   "headword": "downsize"
+  },
+  {
+   "batch": "tsl_06",
+   "headword": "flextime"
+  },
+  {
+   "batch": "tsl_06",
+   "headword": "homeowner"
+  },
+  {
+   "batch": "tsl_06",
+   "headword": "refundable"
+  },
+  {
+   "batch": "tsl_06",
+   "headword": "misidentify"
+  },
+  {
+   "batch": "tsl_06",
+   "headword": "underway"
+  },
+  {
+   "batch": "tsl_06",
+   "headword": "archive"
+  },
+  {
+   "batch": "tsl_06",
+   "headword": "interactive"
+  },
+  {
+   "batch": "tsl_07",
+   "headword": "salespeople"
+  },
+  {
+   "batch": "tsl_07",
+   "headword": "electronically"
+  },
+  {
+   "batch": "tsl_07",
+   "headword": "euro"
+  },
+  {
+   "batch": "tsl_07",
+   "headword": "hacker"
+  },
+  {
+   "batch": "tsl_07",
+   "headword": "modem"
+  },
+  {
+   "batch": "tsl_07",
+   "headword": "paralegal"
+  },
+  {
+   "batch": "tsl_07",
+   "headword": "redesign"
+  },
+  {
+   "batch": "tsl_07",
+   "headword": "smartphone"
+  },
+  {
+   "batch": "tsl_07",
+   "headword": "by-law"
+  },
+  {
+   "batch": "tsl_07",
+   "headword": "restatement"
+  },
+  {
+   "batch": "tsl_07",
+   "headword": "sunscreen"
+  },
+  {
+   "batch": "tsl_07",
+   "headword": "wellness"
+  },
+  {
+   "batch": "tsl_07",
+   "headword": "timeline"
+  },
+  {
+   "batch": "tsl_07",
+   "headword": "unauthorized"
+  },
+  {
+   "batch": "tsl_07",
+   "headword": "videoconference"
+  }
+ ]
+}
